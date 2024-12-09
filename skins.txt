@@ -10353,7 +10353,7 @@ return {
 	[2061] = {
 		['collection'] = 'collaboration',
 		['id'] = 1504,
-		['name'] = 'Sticker "Planet Play"',
+		['name'] = 'Sticker "Green Planet"',
 	},
 	[2062] = {
 		['collection'] = 'nightmare',
@@ -10418,12 +10418,12 @@ return {
 	[2074] = {
 		['collection'] = 'collaboration',
 		['id'] = 4367,
-		['name'] = 'Graffiti "Planet Play"',
+		['name'] = 'Graffiti "Green Planet"',
 	},
 	[2075] = {
 		['collection'] = 'collaboration',
 		['id'] = 4368,
-		['name'] = 'Graffiti "Planet Play" Packed',
+		['name'] = 'Graffiti "Green Planet" Packed',
 	},
 	[2076] = {
 		['collection'] = 'nightmare',
