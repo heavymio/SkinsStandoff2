@@ -1083,7 +1083,7 @@ return {
 		['collection'] = 'halloween_2020',
 		['contains'] = '5045,5046,5047,5050,5048,5049,5051,5052,5040,5041,5043,5042,5044',
 		['id'] = 901,
-		['name'] = '"Halloween 2020" Charms Pack',
+		['name'] = '"Halloween 2020" Charm Pack',
 	},
 	[ 182] = {
 		['collection'] = 'standoff_2',
@@ -1358,7 +1358,7 @@ return {
 	[ 226] = {
 		['collection'] = 'project_z9',
 		['id'] = 1139,
-		['name'] = 'Sticker "Z9 Mask" Color',
+		['name'] = 'Sticker "Z9 Mask" Swap',
 		['value'] = '6',
 	},
 	[ 227] = {
@@ -1382,7 +1382,7 @@ return {
 	[ 230] = {
 		['collection'] = 'project_z9',
 		['id'] = 1143,
-		['name'] = 'Sticker "Smoke Grenade"',
+		['name'] = 'Sticker "Smoke Grenade" Swap',
 		['value'] = '4',
 	},
 	[ 231] = {
@@ -1394,7 +1394,7 @@ return {
 	[ 232] = {
 		['collection'] = 'project_z9',
 		['id'] = 1145,
-		['name'] = 'Sticker "Toxic" Color',
+		['name'] = 'Sticker "Toxic" Swap',
 		['value'] = '5',
 	},
 	[ 233] = {
@@ -1412,7 +1412,7 @@ return {
 	[ 235] = {
 		['collection'] = 'rainbow',
 		['id'] = 1200,
-		['name'] = 'Sticker "-28"',
+		['name'] = 'Sticker "-28" Swap',
 		['value'] = '4',
 	},
 	[ 236] = {
@@ -1436,7 +1436,7 @@ return {
 	[ 239] = {
 		['collection'] = 'rainbow',
 		['id'] = 1204,
-		['name'] = 'Sticker "Entry Kill"',
+		['name'] = 'Sticker "Entry Kill" Color',
 		['value'] = '4',
 	},
 	[ 240] = {
@@ -1466,7 +1466,7 @@ return {
 	[ 244] = {
 		['collection'] = 'rainbow',
 		['id'] = 1209,
-		['name'] = 'Sticker "Nice Skill" Color',
+		['name'] = 'Sticker "Nice Skill" Swap',
 		['value'] = '5',
 	},
 	[ 245] = {
@@ -1490,7 +1490,7 @@ return {
 	[ 248] = {
 		['collection'] = 'rainbow',
 		['id'] = 1213,
-		['name'] = 'Sticker "Strike" Color',
+		['name'] = 'Sticker "Strike" Swap',
 		['value'] = '4',
 	},
 	[ 249] = {
@@ -1502,7 +1502,7 @@ return {
 	[ 250] = {
 		['collection'] = 'rainbow',
 		['id'] = 1215,
-		['name'] = 'Sticker "V2 PRO"',
+		['name'] = 'Sticker "V2 PRO" Swap',
 		['value'] = '4',
 	},
 	[ 251] = {
@@ -1514,7 +1514,7 @@ return {
 	[ 252] = {
 		['collection'] = 'rainbow',
 		['id'] = 1217,
-		['name'] = 'Sticker "Deagle Master" Color',
+		['name'] = 'Sticker "Deagle Master" Swap',
 		['value'] = '4',
 	},
 	[ 253] = {
@@ -1544,7 +1544,7 @@ return {
 	[ 257] = {
 		['collection'] = 'revival',
 		['id'] = 1223,
-		['name'] = 'Sticker "Infernal Machine" Color',
+		['name'] = 'Sticker "Infernal Machine" Swap',
 		['value'] = '3',
 	},
 	[ 258] = {
@@ -1574,7 +1574,7 @@ return {
 	[ 262] = {
 		['collection'] = 'revival',
 		['id'] = 1228,
-		['name'] = 'Sticker "Phoenix" Color',
+		['name'] = 'Sticker "Phoenix" Swap',
 		['value'] = '4',
 	},
 	[ 263] = {
@@ -1586,7 +1586,7 @@ return {
 	[ 264] = {
 		['collection'] = 'revival',
 		['id'] = 1230,
-		['name'] = 'Sticker "Rebirth" Color',
+		['name'] = 'Sticker "Rebirth" Swap',
 		['value'] = '4',
 	},
 	[ 265] = {
@@ -1616,13 +1616,13 @@ return {
 	[ 269] = {
 		['collection'] = 'new_year_2021',
 		['id'] = 1235,
-		['name'] = 'Sticker "Candy Cane" Color',
+		['name'] = 'Sticker "Candy Cane" Swap',
 		['value'] = '5',
 	},
 	[ 270] = {
 		['collection'] = 'new_year_2021',
 		['id'] = 1236,
-		['name'] = 'Sticker "Frosty Storm"',
+		['name'] = 'Sticker "Frosty Storm" Swap',
 		['value'] = '6',
 	},
 	[ 271] = {
@@ -1634,7 +1634,7 @@ return {
 	[ 272] = {
 		['collection'] = 'new_year_2021',
 		['id'] = 1238,
-		['name'] = 'Sticker "Flake Holo"',
+		['name'] = 'Sticker "Flake" Color',
 		['value'] = '5',
 	},
 	[ 273] = {
@@ -1646,13 +1646,13 @@ return {
 	[ 274] = {
 		['collection'] = 'new_year_2021',
 		['id'] = 1240,
-		['name'] = 'Sticker "Iron Ox"',
+		['name'] = 'Sticker "Iron Ox" Color',
 		['value'] = '5',
 	},
 	[ 275] = {
 		['collection'] = 'new_year_2021',
 		['id'] = 1241,
-		['name'] = 'Sticker "Golden Ox"',
+		['name'] = 'Sticker "Golden Ox" Color',
 		['value'] = '6',
 	},
 	[ 276] = {
@@ -1814,19 +1814,19 @@ return {
 	[ 302] = {
 		['collection'] = 'dragon_rise',
 		['id'] = 1268,
-		['name'] = 'Sticker "Neon Dragon"',
+		['name'] = 'Sticker "Neon Dragon" Color',
 		['value'] = '5',
 	},
 	[ 303] = {
 		['collection'] = 'dragon_rise',
 		['id'] = 1269,
-		['name'] = 'Sticker "Neon Dragon" Color',
+		['name'] = 'Sticker "Neon Dragon" Swap',
 		['value'] = '6',
 	},
 	[ 304] = {
 		['collection'] = 'dragon_rise',
 		['id'] = 1270,
-		['name'] = 'Sticker "Fluffy Assassin"',
+		['name'] = 'Sticker "Fluffy Assassin" Color',
 		['value'] = '4',
 	},
 	[ 305] = {
@@ -1844,7 +1844,7 @@ return {
 	[ 307] = {
 		['collection'] = 'dragon_rise',
 		['id'] = 1273,
-		['name'] = 'Sticker "Zen Chip" Color',
+		['name'] = 'Sticker "Zen Chip" Swap',
 		['value'] = '6',
 	},
 	[ 308] = {
@@ -1856,7 +1856,7 @@ return {
 	[ 309] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1275,
-		['name'] = 'Sticker "Sakura" Color',
+		['name'] = 'Sticker "Sakura" Swap',
 		['value'] = '6',
 	},
 	[ 310] = {
@@ -1886,13 +1886,13 @@ return {
 	[ 314] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1280,
-		['name'] = 'Sticker "Endurance" Color',
+		['name'] = 'Sticker "Endurance" Swap',
 		['value'] = '5',
 	},
 	[ 315] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1281,
-		['name'] = 'Sticker "Sushi" Color',
+		['name'] = 'Sticker "Sushi" Swap',
 		['value'] = '5',
 	},
 	[ 316] = {
@@ -1952,7 +1952,7 @@ return {
 	[ 325] = {
 		['collection'] = 'cursed_souls',
 		['id'] = 1291,
-		['name'] = 'Sticker "Ghost Lantern" Color',
+		['name'] = 'Sticker "Ghost Lantern" Swap',
 		['value'] = '4',
 	},
 	[ 326] = {
@@ -1976,13 +1976,13 @@ return {
 	[ 329] = {
 		['collection'] = 'cursed_souls',
 		['id'] = 1295,
-		['name'] = 'Sticker "Spirit House" Color',
+		['name'] = 'Sticker "Spirit House" Swap',
 		['value'] = '5',
 	},
 	[ 330] = {
 		['collection'] = 'cursed_souls',
 		['id'] = 1296,
-		['name'] = 'Sticker "Vampirisushi" Color',
+		['name'] = 'Sticker "Vampirisushi" Swap',
 		['value'] = '4',
 	},
 	[ 331] = {
@@ -2120,25 +2120,25 @@ return {
 	[ 353] = {
 		['collection'] = 'legends',
 		['id'] = 1319,
-		['name'] = 'Sticker "Zeus"',
+		['name'] = 'Sticker "Zeus" Swap',
 		['value'] = '5',
 	},
 	[ 354] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1320,
-		['name'] = 'Sticker "Breeze" Color',
+		['name'] = 'Sticker "Breeze" Swap',
 		['value'] = '6',
 	},
 	[ 355] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1321,
-		['name'] = 'Sticker "Cat" Color',
+		['name'] = 'Sticker "Cat" Swap',
 		['value'] = '4',
 	},
 	[ 356] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1322,
-		['name'] = 'Sticker "Escape" Color',
+		['name'] = 'Sticker "Escape" Swap',
 		['value'] = '4',
 	},
 	[ 357] = {
@@ -2174,7 +2174,7 @@ return {
 	[ 362] = {
 		['collection'] = 'legends',
 		['id'] = 1328,
-		['name'] = 'Sticker "Pirate" Color',
+		['name'] = 'Sticker "Pirate" Swap',
 		['value'] = '4',
 	},
 	[ 363] = {
@@ -2240,7 +2240,7 @@ return {
 	[ 373] = {
 		['collection'] = 'project_pandora',
 		['id'] = 1339,
-		['name'] = 'Sticker "Drowned" Color',
+		['name'] = 'Sticker "Drowned" Swap',
 		['value'] = '4',
 	},
 	[ 374] = {
@@ -2270,13 +2270,13 @@ return {
 	[ 378] = {
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1344,
-		['name'] = 'Sticker "Boom Box"',
+		['name'] = 'Sticker "Boom Box" Color',
 		['value'] = '5',
 	},
 	[ 379] = {
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1345,
-		['name'] = 'Sticker "Let It Snow!"',
+		['name'] = 'Sticker "Let It Snow!" Swap',
 		['value'] = '4',
 	},
 	[ 380] = {
@@ -2300,13 +2300,13 @@ return {
 	[ 383] = {
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1349,
-		['name'] = 'Sticker "Party Rabbit"',
+		['name'] = 'Sticker "Party Rabbit" Swap',
 		['value'] = '4',
 	},
 	[ 384] = {
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1350,
-		['name'] = 'Sticker "Disco Party"',
+		['name'] = 'Sticker "Disco Party" Swap',
 		['value'] = '4',
 	},
 	[ 385] = {
@@ -2390,7 +2390,7 @@ return {
 	[ 398] = {
 		['collection'] = 'fireborn',
 		['id'] = 1364,
-		['name'] = 'Sticker "Fury Fire" Color',
+		['name'] = 'Sticker "Fury Fire" Swap',
 		['value'] = '5',
 	},
 	[ 399] = {
@@ -2480,13 +2480,13 @@ return {
 	[ 413] = {
 		['collection'] = 'space_vision',
 		['id'] = 1379,
-		['name'] = 'Sticker "Bubblegum Space" Color',
+		['name'] = 'Sticker "Bubblegum Space" Swap',
 		['value'] = '6',
 	},
 	[ 414] = {
 		['collection'] = 'space_vision',
 		['id'] = 1380,
-		['name'] = 'Sticker "Voidhound" Color',
+		['name'] = 'Sticker "Voidhound" Swap',
 		['value'] = '5',
 	},
 	[ 415] = {
@@ -2504,7 +2504,7 @@ return {
 	[ 417] = {
 		['collection'] = 'space_vision',
 		['id'] = 1383,
-		['name'] = 'Sticker "Bolide" Color',
+		['name'] = 'Sticker "Bolide" Swap',
 		['value'] = '4',
 	},
 	[ 418] = {
@@ -2552,7 +2552,7 @@ return {
 	[ 425] = {
 		['collection'] = 'space_vision',
 		['id'] = 1391,
-		['name'] = 'Sticker "Black Hole" Color',
+		['name'] = 'Sticker "Black Hole" Swap',
 		['value'] = '6',
 	},
 	[ 426] = {
@@ -2570,7 +2570,7 @@ return {
 	[ 428] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1394,
-		['name'] = 'Sticker "A/C" Color',
+		['name'] = 'Sticker "A/C" Swap',
 		['value'] = '4',
 	},
 	[ 429] = {
@@ -2588,7 +2588,7 @@ return {
 	[ 431] = {
 		['collection'] = 'travelers_bag',
 		['id'] = 1397,
-		['name'] = 'Sticker "Dune" Color',
+		['name'] = 'Sticker "Dune" Swap',
 		['value'] = '6',
 	},
 	[ 432] = {
@@ -2618,19 +2618,19 @@ return {
 	[ 436] = {
 		['collection'] = 'sunstrike',
 		['id'] = 1402,
-		['name'] = 'Sticker "Marauder"',
+		['name'] = 'Sticker "Marauder" Color',
 		['value'] = '4',
 	},
 	[ 437] = {
 		['collection'] = 'sunstrike',
 		['id'] = 1403,
-		['name'] = 'Sticker "Mirage" Color',
+		['name'] = 'Sticker "Mirage" Swap',
 		['value'] = '4',
 	},
 	[ 438] = {
 		['collection'] = 'sunstrike',
 		['id'] = 1404,
-		['name'] = 'Sticker "Searing Assassin"',
+		['name'] = 'Sticker "Searing Assassin" Swap',
 		['value'] = '4',
 	},
 	[ 439] = {
@@ -2654,7 +2654,7 @@ return {
 	[ 442] = {
 		['collection'] = 'sunstrike',
 		['id'] = 1408,
-		['name'] = 'Sticker "Explorpion" Color',
+		['name'] = 'Sticker "Explorpion" Swap',
 		['value'] = '5',
 	},
 	[ 443] = {
@@ -2684,7 +2684,7 @@ return {
 	[ 447] = {
 		['collection'] = 'subjectx',
 		['id'] = 1413,
-		['name'] = 'Sticker "Crimson Skull" Color',
+		['name'] = 'Sticker "Crimson Skull" Swap',
 		['value'] = '4',
 	},
 	[ 448] = {
@@ -2696,25 +2696,25 @@ return {
 	[ 449] = {
 		['collection'] = 'subjectx',
 		['id'] = 1415,
-		['name'] = 'Sticker "Cleaver-minded" Color',
+		['name'] = 'Sticker "Cleaver-minded" Swap',
 		['value'] = '4',
 	},
 	[ 450] = {
 		['collection'] = 'subjectx',
 		['id'] = 1416,
-		['name'] = 'Sticker "Mind Control"',
+		['name'] = 'Sticker "Mind Control" Color',
 		['value'] = '4',
 	},
 	[ 451] = {
 		['collection'] = 'subjectx',
 		['id'] = 1417,
-		['name'] = 'Sticker "Shocked" Color',
+		['name'] = 'Sticker "Shocked" Swap',
 		['value'] = '5',
 	},
 	[ 452] = {
 		['collection'] = 'subjectx',
 		['id'] = 1418,
-		['name'] = 'Sticker "Elusive Beast" Color',
+		['name'] = 'Sticker "Elusive Beast" Swap',
 		['value'] = '5',
 	},
 	[ 453] = {
@@ -12201,7 +12201,7 @@ return {
 		['collection'] = 'nightmare',
 		['contains'] = '240134,240135,240136,240137,240138,240139',
 		['id'] = 329,
-		['name'] = '"Nightmare" Weapon Box',
+		['name'] = '"Nightmare" Weapon Case',
 	},
 	[2034] = {
 		['collection'] = 'nightmare',
@@ -12676,5 +12676,137 @@ return {
 		['id'] = '1534',
 		['name'] = 'Sticker "AMKAL ESPORTS" Major 2024 Shine',
 		['value'] = '6',
+	},
+	[2113] = {
+		['collection'] = 'nightmare',
+		['id'] = 1240138,
+		['name'] = 'FN FAL "Astral Rift" StatTrack',
+		['value'] = '5',
+	},
+	[2114] = {
+		['collection'] = 'nameless',
+		['id'] = 240115,
+		['name'] = 'MAC10 "Ruby Shadow"',
+		['value'] = '7',
+	},
+	[2115] = {
+		['name'] = 'Charm "Outcast 5v5" Diamond',
+		['id'] = 5262,
+		['value'] = '6',
+		['collection'] = 'outcast',
+	},
+	[2116] = {
+		['name'] = 'Charm "Outcast 5v5" Platinum',
+		['id'] = 5261,
+		['value'] = '5',
+		['collection'] = 'outcast',
+	},
+	[2117] = {
+		['name'] = 'Charm "Outcast 5v5" Elite Gold',
+		['id'] = 5260,
+		['value'] = '4',
+		['collection'] = 'outcast',
+	},
+	[2118] = {
+		['name'] = 'Charm "Outcast 5v5" Gold',
+		['id'] = 5259,
+		['value'] = '3',
+		['collection'] = 'outcast',
+	},
+	[2119] = {
+		['name'] = 'Charm "Outcast 5v5" Silver',
+		['id'] = 5258,
+		['value'] = '2',
+		['collection'] = 'outcast',
+	},
+	[2120] = {
+		['name'] = 'Charm "Outcast 5v5" Bronze',
+		['id'] = 5257,
+		['value'] = '1',
+		['collection'] = 'outcast',
+	},
+	[2121] = {
+		['name'] = 'Charm "Outcast 2v2" Diamond',
+		['id'] = 5256,
+		['value'] = '6',
+		['collection'] = 'outcast',
+	},
+	[2122] = {
+		['name'] = 'Charm "Outcast 2v2" Platinum',
+		['id'] = 5255,
+		['value'] = '5',
+		['collection'] = 'outcast',
+	},
+	[2123] = {
+		['name'] = 'Charm "Outcast 2v2" Elite Gold',
+		['id'] = 5254,
+		['value'] = '4',
+		['collection'] = 'outcast',
+	},
+	[2124] = {
+		['name'] = 'Charm "Outcast 2v2" Gold',
+		['id'] = 5253,
+		['value'] = '3',
+		['collection'] = 'outcast',
+	},
+	[2125] = {
+		['name'] = 'Charm "Outcast 2v2" Silver',
+		['id'] = 5252,
+		['value'] = '2',
+		['collection'] = 'outcast',
+	},
+	[2126] = {
+		['name'] = 'Charm "Outcast 2v2" Bronze',
+		['id'] = 5251,
+		['value'] = '1',
+		['collection'] = 'outcast',
+	},
+	[2127] = {
+		['name'] = 'Shield "Outcast" Diamond',
+		['id'] = 1484,
+		['value'] = '6',
+		['collection'] = 'outcast',
+	},
+	[2128] = {
+		['name'] = 'Shield "Outcast" Platinum',
+		['id'] = 1483,
+		['value'] = '5',
+		['collection'] = 'outcast',
+	},
+	[2129] = {
+		['name'] = 'Shield "Outcast" Elite Gold',
+		['id'] = 1482,
+		['value'] = '4',
+		['collection'] = 'outcast',
+	},
+	[2130] = {
+		['name'] = 'Shield "Outcast" Gold',
+		['id'] = 1481,
+		['value'] = '3',
+		['collection'] = 'outcast',
+	},
+	[2131] = {
+		['name'] = 'Shield "Outcast" Silver',
+		['id'] = 1480,
+		['value'] = '2',
+		['collection'] = 'outcast',
+	},
+	[2132] = {
+		['name'] = 'Shield "Outcast" Bronze',
+		['id'] = 1479,
+		['value'] = '1',
+		['collection'] = 'outcast',
+	},
+	[2133] = {
+		['name'] = 'Graffiti "Disinfection" Packed',
+		['id'] = 4262,
+		['value'] = '4',
+		['collection'] = 'outcast',
+	},
+	[2134] = {
+		['name'] = 'Graffiti "Disinfection"',
+		['id'] = 4261,
+		['value'] = '4',
+		['collection'] = 'outcast',
 	},
 }
