@@ -12814,5 +12814,695 @@
     "collection": "outcast",
     "id": 4261,
     "value": "4"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Bronze",
+    "collection": "veteran_2025",
+    "id": 334,
+    "value": "1"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Silver",
+    "collection": "veteran_2025",
+    "id": 335,
+    "value": "2"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Gold",
+    "collection": "veteran_2025",
+    "id": 336,
+    "value": "3"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Elite Gold",
+    "collection": "veteran_2025",
+    "id": 337,
+    "value": "4"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Platinum",
+    "collection": "veteran_2025",
+    "id": 338,
+    "value": "5"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Diamond",
+    "collection": "veteran_2025",
+    "id": 339,
+    "value": "6"
+  },
+  {
+    "name": "Medal \"Snow Journey\"",
+    "collection": "kitsune_dreams",
+    "id": 340,
+    "value": "6"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Bronze",
+    "collection": "kitsune_dreams",
+    "id": 341,
+    "value": "1"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Silver",
+    "collection": "kitsune_dreams",
+    "id": 342,
+    "value": "2"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Gold",
+    "collection": "kitsune_dreams",
+    "id": 343,
+    "value": "3"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Elite Gold",
+    "collection": "kitsune_dreams",
+    "id": 344,
+    "value": "4"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Platinum",
+    "collection": "kitsune_dreams",
+    "id": 345,
+    "value": "5"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Diamond",
+    "collection": "kitsune_dreams",
+    "id": 346,
+    "value": "6"
+  },
+  {
+    "contains": "240145,240146,240147,240148,240149,240150",
+    "name": "\"Kitsune Dreams\" Weapon Case",
+    "collection": "kitsune_dreams",
+    "id": 347
+  },
+  {
+    "contains": "240145,240146,240147,240148,240149,240150",
+    "name": "\"Kitsune Dreams\" Weapon Box",
+    "collection": "kitsune_dreams",
+    "id": 348
+  },
+  {
+    "contains": "240151,240152,240153,240154,240155,240156",
+    "name": "\"Kitsune Dreams\" Knife Case",
+    "collection": "kitsune_dreams",
+    "id": 349
+  },
+  {
+    "contains": "5284,5283,5286,5285,5287,5288",
+    "name": "\"Kitsune Dreams\" Charm Pack",
+    "collection": "kitsune_dreams",
+    "id": 720
+  },
+  {
+    "contains": "4387,4389,4385,4383,4381,4379",
+    "name": "\"Kitsune Dreams\" Graffiti Pack",
+    "collection": "kitsune_dreams",
+    "id": 721
+  },
+  {
+    "contains": "1543,1544,1545,1546,1547,1548",
+    "name": "\"Kitsune Dreams\" Sticker Pack",
+    "collection": "kitsune_dreams",
+    "id": 722
+  },
+  {
+    "contains": "1549,1550,1551,1552,1553,1554,1555,1556,1557,1558,1559,1560,1561,1562,1563,1564,1565,1566,1567,1568",
+    "name": "\"Joy\" Sticker Pack",
+    "collection": "joy",
+    "id": 723
+  },
+  {
+    "name": "Graffiti \"Perfect Leader\"",
+    "collection": "standoff_2",
+    "id": 4369,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Bronze",
+    "collection": "veteran_2025",
+    "id": 4370,
+    "value": "1"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Silver",
+    "collection": "veteran_2025",
+    "id": 4371,
+    "value": "2"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Gold",
+    "collection": "veteran_2025",
+    "id": 4372,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Elite Gold",
+    "collection": "veteran_2025",
+    "id": 4373,
+    "value": "4"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Platinum",
+    "collection": "veteran_2025",
+    "id": 4374,
+    "value": "5"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Diamond",
+    "collection": "veteran_2025",
+    "id": 4375,
+    "value": "6"
+  },
+  {
+    "name": "Graffiti \"Yummy\"",
+    "collection": "kitsune_dreams",
+    "id": 4376,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Yummy\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4377,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Mad Move\"",
+    "collection": "kitsune_dreams",
+    "id": 4378,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Mad Move\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4379,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Sad Move\"",
+    "collection": "kitsune_dreams",
+    "id": 4380,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Sad Move\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4381,
+    "value": "3"
+  },
+  {
+    "name": "Graffiti \"Kitsune Dreams\"",
+    "collection": "kitsune_dreams",
+    "id": 4382,
+    "value": "4"
+  },
+  {
+    "name": "Graffiti \"Kitsune Dreams\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4383,
+    "value": "4"
+  },
+  {
+    "name": "Graffiti \"Cute Shot\"",
+    "collection": "kitsune_dreams",
+    "id": 4384,
+    "value": "4"
+  },
+  {
+    "name": "Graffiti \"Cute Shot\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4385,
+    "value": "4"
+  },
+  {
+    "name": "Graffiti \"Like\"",
+    "collection": "kitsune_dreams",
+    "id": 4386,
+    "value": "5"
+  },
+  {
+    "name": "Graffiti \"Like\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4387,
+    "value": "5"
+  },
+  {
+    "name": "Graffiti \"Icy Squad\"",
+    "collection": "kitsune_dreams",
+    "id": 4388,
+    "value": "6"
+  },
+  {
+    "name": "Graffiti \"Icy Squad\" Packed",
+    "collection": "kitsune_dreams",
+    "id": 4389,
+    "value": "6"
+  },
+  {
+    "name": "Charm \"Pingo\"",
+    "collection": "kitsune_dreams",
+    "id": 5282,
+    "value": "4"
+  },
+  {
+    "name": "Charm \"Frost Shuriken\"",
+    "collection": "kitsune_dreams",
+    "id": 5283,
+    "value": "3"
+  },
+  {
+    "name": "Charm \"Origami Snake\"",
+    "collection": "kitsune_dreams",
+    "id": 5284,
+    "value": "3"
+  },
+  {
+    "name": "Charm \"Kitsune Dreams\"",
+    "collection": "kitsune_dreams",
+    "id": 5285,
+    "value": "4"
+  },
+  {
+    "name": "Charm \"Mecha Knight\"",
+    "collection": "kitsune_dreams",
+    "id": 5286,
+    "value": "4"
+  },
+  {
+    "name": "Charm \"Purrfect Luck\"",
+    "collection": "kitsune_dreams",
+    "id": 5287,
+    "value": "5"
+  },
+  {
+    "name": "Chibi \"Twinkle\"",
+    "collection": "kitsune_dreams",
+    "id": 5288,
+    "value": "6"
+  },
+  {
+    "name": "Charm \"Holiday Twist\"",
+    "collection": "kitsune_dreams",
+    "id": 5289,
+    "value": "4"
+  },
+  {
+    "name": "Commander Frame Tier 1",
+    "collection": "standoff_2",
+    "id": 7032,
+    "value": "3"
+  },
+  {
+    "name": "Commander Frame Tier 2",
+    "collection": "standoff_2",
+    "id": 7033,
+    "value": "4"
+  },
+  {
+    "name": "Commander Frame Tier 3",
+    "collection": "standoff_2",
+    "id": 7034,
+    "value": "6"
+  },
+  {
+    "name": "Commander Frame Tier 3 StatTrack",
+    "collection": "standoff_2",
+    "id": 7035,
+    "value": "6"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Kori",
+    "collection": "kitsune_dreams",
+    "id": 7036,
+    "value": "3"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Naito",
+    "collection": "kitsune_dreams",
+    "id": 7037,
+    "value": "4"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Akari",
+    "collection": "kitsune_dreams",
+    "id": 7038,
+    "value": "5"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Hoshi",
+    "collection": "kitsune_dreams",
+    "id": 7039,
+    "value": "6"
+  },
+  {
+    "name": "AKR12 \"Cold-hearted\"",
+    "collection": "standoff_2",
+    "id": 240140,
+    "value": "4"
+  },
+  {
+    "name": "M4 \"Furious Sharpshooter\"",
+    "collection": "standoff_2",
+    "id": 240141,
+    "value": "3"
+  },
+  {
+    "name": "Flash \"Solar\"",
+    "collection": "nameless",
+    "id": 240144,
+    "value": "7"
+  },
+  {
+    "name": "P90 \"Unstoppable\"",
+    "collection": "kitsune_dreams",
+    "id": 240145,
+    "value": "3"
+  },
+  {
+    "name": "M4 \"Kachi\"",
+    "collection": "kitsune_dreams",
+    "id": 240146,
+    "value": "3"
+  },
+  {
+    "name": "TEC-9 \"Night Slayer\"",
+    "collection": "kitsune_dreams",
+    "id": 240147,
+    "value": "4"
+  },
+  {
+    "name": "F/S \"Pink Shot\"",
+    "collection": "kitsune_dreams",
+    "id": 240148,
+    "value": "4"
+  },
+  {
+    "name": "M40 \"Northern Lights\"",
+    "collection": "kitsune_dreams",
+    "id": 240149,
+    "value": "5"
+  },
+  {
+    "name": "AKR12 \"Hanami\"",
+    "collection": "kitsune_dreams",
+    "id": 240150,
+    "value": "6"
+  },
+  {
+    "name": "Tanto \"Hanami\"",
+    "collection": "kitsune_dreams",
+    "id": 240151,
+    "value": "6"
+  },
+  {
+    "name": "Scorpion \"Neko Joy\"",
+    "collection": "kitsune_dreams",
+    "id": 240152,
+    "value": "6"
+  },
+  {
+    "name": "Stiletto \"Voidroot\"",
+    "collection": "kitsune_dreams",
+    "id": 240153,
+    "value": "6"
+  },
+  {
+    "name": "M9 Bayonet \"Amber Koi\"",
+    "collection": "kitsune_dreams",
+    "id": 240154,
+    "value": "6"
+  },
+  {
+    "name": "Fang \"Wavesong\"",
+    "collection": "kitsune_dreams",
+    "id": 240155,
+    "value": "6"
+  },
+  {
+    "name": "Kunai \"Wavesong\"",
+    "collection": "kitsune_dreams",
+    "id": 240156,
+    "value": "6"
+  },
+  {
+    "name": "SPAS \"Tensai\"",
+    "collection": "kitsune_dreams",
+    "id": 240157,
+    "value": "4"
+  },
+  {
+    "name": "VAL \"Ronin\"",
+    "collection": "kitsune_dreams",
+    "id": 240158,
+    "value": "5"
+  },
+  {
+    "name": "M4A1 \"Sparkling Gaze\"",
+    "collection": "kitsune_dreams",
+    "id": 240159,
+    "value": "6"
+  },
+  {
+    "name": "Smoke \"Kiri\"",
+    "collection": "kitsune_dreams",
+    "id": 240160,
+    "value": "5"
+  },
+  {
+    "name": "HE \"Hanami\"",
+    "collection": "kitsune_dreams",
+    "id": 240161,
+    "value": "6"
+  },
+  {
+    "name": "P90 \"Unstoppable\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240145,
+    "value": "3"
+  },
+  {
+    "name": "M4 \"Kachi\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240146,
+    "value": "3"
+  },
+  {
+    "name": "TEC-9 \"Night Slayer\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240147,
+    "value": "4"
+  },
+  {
+    "name": "F/S \"Pink Shot\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240148,
+    "value": "4"
+  },
+  {
+    "name": "M40 \"Northern Lights\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240149,
+    "value": "5"
+  },
+  {
+    "name": "AKR12 \"Hanami\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240150,
+    "value": "6"
+  },
+  {
+    "name": "SPAS \"Tensai\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240157,
+    "value": "4"
+  },
+  {
+    "name": "VAL \"Ronin\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240158,
+    "value": "5"
+  },
+  {
+    "name": "M4A1 \"Sparkling Gaze\" StatTrack",
+    "collection": "kitsune_dreams",
+    "id": 1240159,
+    "value": "6"
+  },
+  {
+    "name": "Gloves \"Hanami\"",
+    "collection": "kitsune_dreams",
+    "id": 3040,
+    "value": "6"
+  },
+  {
+    "name": "Sticker \"Sweet Star\" Reflex",
+    "collection": "kitsune_dreams",
+    "id": 1541,
+    "value": "5"
+  },
+  {
+    "name": "Sticker \"Ramen\"",
+    "collection": "kitsune_dreams",
+    "id": 1542,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Pengzilla\"",
+    "collection": "kitsune_dreams",
+    "id": 1543,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Starflare\"",
+    "collection": "kitsune_dreams",
+    "id": 1544,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Kitsune Dreams\" Shine",
+    "collection": "kitsune_dreams",
+    "id": 1545,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Venom Blade\" Swap",
+    "collection": "kitsune_dreams",
+    "id": 1546,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Candy Core\" Shine",
+    "collection": "kitsune_dreams",
+    "id": 1547,
+    "value": "5"
+  },
+  {
+    "name": "Sticker \"Foxwish\" Reflex",
+    "collection": "kitsune_dreams",
+    "id": 1548,
+    "value": "6"
+  },
+  {
+    "name": "Sticker \"Oh no\"",
+    "collection": "joy",
+    "id": 1549,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Ha-Ha Classic\"",
+    "collection": "joy",
+    "id": 1550,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Think about it\"",
+    "collection": "joy",
+    "id": 1551,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Wait what\"",
+    "collection": "joy",
+    "id": 1552,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Pool of Tears\"",
+    "collection": "joy",
+    "id": 1553,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"That Feeling\"",
+    "collection": "joy",
+    "id": 1554,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Intriguing\"",
+    "collection": "joy",
+    "id": 1555,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Sad Cat\"",
+    "collection": "joy",
+    "id": 1556,
+    "value": "3"
+  },
+  {
+    "name": "Sticker \"Rush A or B\" Swap",
+    "collection": "joy",
+    "id": 1557,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Wise Choice\" Swap",
+    "collection": "joy",
+    "id": 1558,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"This is Fine\" Swap",
+    "collection": "joy",
+    "id": 1559,
+    "value": "5"
+  },
+  {
+    "name": "Sticker \"Good Loot\" Swap",
+    "collection": "joy",
+    "id": 1560,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Love Paws\" Color",
+    "collection": "joy",
+    "id": 1561,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Pop-CT\" Swap",
+    "collection": "joy",
+    "id": 1562,
+    "value": "5"
+  },
+  {
+    "name": "Sticker \"Triggered\" Swap",
+    "collection": "joy",
+    "id": 1563,
+    "value": "5"
+  },
+  {
+    "name": "Sticker \"Your Fault\" Swap",
+    "collection": "joy",
+    "id": 1564,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Like a Boss\" Shine",
+    "collection": "joy",
+    "id": 1565,
+    "value": "5"
+  },
+  {
+    "name": "Sticker \"GigaSAUG\"",
+    "collection": "joy",
+    "id": 1566,
+    "value": "4"
+  },
+  {
+    "name": "Sticker \"Sigma\" Swap",
+    "collection": "joy",
+    "id": 1567,
+    "value": "6"
+  },
+  {
+    "name": "Sticker \"Lonely Look\" Reflex",
+    "collection": "joy",
+    "id": 1568,
+    "value": "6"
   }
 ]
