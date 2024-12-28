@@ -12673,7 +12673,7 @@ return {
 	},
 	[2112] = {
 		['collection'] = 'major2024',
-		['id'] = '1534',
+		['id'] = 1534,
 		['name'] = 'Sticker "AMKAL ESPORTS" Major 2024 Shine',
 		['value'] = '6',
 	},
