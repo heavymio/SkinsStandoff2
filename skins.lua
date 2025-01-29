@@ -13505,4 +13505,22 @@ return {
 		['name'] = 'Sticker "Lonely Look" Reflex',
 		['value'] = '6',
 	},
+	[2251] = {
+		['collection'] = 'kitsune_dreams',
+		['id'] = 240162,
+		['name'] = 'AKR "Vermilion" Stattrack',
+		['value'] = '6',
+	},
+	[2252] = {
+		['collection'] = 'kitsune_dreams',
+		['id'] = 240163,
+		['name'] = 'Desert Eagle "Vermilion" Stattrack',
+		['value'] = '6',
+	},
+	[2253] = {
+		['collection'] = 'kitsune_dreams',
+		['id'] = 240164,
+		['name'] = 'Karambit "Vermilion"',
+		['value'] = '6',
+	},
 }
