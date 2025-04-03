@@ -13508,13 +13508,13 @@ return {
 	[2251] = {
 		['collection'] = 'kitsune_dreams',
 		['id'] = 240162,
-		['name'] = 'AKR "Vermilion" Stattrack',
+		['name'] = 'AKR "Vermilion"',
 		['value'] = '6',
 	},
 	[2252] = {
 		['collection'] = 'kitsune_dreams',
 		['id'] = 240163,
-		['name'] = 'Desert Eagle "Vermilion" Stattrack',
+		['name'] = 'Desert Eagle "Vermilion"',
 		['value'] = '6',
 	},
 	[2253] = {
@@ -14431,6 +14431,18 @@ return {
 		['collection'] = 'dynasty',
 		['id'] = 1240197,
 		['name'] = 'AKR "Genesis" StatTrack',
+		['value'] = '6',
+	},
+	[2406] = {
+		['collection'] = 'kitsune_dreams',
+		['id'] = 1240162,
+		['name'] = 'AKR "Vermilion" Stattrack',
+		['value'] = '6',
+	},
+	[2407] = {
+		['collection'] = 'kitsune_dreams',
+		['id'] = 1240163,
+		['name'] = 'Desert Eagle "Vermilion" Stattrack',
 		['value'] = '6',
 	},
 }
