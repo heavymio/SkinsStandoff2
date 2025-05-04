@@ -14553,4 +14553,46 @@ return {
 		['name'] = 'M4A1 "Impact" StatTrack',
 		['value'] = '6',
 	},
+	[2426] = {
+		['collection'] = 'event8years',
+		['id'] = 3047,
+		['name'] = 'Gloves "Impulse"',
+		['value'] = '6',
+	},
+	[2427] = {
+		['collection'] = 'event8years',
+		['id'] = 5320,
+		['name'] = 'Charm "8 Years"',
+		['value'] = '6',
+	},
+	[2428] = {
+		['collection'] = 'event8years',
+		['id'] = 1588,
+		['name'] = 'Sticker "8 Years"',
+		['value'] = '4',
+	},
+	[2429] = {
+		['collection'] = 'event8years',
+		['id'] = 1587,
+		['name'] = 'Shield "8 Years"',
+		['value'] = '5',
+	},
+	[2430] = {
+		['collection'] = 'event8years',
+		['contains'] = '240202,240203,1588,240204,240205',
+		['id'] = 360,
+		['name'] = 'Great "8 Years" Gift Case',
+	},
+	[2431] = {
+		['collection'] = 'event8years',
+		['contains'] = '1588,240204,240205,240206,5320',
+		['id'] = 361,
+		['name'] = 'Prime "8 Years" Gift Case',
+	},
+	[2432] = {
+		['collection'] = 'event8years',
+		['contains'] = '240206,5320,240207,240208,3047',
+		['id'] = 362,
+		['name'] = 'Ultimate "8 Years" Gift Case',
+	},
 }
