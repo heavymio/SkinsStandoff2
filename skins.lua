@@ -1,4499 +1,4596 @@
 return {
-	[   1] = {
+	{
 		['collection'] = 'assistance',
 		['id'] = 100,
 		['name'] = '"Bronze" Assistance Medal',
 		['value'] = '2',
 	},
-	[   2] = {
+	{
 		['collection'] = 'assistance',
 		['id'] = 101,
 		['name'] = '"Silver" Assistance Medal',
 		['value'] = '3',
 	},
-	[   3] = {
+	{
 		['collection'] = 'assistance',
 		['id'] = 102,
 		['name'] = '"Gold" Assistance Medal',
 		['value'] = '4',
 	},
-	[   4] = {
+	{
 		['collection'] = 'assistance',
 		['id'] = 103,
 		['name'] = '"Platinum" Assistance Medal',
 		['value'] = '5',
 	},
-	[   5] = {
+	{
 		['collection'] = 'assistance',
 		['id'] = 104,
 		['name'] = '"Brilliant" Assistance Medal',
 		['value'] = '6',
 	},
-	[   6] = {
+	{
 		['collection'] = 'veteran2018',
 		['id'] = 105,
 		['name'] = 'Medal "Veteran 2018" Bronze',
 		['value'] = '2',
 	},
-	[   7] = {
+	{
 		['collection'] = 'veteran2018',
 		['id'] = 106,
 		['name'] = 'Medal "Veteran 2018" Silver',
 		['value'] = '3',
 	},
-	[   8] = {
+	{
 		['collection'] = 'veteran2018',
 		['id'] = 107,
 		['name'] = 'Medal "Veteran 2018" Gold',
 		['value'] = '4',
 	},
-	[   9] = {
+	{
 		['collection'] = 'veteran2018',
 		['id'] = 108,
 		['name'] = 'Medal "Veteran 2018" Platinum',
 		['value'] = '5',
 	},
-	[  10] = {
+	{
 		['collection'] = 'veteran2019',
 		['id'] = 109,
 		['name'] = 'Medal "Veteran 2019" Bronze',
 		['value'] = '2',
 	},
-	[  11] = {
+	{
 		['collection'] = 'veteran2019',
 		['id'] = 110,
 		['name'] = 'Medal "Veteran 2019" Silver',
 		['value'] = '3',
 	},
-	[  12] = {
+	{
 		['collection'] = 'veteran2019',
 		['id'] = 111,
 		['name'] = 'Medal "Veteran 2019" Gold',
 		['value'] = '4',
 	},
-	[  13] = {
+	{
 		['collection'] = 'veteran2019',
 		['id'] = 112,
 		['name'] = 'Medal "Veteran 2019" Platinum',
 		['value'] = '5',
 	},
-	[  14] = {
+	{
 		['collection'] = 'event2years',
 		['id'] = 113,
 		['name'] = 'Medal "2 Years" Silver',
 		['value'] = '3',
 	},
-	[  15] = {
+	{
 		['collection'] = 'event2years',
 		['id'] = 114,
 		['name'] = 'Medal "2 Years" Gold',
 		['value'] = '4',
 	},
-	[  16] = {
+	{
 		['collection'] = 'competitive',
 		['id'] = 115,
 		['name'] = 'Medal "Competitive" Bronze',
 		['value'] = '2',
 	},
-	[  17] = {
+	{
 		['collection'] = 'competitive',
 		['id'] = 116,
 		['name'] = 'Medal "Competitive" Silver',
 		['value'] = '3',
 	},
-	[  18] = {
+	{
 		['collection'] = 'competitive',
 		['id'] = 117,
 		['name'] = 'Medal "Competitive" Gold',
 		['value'] = '4',
 	},
-	[  19] = {
+	{
 		['collection'] = 'competitive',
 		['id'] = 118,
 		['name'] = 'Medal "Competitive" Platinum',
 		['value'] = '5',
 	},
-	[  20] = {
+	{
 		['collection'] = 'competitive',
 		['id'] = 119,
 		['name'] = 'Medal "Competitive" Brilliant',
 		['value'] = '6',
 	},
-	[  21] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 120,
 		['name'] = 'Medal "New Year Madness 2020" Bronze',
 		['value'] = '2',
 	},
-	[  22] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 121,
 		['name'] = 'Medal "New Year Madness 2020" Silver',
 		['value'] = '3',
 	},
-	[  23] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 122,
 		['name'] = 'Medal "New Year Madness 2020" Gold',
 		['value'] = '4',
 	},
-	[  24] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 123,
 		['name'] = 'Medal "New Year Madness 2020" Platinum',
 		['value'] = '5',
 	},
-	[  25] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 124,
 		['name'] = 'Medal "New Year Madness 2020" Brilliant',
 		['value'] = '6',
 	},
-	[  26] = {
+	{
 		['collection'] = 'veteran2020',
 		['id'] = 125,
 		['name'] = 'Medal "Veteran 2020" Bronze',
 		['value'] = '2',
 	},
-	[  27] = {
+	{
 		['collection'] = 'veteran2020',
 		['id'] = 126,
 		['name'] = 'Medal "Veteran 2020" Silver',
 		['value'] = '3',
 	},
-	[  28] = {
+	{
 		['collection'] = 'veteran2020',
 		['id'] = 127,
 		['name'] = 'Medal "Veteran 2020" Gold',
 		['value'] = '4',
 	},
-	[  29] = {
+	{
 		['collection'] = 'veteran2020',
 		['id'] = 128,
 		['name'] = 'Medal "Veteran 2020" Platinum',
 		['value'] = '5',
 	},
-	[  30] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 129,
 		['name'] = 'Medal "Project Z9" Bronze',
 		['value'] = '2',
 	},
-	[  31] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 130,
 		['name'] = 'Medal "Project Z9" Silver',
 		['value'] = '3',
 	},
-	[  32] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 131,
 		['name'] = 'Medal "Project Z9" Gold',
 		['value'] = '4',
 	},
-	[  33] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 132,
 		['name'] = 'Medal "Project Z9" Platinum',
 		['value'] = '5',
 	},
-	[  34] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 133,
 		['name'] = 'Medal "Project Z9" Brilliant',
 		['value'] = '6',
 	},
-	[  35] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 134,
 		['name'] = 'Medal "Revival" Bronze',
 		['value'] = '1',
 	},
-	[  36] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 135,
 		['name'] = 'Medal "Revival" Silver',
 		['value'] = '2',
 	},
-	[  37] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 136,
 		['name'] = 'Medal "Revival" Gold',
 		['value'] = '3',
 	},
-	[  38] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 137,
 		['name'] = 'Medal "Revival" Elite Gold',
 		['value'] = '4',
 	},
-	[  39] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 138,
 		['name'] = 'Medal "Revival" Platinum',
 		['value'] = '5',
 	},
-	[  40] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 139,
 		['name'] = 'Medal "Revival" Diamond',
 		['value'] = '6',
 	},
-	[  41] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 140,
 		['name'] = 'Medal "New Year 2021" Bronze',
 		['value'] = '1',
 	},
-	[  42] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 141,
 		['name'] = 'Medal "New Year 2021" Silver',
 		['value'] = '2',
 	},
-	[  43] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 142,
 		['name'] = 'Medal "New Year 2021" Gold',
 		['value'] = '3',
 	},
-	[  44] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 143,
 		['name'] = 'Medal "New Year 2021" Elite Gold',
 		['value'] = '4',
 	},
-	[  45] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 144,
 		['name'] = 'Medal "New Year 2021" Platinum',
 		['value'] = '5',
 	},
-	[  46] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 145,
 		['name'] = 'Medal "New Year 2021" Diamond',
 		['value'] = '6',
 	},
-	[  47] = {
+	{
 		['collection'] = 'veteran2021',
 		['id'] = 146,
 		['name'] = 'Medal "Veteran 2021" Bronze',
 		['value'] = '2',
 	},
-	[  48] = {
+	{
 		['collection'] = 'veteran2021',
 		['id'] = 147,
 		['name'] = 'Medal "Veteran 2021" Silver',
 		['value'] = '3',
 	},
-	[  49] = {
+	{
 		['collection'] = 'veteran2021',
 		['id'] = 148,
 		['name'] = 'Medal "Veteran 2021" Gold',
 		['value'] = '4',
 	},
-	[  50] = {
+	{
 		['collection'] = 'veteran2021',
 		['id'] = 149,
 		['name'] = 'Medal "Veteran 2021" Platinum',
 		['value'] = '5',
 	},
-	[  51] = {
+	{
 		['collection'] = 'veteran2021',
 		['id'] = 150,
 		['name'] = 'Medal "Veteran 2021" Diamond',
 		['value'] = '6',
 	},
-	[  52] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 151,
 		['name'] = 'Medal "4 Years" Silver',
 		['value'] = '4',
 	},
-	[  53] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 152,
 		['name'] = 'Medal "4 Years" Gold',
 		['value'] = '5',
 	},
-	[  54] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 153,
 		['name'] = 'Medal "Dragon Rise" Bronze',
 		['value'] = '1',
 	},
-	[  55] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 154,
 		['name'] = 'Medal "Dragon Rise" Silver',
 		['value'] = '2',
 	},
-	[  56] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 155,
 		['name'] = 'Medal "Dragon Rise" Gold',
 		['value'] = '3',
 	},
-	[  57] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 156,
 		['name'] = 'Medal "Dragon Rise" Elite Gold',
 		['value'] = '4',
 	},
-	[  58] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 157,
 		['name'] = 'Medal "Dragon Rise" Platinum',
 		['value'] = '5',
 	},
-	[  59] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 158,
 		['name'] = 'Medal "Dragon Rise" Ruby',
 		['value'] = '6',
 	},
-	[  60] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 159,
 		['name'] = 'Medal "Cursed Souls" Bronze',
 		['value'] = '1',
 	},
-	[  61] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 160,
 		['name'] = 'Medal "Cursed Souls" Silver',
 		['value'] = '2',
 	},
-	[  62] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 161,
 		['name'] = 'Medal "Cursed Souls" Gold',
 		['value'] = '3',
 	},
-	[  63] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 162,
 		['name'] = 'Medal "Cursed Souls" Elite Gold',
 		['value'] = '4',
 	},
-	[  64] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 163,
 		['name'] = 'Medal "Cursed Souls" Platinum',
 		['value'] = '5',
 	},
-	[  65] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 164,
 		['name'] = 'Medal "Cursed Souls" Diamond',
 		['value'] = '6',
 	},
-	[  66] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 165,
 		['name'] = 'Medal "Winter Fun 2022" Bronze',
 		['value'] = '1',
 	},
-	[  67] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 166,
 		['name'] = 'Medal "Winter Fun 2022" Silver',
 		['value'] = '2',
 	},
-	[  68] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 167,
 		['name'] = 'Medal "Winter Fun 2022" Gold',
 		['value'] = '3',
 	},
-	[  69] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 168,
 		['name'] = 'Medal "Winter Fun 2022" Elite Gold',
 		['value'] = '4',
 	},
-	[  70] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 169,
 		['name'] = 'Medal "Winter Fun 2022" Platinum',
 		['value'] = '5',
 	},
-	[  71] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 170,
 		['name'] = 'Medal "Winter Fun 2022" Diamond',
 		['value'] = '6',
 	},
-	[  72] = {
+	{
 		['collection'] = 'veteran2022',
 		['id'] = 171,
 		['name'] = 'Medal "Veteran 2022" Bronze',
 		['value'] = '2',
 	},
-	[  73] = {
+	{
 		['collection'] = 'veteran2022',
 		['id'] = 172,
 		['name'] = 'Medal "Veteran 2022" Silver',
 		['value'] = '3',
 	},
-	[  74] = {
+	{
 		['collection'] = 'veteran2022',
 		['id'] = 173,
 		['name'] = 'Medal "Veteran 2022" Gold',
 		['value'] = '4',
 	},
-	[  75] = {
+	{
 		['collection'] = 'veteran2022',
 		['id'] = 174,
 		['name'] = 'Medal "Veteran 2022" Platinum',
 		['value'] = '5',
 	},
-	[  76] = {
+	{
 		['collection'] = 'veteran2022',
 		['id'] = 175,
 		['name'] = 'Medal "Veteran 2022" Diamond',
 		['value'] = '6',
 	},
-	[  77] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 176,
 		['name'] = 'Medal "5 Years" Silver',
 		['value'] = '5',
 	},
-	[  78] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 177,
 		['name'] = 'Medal "5 Years" Gold',
 		['value'] = '6',
 	},
-	[  79] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 178,
 		['name'] = 'Medal "Legends" Bronze',
 		['value'] = '1',
 	},
-	[  80] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 179,
 		['name'] = 'Medal "Legends" Silver',
 		['value'] = '2',
 	},
-	[  81] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 180,
 		['name'] = 'Medal "Legends" Gold',
 		['value'] = '3',
 	},
-	[  82] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 181,
 		['name'] = 'Medal "Legends" Elite Gold',
 		['value'] = '4',
 	},
-	[  83] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 182,
 		['name'] = 'Medal "Legends" Platinum',
 		['value'] = '5',
 	},
-	[  84] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 183,
 		['name'] = 'Medal "Legends" Diamond',
 		['value'] = '6',
 	},
-	[  85] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 184,
 		['name'] = 'Medal "Pandora" Bronze',
 		['value'] = '1',
 	},
-	[  86] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 185,
 		['name'] = 'Medal "Pandora" Silver',
 		['value'] = '2',
 	},
-	[  87] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 186,
 		['name'] = 'Medal "Pandora" Gold',
 		['value'] = '3',
 	},
-	[  88] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 187,
 		['name'] = 'Medal "Pandora" Elite Gold',
 		['value'] = '4',
 	},
-	[  89] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 188,
 		['name'] = 'Medal "Pandora" Platinum',
 		['value'] = '5',
 	},
-	[  90] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 189,
 		['name'] = 'Medal "Pandora" Diamond',
 		['value'] = '6',
 	},
-	[  91] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 190,
 		['name'] = 'Medal "Hot Winter Party 2023" Bronze',
 		['value'] = '1',
 	},
-	[  92] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 191,
 		['name'] = 'Medal "Hot Winter Party 2023" Silver',
 		['value'] = '2',
 	},
-	[  93] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 192,
 		['name'] = 'Medal "Hot Winter Party 2023" Gold',
 		['value'] = '3',
 	},
-	[  94] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 193,
 		['name'] = 'Medal "Hot Winter Party 2023" Elite Gold',
 		['value'] = '4',
 	},
-	[  95] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 194,
 		['name'] = 'Medal "Hot Winter Party 2023" Platinum',
 		['value'] = '5',
 	},
-	[  96] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 195,
 		['name'] = 'Medal "Hot Winter Party 2023" Diamond',
 		['value'] = '6',
 	},
-	[  97] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 196,
 		['name'] = 'Medal "Veteran 2023" Bronze',
 		['value'] = '1',
 	},
-	[  98] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 197,
 		['name'] = 'Medal "Veteran 2023" Silver',
 		['value'] = '2',
 	},
-	[  99] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 198,
 		['name'] = 'Medal "Veteran 2023" Gold',
 		['value'] = '3',
 	},
-	[ 100] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 199,
 		['name'] = 'Medal "Veteran 2023" Elite Gold',
 		['value'] = '4',
 	},
-	[ 101] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 250,
 		['name'] = 'Medal "Veteran 2023" Platinum',
 		['value'] = '5',
 	},
-	[ 102] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 251,
 		['name'] = 'Medal "Veteran 2023" Diamond',
 		['value'] = '6',
 	},
-	[ 103] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 252,
 		['name'] = 'Medal "Fireborn" Bronze',
 		['value'] = '1',
 	},
-	[ 104] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 253,
 		['name'] = 'Medal "Fireborn" Silver',
 		['value'] = '2',
 	},
-	[ 105] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 254,
 		['name'] = 'Medal "Fireborn" Gold',
 		['value'] = '3',
 	},
-	[ 106] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 255,
 		['name'] = 'Medal "Fireborn" Elite Gold',
 		['value'] = '4',
 	},
-	[ 107] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 256,
 		['name'] = 'Medal "Fireborn" Platinum',
 		['value'] = '5',
 	},
-	[ 108] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 257,
 		['name'] = 'Medal "Fireborn" Diamond',
 		['value'] = '6',
 	},
-	[ 109] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 258,
 		['name'] = 'Medal "Space Vision" Bronze',
 		['value'] = '1',
 	},
-	[ 110] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 259,
 		['name'] = 'Medal "Space Vision" Silver',
 		['value'] = '2',
 	},
-	[ 111] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 260,
 		['name'] = 'Medal "Space Vision" Gold',
 		['value'] = '3',
 	},
-	[ 112] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 261,
 		['name'] = 'Medal "Space Vision" Elite Gold',
 		['value'] = '4',
 	},
-	[ 113] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 262,
 		['name'] = 'Medal "Space Vision" Platinum',
 		['value'] = '5',
 	},
-	[ 114] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 263,
 		['name'] = 'Medal "Space Vision" Diamond',
 		['value'] = '6',
 	},
-	[ 115] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 264,
 		['name'] = 'Medal "Sunstrike" Bronze',
 		['value'] = '1',
 	},
-	[ 116] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 265,
 		['name'] = 'Medal "Sunstrike" Silver',
 		['value'] = '2',
 	},
-	[ 117] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 266,
 		['name'] = 'Medal "Sunstrike" Gold',
 		['value'] = '3',
 	},
-	[ 118] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 267,
 		['name'] = 'Medal "Sunstrike" Elite Gold',
 		['value'] = '4',
 	},
-	[ 119] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 268,
 		['name'] = 'Medal "Sunstrike" Platinum',
 		['value'] = '5',
 	},
-	[ 120] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 269,
 		['name'] = 'Medal "Sunstrike" Diamond',
 		['value'] = '6',
 	},
-	[ 121] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 270,
 		['name'] = 'Medal "Subject X" Bronze',
 		['value'] = '1',
 	},
-	[ 122] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 271,
 		['name'] = 'Medal "Subject X" Silver',
 		['value'] = '2',
 	},
-	[ 123] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 272,
 		['name'] = 'Medal "Subject X" Gold',
 		['value'] = '3',
 	},
-	[ 124] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 273,
 		['name'] = 'Medal "Subject X" Elite Gold',
 		['value'] = '4',
 	},
-	[ 125] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 274,
 		['name'] = 'Medal "Subject X" Platinum',
 		['value'] = '5',
 	},
-	[ 126] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 275,
 		['name'] = 'Medal "Subject X" Diamond',
 		['value'] = '6',
 	},
-	[ 127] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 276,
 		['name'] = 'Medal "Veteran 2024" Bronze',
 		['value'] = '1',
 	},
-	[ 128] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 277,
 		['name'] = 'Medal "Veteran 2024" Silver',
 		['value'] = '2',
 	},
-	[ 129] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 278,
 		['name'] = 'Medal "Veteran 2024" Gold',
 		['value'] = '3',
 	},
-	[ 130] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 279,
 		['name'] = 'Medal "Veteran 2024" Elite Gold',
 		['value'] = '4',
 	},
-	[ 131] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 280,
 		['name'] = 'Medal "Veteran 2024" Platinum',
 		['value'] = '5',
 	},
-	[ 132] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 281,
 		['name'] = 'Medal "Veteran 2024" Diamond',
 		['value'] = '6',
 	},
-	[ 133] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 282,
 		['name'] = 'Medal "Frosty Chaos" Bronze',
 		['value'] = '1',
 	},
-	[ 134] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 283,
 		['name'] = 'Medal "Frosty Chaos" Silver',
 		['value'] = '2',
 	},
-	[ 135] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 284,
 		['name'] = 'Medal "Frosty Chaos" Gold',
 		['value'] = '3',
 	},
-	[ 136] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 285,
 		['name'] = 'Medal "Frosty Chaos" Elite Gold',
 		['value'] = '4',
 	},
-	[ 137] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 286,
 		['name'] = 'Medal "Frosty Chaos" Platinum',
 		['value'] = '5',
 	},
-	[ 138] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 287,
 		['name'] = 'Medal "Frosty Chaos" Diamond',
 		['value'] = '6',
 	},
-	[ 139] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 288,
 		['name'] = 'Medal "Outcast" Bronze',
 		['value'] = '1',
 	},
-	[ 140] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 289,
 		['name'] = 'Medal "Outcast" Silver',
 		['value'] = '2',
 	},
-	[ 141] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 290,
 		['name'] = 'Medal "Outcast" Gold',
 		['value'] = '3',
 	},
-	[ 142] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 291,
 		['name'] = 'Medal "Outcast" Elite Gold',
 		['value'] = '4',
 	},
-	[ 143] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 292,
 		['name'] = 'Medal "Outcast" Platinum',
 		['value'] = '5',
 	},
-	[ 144] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 293,
 		['name'] = 'Medal "Outcast" Diamond',
 		['value'] = '6',
 	},
-	[ 145] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 294,
 		['name'] = 'Medal "Fun and Sun" Bronze',
 		['value'] = '1',
 	},
-	[ 146] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 295,
 		['name'] = 'Medal "Fun and Sun" Silver',
 		['value'] = '2',
 	},
-	[ 147] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 296,
 		['name'] = 'Medal "Fun and Sun" Gold',
 		['value'] = '3',
 	},
-	[ 148] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 297,
 		['name'] = 'Medal "Fun and Sun" Elite Gold',
 		['value'] = '4',
 	},
-	[ 149] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 298,
 		['name'] = 'Medal "Fun and Sun" Platinum',
 		['value'] = '5',
 	},
-	[ 150] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 299,
 		['name'] = 'Medal "Fun and Sun" Diamond',
 		['value'] = '6',
 	},
-	[ 151] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 300,
 		['name'] = 'Medal "Reforged" Bronze',
 		['value'] = '1',
 	},
-	[ 152] = {
+	{
 		['collection'] = 'origin',
 		['contains'] = '15003,45002,51002,62002,13001,32001,35002,45001,46002,47002,11002,44002,71002,71003,71004,71005',
 		['id'] = 301,
 		['name'] = '"Origin" Case',
 	},
-	[ 153] = {
+	{
 		['collection'] = 'furious',
 		['contains'] = '15004,32003,46006,51004,44004,48001,52001,32004,51003,62003,13003,48002,72002,72004,72006,72007',
 		['id'] = 302,
 		['name'] = '"Furious" Case',
 	},
-	[ 154] = {
+	{
 		['collection'] = 'rival',
 		['contains'] = '13004,44006,48003,52003,15006,34001,46007,11008,34002,44005,32005,51007,73002,73003,73004,73006',
 		['id'] = 303,
 		['name'] = '"Rival" Case',
 	},
-	[ 155] = {
+	{
 		['collection'] = 'fable',
 		['contains'] = '41102,41502,41703,45301,41212,43202,44903,41605,43402,44601,41701,44603,47502,47503,47504,47505',
 		['id'] = 304,
 		['name'] = '"Fable" Case',
 	},
-	[ 156] = {
+	{
 		['collection'] = 'scorpion',
 		['contains'] = '81107,83411,84403,86216,81726,84500,86318,83410,84624,85127,83512,84402,87919,87920,87921,87922',
 		['id'] = 305,
 		['name'] = '"Scorpion" Case',
 	},
-	[ 157] = {
+	{
 		['collection'] = 'empire',
 		['contains'] = '121300,121600,124301,124600,123400,124800,126401,121200,121500,126400,124300,125100,3006,3007,3008,3009',
 		['id'] = 306,
 		['name'] = '"Empire" Case',
 	},
-	[ 158] = {
+	{
 		['collection'] = 'sharp',
 		['contains'] = '170010,170011,170019,170020,170002,170003,170009,170008,170017,170018,170001,170005,170021,170022,170023,170024',
 		['id'] = 307,
 		['name'] = '"Sharp" Case',
 	},
-	[ 159] = {
+	{
 		['collection'] = 'revenge',
 		['contains'] = '220001,220009,220011,220015,220012,220013,220017,220014,220016,220018,220019,220020,220021,220022,220023,220024',
 		['id'] = 308,
 		['name'] = '"Revenge" Case',
 	},
-	[ 160] = {
+	{
 		['collection'] = 'chameleon',
 		['contains'] = '240092,240093,240094,240097,240091,240095,240096,240098,240099,240100,240101,240102,3030,3031,3032,3033',
 		['id'] = 309,
 		['name'] = '"Chameleon" Case',
 	},
-	[ 161] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['contains'] = '240109,240110,240111,240112,240113,240114',
 		['id'] = 310,
 		['name'] = '"Fun&Sun" Knife Case',
 	},
-	[ 162] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['contains'] = '240103,240104,240105,240106,240107,240108',
 		['id'] = 311,
 		['name'] = '"Fun&Sun" Weapon Case',
 	},
-	[ 163] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['contains'] = '240103,240104,240105,240106,240107,240108',
 		['id'] = 312,
 		['name'] = '"Fun&Sun" Weapon Box',
 	},
-	[ 164] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 313,
 		['name'] = 'Medal "Reforged" Silver',
 		['value'] = '2',
 	},
-	[ 165] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 314,
 		['name'] = 'Medal "Reforged" Gold',
 		['value'] = '3',
 	},
-	[ 166] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 315,
 		['name'] = 'Medal "Reforged" Elite Gold',
 		['value'] = '4',
 	},
-	[ 167] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 316,
 		['name'] = 'Medal "Reforged" Platinum',
 		['value'] = '5',
 	},
-	[ 168] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 317,
 		['name'] = 'Medal "Reforged" Diamond',
 		['value'] = '6',
 	},
-	[ 169] = {
+	{
 		['collection'] = 'reforged',
 		['contains'] = '3039,3038,3037,3036,3035,3034',
 		['id'] = 318,
 		['name'] = '"Reforged" Gloves Case',
 	},
-	[ 170] = {
+	{
 		['collection'] = 'reforged',
 		['contains'] = '240127,240126,240125,240124,240123,240122,240121,240120,240119,240118,240117,240116',
 		['id'] = 319,
 		['name'] = '"Reforged" Weapon Case',
 	},
-	[ 171] = {
+	{
 		['collection'] = 'reforged',
 		['contains'] = '240127,240126,240125,240124,240123,240122,240121,240120,240119,240118,240117,240116',
 		['id'] = 320,
 		['name'] = '"Reforged" Weapon Box',
 	},
-	[ 172] = {
+	{
 		['collection'] = 'nightmare',
 		['contains'] = '240128,240129,240130,240131,240132,240133',
 		['id'] = 321,
 		['name'] = '"Nightmare" Knife Case',
 	},
-	[ 173] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 322,
 		['name'] = 'Medal "Nightmare" Bronze',
 		['value'] = '1',
 	},
-	[ 174] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 323,
 		['name'] = 'Medal "Nightmare" Silver',
 		['value'] = '2',
 	},
-	[ 175] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 324,
 		['name'] = 'Medal "Nightmare" Gold',
 		['value'] = '3',
 	},
-	[ 176] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 325,
 		['name'] = 'Medal "Nightmare" Elite Gold',
 		['value'] = '4',
 	},
-	[ 177] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 326,
 		['name'] = 'Medal "Nightmare" Platinum',
 		['value'] = '5',
 	},
-	[ 178] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 327,
 		['name'] = 'Medal "Nightmare" Diamond',
 		['value'] = '6',
 	},
-	[ 179] = {
+	{
 		['collection'] = 'nightmare',
 		['contains'] = '240134,240135,240136,240137,240138,240139',
 		['id'] = 328,
 		['name'] = '"Nightmare" Weapon Box',
 	},
-	[ 180] = {
+	{
 		['collection'] = 'nightmare',
 		['contains'] = '240134,240135,240136,240137,240138,240139',
 		['id'] = 329,
 		['name'] = '"Nightmare" Weapon Case',
 	},
-	[ 181] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 334,
 		['name'] = 'Medal "Veteran 2025" Bronze',
 		['value'] = '1',
 	},
-	[ 182] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 335,
 		['name'] = 'Medal "Veteran 2025" Silver',
 		['value'] = '2',
 	},
-	[ 183] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 336,
 		['name'] = 'Medal "Veteran 2025" Gold',
 		['value'] = '3',
 	},
-	[ 184] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 337,
 		['name'] = 'Medal "Veteran 2025" Elite Gold',
 		['value'] = '4',
 	},
-	[ 185] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 338,
 		['name'] = 'Medal "Veteran 2025" Platinum',
 		['value'] = '5',
 	},
-	[ 186] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 339,
 		['name'] = 'Medal "Veteran 2025" Diamond',
 		['value'] = '6',
 	},
-	[ 187] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 340,
 		['name'] = 'Medal "Snow Journey"',
 		['value'] = '6',
 	},
-	[ 188] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 341,
 		['name'] = 'Medal "Kitsune Dreams" Bronze',
 		['value'] = '1',
 	},
-	[ 189] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 342,
 		['name'] = 'Medal "Kitsune Dreams" Silver',
 		['value'] = '2',
 	},
-	[ 190] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 343,
 		['name'] = 'Medal "Kitsune Dreams" Gold',
 		['value'] = '3',
 	},
-	[ 191] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 344,
 		['name'] = 'Medal "Kitsune Dreams" Elite Gold',
 		['value'] = '4',
 	},
-	[ 192] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 345,
 		['name'] = 'Medal "Kitsune Dreams" Platinum',
 		['value'] = '5',
 	},
-	[ 193] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 346,
 		['name'] = 'Medal "Kitsune Dreams" Diamond',
 		['value'] = '6',
 	},
-	[ 194] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['contains'] = '240145,240146,240147,240148,240149,240150',
 		['id'] = 347,
 		['name'] = '"Kitsune Dreams" Weapon Case',
 	},
-	[ 195] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['contains'] = '240145,240146,240147,240148,240149,240150',
 		['id'] = 348,
 		['name'] = '"Kitsune Dreams" Weapon Box',
 	},
-	[ 196] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['contains'] = '240151,240152,240153,240154,240155,240156',
 		['id'] = 349,
 		['name'] = '"Kitsune Dreams" Knife Case',
 	},
-	[ 197] = {
+	{
 		['collection'] = 'prey',
 		['contains'] = '240177, 240176, 240175, 240174, 240173, 240172, 240171, 240170, 240169, 240168, 240167, 240166',
 		['id'] = 350,
 		['name'] = '"Prey" Weapon Box',
 	},
-	[ 198] = {
+	{
 		['collection'] = 'prey',
 		['contains'] = '240177, 240176, 240175, 240174, 240173, 240172, 240171, 240170, 240169, 240168, 240167, 240166',
 		['id'] = 351,
 		['name'] = '"Prey" Weapon Case',
 	},
-	[ 199] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 352,
 		['name'] = 'Medal "Prey" Bronze',
 		['value'] = '1',
 	},
-	[ 200] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 353,
 		['name'] = 'Medal "Prey" Silver',
 		['value'] = '2',
 	},
-	[ 201] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 354,
 		['name'] = 'Medal "Prey" Gold',
 		['value'] = '3',
 	},
-	[ 202] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 355,
 		['name'] = 'Medal "Prey" Elite Gold',
 		['value'] = '4',
 	},
-	[ 203] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 356,
 		['name'] = 'Medal "Prey" Platinum',
 		['value'] = '5',
 	},
-	[ 204] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 357,
 		['name'] = 'Medal "Prey" Diamond',
 		['value'] = '6',
 	},
-	[ 205] = {
+	{
 		['collection'] = 'prey',
 		['contains'] = '3041,3042,3043,3044,3045,3046',
 		['id'] = 358,
 		['name'] = '"Prey" Gloves Case',
 	},
-	[ 206] = {
+	{
 		['collection'] = 'dynasty',
 		['contains'] = '240186,240187,240188,240189,240190,240191,240192,240193,240194,240195,240196,240197,240198,240199,240200,240201',
 		['id'] = 359,
 		['name'] = '"Dynasty" Case',
 	},
-	[ 207] = {
+	{
 		['collection'] = 'event8years',
 		['contains'] = '240202, 240203, 1588, 240204, 240205',
 		['id'] = 360,
 		['name'] = 'Great "8 Years" Gift Case',
 	},
-	[ 208] = {
+	{
 		['collection'] = 'event8years',
 		['contains'] = '1588, 240204, 240205, 240206, 5320',
 		['id'] = 361,
 		['name'] = 'Prime "8 Years" Gift Case',
 	},
-	[ 209] = {
+	{
 		['collection'] = 'event8years',
 		['contains'] = '240206, 5320, 240207, 240208, 3047',
 		['id'] = 362,
 		['name'] = 'Ultimate "8 Years" Gift Case',
 	},
-	[ 210] = {
+	{
 		['collection'] = 'gambit',
 		['contains'] = '240212, 240213, 240214, 240215, 240216, 240217',
 		['id'] = 363,
 		['name'] = '"Gambit" Weapon Case',
 	},
-	[ 211] = {
+	{
 		['collection'] = 'gambit',
 		['contains'] = '240212, 240213, 240214, 240215, 240216, 240217',
 		['id'] = 364,
 		['name'] = '"Gambit" Weapon Box',
 	},
-	[ 212] = {
+	{
 		['collection'] = 'gambit',
 		['contains'] = '3048, 3049, 3050, 3051, 3052, 3053',
 		['id'] = 365,
 		['name'] = '"Gambit" Gloves Case',
 	},
-	[ 213] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 366,
 		['name'] = 'Medal "Gambit" Bronze',
 		['value'] = '1',
 	},
-	[ 214] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 367,
 		['name'] = 'Medal "Gambit" Silver',
 		['value'] = '2',
 	},
-	[ 215] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 368,
 		['name'] = 'Medal "Gambit" Gold',
 		['value'] = '3',
 	},
-	[ 216] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 369,
 		['name'] = 'Medal "Gambit" Elite Gold',
 		['value'] = '4',
 	},
-	[ 217] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 370,
 		['name'] = 'Medal "Gambit" Platinum',
 		['value'] = '5',
 	},
-	[ 218] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 371,
 		['name'] = 'Medal "Gambit" Diamond',
 		['value'] = '6',
 	},
-	[ 219] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 372,
 		['name'] = 'Medal "Syndicate" Bronze',
 		['value'] = '1',
 	},
-	[ 220] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 373,
 		['name'] = 'Medal "Syndicate" Silver',
 		['value'] = '2',
 	},
-	[ 221] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 374,
 		['name'] = 'Medal "Syndicate" Gold',
 		['value'] = '3',
 	},
-	[ 222] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 375,
 		['name'] = 'Medal "Syndicate" Elite Gold',
 		['value'] = '4',
 	},
-	[ 223] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 376,
 		['name'] = 'Medal "Syndicate" Platinum',
 		['value'] = '5',
 	},
-	[ 224] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 377,
 		['name'] = 'Medal "Syndicate" Diamond',
 		['value'] = '6',
 	},
-	[ 225] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '240226, 240227, 240228, 240229, 240230, 240231',
 		['id'] = 378,
 		['name'] = '"Syndicate" Knife Case',
 	},
-	[ 226] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '240232, 240233,240234, 240235, 240236, 240237, 240238, 240239, 240240, 240241, 240242, 240243',
 		['id'] = 379,
 		['name'] = '"Syndicate" Weapon Crate',
 	},
-	[ 227] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '240232, 240233, 240234, 240235, 240236, 240237, 240238, 240239, 240240, 240241, 240242, 240243',
 		['id'] = 380,
 		['name'] = '"Syndicate" Weapon Case',
 	},
-	[ 228] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '240244, 5369, 1613, 1614',
 		['id'] = 381,
 		['name'] = '"Syndicate" Tactical Box',
 	},
-	[ 229] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '240245, 240246, 240247, 240248, 240249',
 		['id'] = 382,
 		['name'] = '"Syndicate" Event Crate',
 	},
-	[ 230] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '1615, 1616, 1617, 4450, 4452, 4454,  240245, 240246, 240247, 240248, 240249',
 		['id'] = 383,
 		['name'] = '"Syndicate" Event Box',
 	},
-	[ 231] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '240245, 240246, 240247, 240248, 240249, 240251, 1615, 1616, 1617',
 		['id'] = 384,
 		['name'] = '"Syndicate" Event Case',
 	},
-	[ 232] = {
-		['collection'] = 'origin',
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '240257, 240256, 240255, 240254, 240253, 240252',
+		['id'] = 385,
+		['name'] = '"Dia de Muertos" Weapon Crate',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '240257, 240256, 240255, 240254, 240253, 240252',
+		['id'] = 386,
+		['name'] = '"Dia de Muertos" Weapon Case',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '240270, 240271, 240273, 240274, 240275, 240272',
+		['id'] = 387,
+		['name'] = '"Dia de Muertos" Knife Case',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '1624, 5378, 240259, 240263, 240269',
+		['id'] = 388,
+		['name'] = '"Dia de Muertos" Event Case',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '1626, 1625, 5376, 240267',
+		['id'] = 389,
+		['name'] = '"Dia de Muertos" Tactical Box',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
 		['contains'] = '11001,13002,32002,46003,15002,35001,47001,62001,15003,45002,51002,62002,13001,32001,35002,45001,46002,47002,11002,44002',
 		['id'] = 401,
 		['name'] = '"Origin" Box',
 	},
-	[ 233] = {
+	{
 		['collection'] = 'furious',
 		['contains'] = '11005,35003,44003,62004,15005,45003,47003,52002,15004,32003,46006,51004,44004,48001,52001,32004,51003,62003,13003,48002',
 		['id'] = 402,
 		['name'] = '"Furious" Box',
 	},
-	[ 234] = {
+	{
 		['collection'] = 'rival',
 		['contains'] = '15007,32006,35004,62006,11006,13005,45004,62005,13004,44006,48003,52003,15006,34001,46007,11008,34002,44005,32005,51007',
 		['id'] = 403,
 		['name'] = '"Rival" Box',
 	},
-	[ 235] = {
+	{
 		['collection'] = 'fable',
 		['contains'] = '43401,43502,44902,45302,41201,41601,43201,44401,41102,41502,41703,45301,41212,43202,44903,41605,43402,44601,41701,44603',
 		['id'] = 404,
 		['name'] = '"Fable" Box',
 	},
-	[ 236] = {
+	{
 		['collection'] = 'scorpion',
 		['contains'] = '81214,81613,84906,86317,81108,81215,81323,84501,81107,83411,84403,86216,81726,84500,86318,83410,84624,85127,83512,84402',
 		['id'] = 405,
 		['name'] = '"Scorpion" Box',
 	},
-	[ 237] = {
+	{
 		['collection'] = 'empire',
 		['contains'] = '121100,124500,125200,126300,123200,124400,125101,126201,121300,121600,124301,124600,123400,124800,126401,121200,121500,126400,124300,12510',
 		['id'] = 406,
 		['name'] = '"Empire" Box',
 	},
-	[ 238] = {
+	{
 		['collection'] = 'sharp',
 		['contains'] = '170004,170007,170012,170014,170006,170013,170015,170016,170010,170011,170019,170020,170002,170003,170009,170008,170017,170018,170001,17000',
 		['id'] = 407,
 		['name'] = '"Sharp" Box',
 	},
-	[ 239] = {
+	{
 		['collection'] = 'revenge',
 		['contains'] = '220003,220004,220006,220010,220002,220005,220007,220008,220001,220009,220011,220015,220012,220013,220017,220014,220016,220018,220019,22002',
 		['id'] = 408,
 		['name'] = '"Revenge" Box',
 	},
-	[ 240] = {
+	{
 		['collection'] = 'chameleon',
 		['contains'] = '240083,240084,240085,240086,240087,240088,240089,240090,240092,240093,240094,240097,240091,240095,240096,240098,240099,240100,240101,24010',
 		['id'] = 409,
 		['name'] = '"Chameleon" Box',
 	},
-	[ 241] = {
+	{
 		['collection'] = 'dynasty',
 		['contains'] = '240178,240179,240180,240181,240182,240183,240184,240185,240186,240187,240188,240189,240190,240191,240192,240193,240194,240195,240196,24019',
 		['id'] = 410,
 		['name'] = '"Dynasty" Crate',
 	},
-	[ 242] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '41102,41502,220001,220009,240092,240094,240186,240187,43202,220012,240096,240191,44601,220018,240100,240193,41701,240197,240200,90',
 		['id'] = 411,
 		['name'] = '"Stream" Crate',
 	},
-	[ 243] = {
+		{
 		['collection'] = 'halloween_2019',
 		['contains'] = '1113,1114,1115,1116,1117,1118,1119,1120,1107,1108,1109,1110,1111,1112,1103,1104,1105,1106,1101,1102',
 		['id'] = 701,
 		['name'] = '"Halloween 2019" Sticker Pack',
 	},
-	[ 244] = {
+	{
 		['collection'] = 'rainbow',
 		['contains'] = '1201,1206,1208,1210,1212,1214,1216,1218,1140,1200,1204,1213,1215,1217,1202,1205,1207,1209,1203,1211',
 		['id'] = 702,
 		['name'] = '"Rainbow" Sticker Pack',
 	},
-	[ 245] = {
+	{
 		['collection'] = 'splash',
 		['contains'] = '4055,4057,4061,4063,4069,4075,4079,4081,4053,4059,4065,4071,4073,4077,4049,4051,4083,4085,4047,4067',
 		['id'] = 703,
 		['name'] = '"Splash" Graffiti Pack',
 	},
-	[ 246] = {
+	{
 		['collection'] = 'flow',
 		['contains'] = '4176,4178,4180,4182,4184,4186,4188,4190,4192,4194,4196,4198,4200,4202,4204,4206,4208,4210,4212,4214',
 		['id'] = 704,
 		['name'] = '"Flow" Graffiti Pack',
 	},
-	[ 247] = {
+	{
 		['collection'] = 'shine',
 		['contains'] = '1435,1436,1437,1438,1439,1440,1441,1442,1443,1444,1445,1446,1447,1448,1449,1450,1451,1452,1453,1454',
 		['id'] = 705,
 		['name'] = '"Shine" Sticker Pack',
 	},
-	[ 248] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['contains'] = '4280,4282,4284,4286,4288,4290',
 		['id'] = 706,
 		['name'] = '"Fun&Sun" Graffiti Pack',
 	},
-	[ 249] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['contains'] = '1473,1474,1475,1476,1477,1478',
 		['id'] = 707,
 		['name'] = '"Fun&Sun" Sticker Pack',
 	},
-	[ 250] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['contains'] = '5245,5246,5247,5248,5249,5250',
 		['id'] = 708,
 		['name'] = '"Fun&Sun" Charm Pack',
 	},
-	[ 251] = {
+	{
 		['collection'] = 'vibe',
 		['contains'] = '4330,4328,4326,4324,4322,4320,4318,4316,4314,4312,4310,4308,4306,4304,4302,4300,4298,4296,4294,4292',
 		['id'] = 709,
 		['name'] = '"Vibe" Graffiti Pack',
 	},
-	[ 252] = {
+	{
 		['collection'] = 'reforged',
 		['contains'] = '5274,5273,5272,5271,5270,5269,5268,5267,5266,5265,5264,5263',
 		['id'] = 710,
 		['name'] = '"Reforged" Charm Pack',
 	},
-	[ 253] = {
+	{
 		['collection'] = 'reforged',
 		['contains'] = '1496,1495,1494,1493,1492,1491,1490,1489,1488,1487,1486,1485',
 		['id'] = 711,
 		['name'] = '"Reforged" Sticker Pack',
 	},
-	[ 254] = {
+	{
 		['collection'] = 'reforged',
 		['contains'] = '4354,4352,4350,4348,4346,4344,4342,4340,4338,4336,4334,4332',
 		['id'] = 712,
 		['name'] = '"Reforged" Graffiti Pack',
 	},
-	[ 255] = {
+	{
 		['collection'] = 'nightmare',
 		['contains'] = '1498,1499,1500,1501,1502,1503',
 		['id'] = 713,
 		['name'] = '"Nightmare" Sticker Pack',
 	},
-	[ 256] = {
+	{
 		['collection'] = 'nightmare',
 		['contains'] = '4356,4358,4360,4362,4364,4366',
 		['id'] = 714,
 		['name'] = '"Nightmare" Graffiti Pack',
 	},
-	[ 257] = {
+	{
 		['collection'] = 'nightmare',
 		['contains'] = '5276,5277,5278,5279,5280,5281',
 		['id'] = 715,
 		['name'] = '"Nightmare" Charm Pack',
 	},
-	[ 258] = {
+	{
 		['collection'] = 'esports',
 		['contains'] = '1507,1508,1509,1510,1511,1512,1513',
 		['id'] = 716,
 		['name'] = '"FORZE" Major 2024 Sticker Pack',
 	},
-	[ 259] = {
+	{
 		['collection'] = 'esports',
 		['contains'] = '1514,1515,1516,1517,1518,1519,1520',
 		['id'] = 717,
 		['name'] = '"ALPHA7 ESPORTS" Major 2024 Sticker Pack',
 	},
-	[ 260] = {
+	{
 		['collection'] = 'esports',
 		['contains'] = '1521,1522,1523,1524,1525,1526,1527',
 		['id'] = 718,
 		['name'] = '"STREETEIGHT" Major 2024 Sticker Pack',
 	},
-	[ 261] = {
+	{
 		['collection'] = 'esports',
 		['contains'] = '1528,1529,1530,1531,1532,1533,1534',
 		['id'] = 719,
 		['name'] = '"AMKAL ESPORTS" Major 2024 Sticker Pack',
 	},
-	[ 262] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['contains'] = '5284,5283,5286,5285,5287,5288',
 		['id'] = 720,
 		['name'] = '"Kitsune Dreams" Charm Pack',
 	},
-	[ 263] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['contains'] = '4387, 4389, 4385, 4383, 4381, 4379',
 		['id'] = 721,
 		['name'] = '"Kitsune Dreams" Graffiti Pack',
 	},
-	[ 264] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['contains'] = '1543,1544,1545,1546,1547,1548',
 		['id'] = 722,
 		['name'] = '"Kitsune Dreams" Sticker Pack',
 	},
-	[ 265] = {
+	{
 		['collection'] = 'joy',
 		['contains'] = '1549,1550,1551,1552,1553,1554,1555,1556,1557,1558,1559,1560,1561,1562,1563,1564,1565,1566,1567,1568',
 		['id'] = 723,
 		['name'] = '"Joy" Sticker Pack',
 	},
-	[ 266] = {
+	{
 		['collection'] = 'prey',
 		['contains'] = '1575, 1576, 1577, 1578, 1579, 1580, 1581, 1582, 1583, 1584,1585, 1586',
 		['id'] = 724,
 		['name'] = '"Prey" Sticker Pack',
 	},
-	[ 267] = {
+	{
 		['collection'] = 'prey',
 		['contains'] = '4413, 4411, 4409, 4407, 4405, 4403, 4401, 4399, 4397, 4395, 4393, 4391',
 		['id'] = 725,
 		['name'] = '"Prey" Graffiti Pack',
 	},
-	[ 268] = {
+	{
 		['collection'] = 'prey',
 		['contains'] = '5308,5309,5310,5311,5312,5313,5314,5315,5316,5317,5318,5319',
 		['id'] = 726,
 		['name'] = '"Prey" Charm Pack',
 	},
-	[ 269] = {
+	{
 		['collection'] = 'gambit',
 		['contains'] = '1589, 1590, 1591, 1592, 1593, 1594',
 		['id'] = 727,
 		['name'] = '"Gambit" Sticker Pack',
 	},
-	[ 270] = {
+	{
 		['collection'] = 'gambit',
 		['contains'] = '5321, 5322, 5323, 5324, 5325, 5326',
 		['id'] = 728,
 		['name'] = '"Gambit" Charm Pack',
 	},
-	[ 271] = {
+	{
 		['collection'] = 'gambit',
 		['contains'] = '4415, 4417, 4419, 4421, 4423, 4425',
 		['id'] = 729,
 		['name'] = '"Gambit" Graffiti Pack',
 	},
-	[ 272] = {
+	{
 		['collection'] = 'rewind',
 		['contains'] = '5327,5328,5329,5330,5331,5332,5333,5334,5335,5336,5337,5338',
 		['id'] = 730,
 		['name'] = '"Rewind" Charm Pack',
 	},
-	[ 273] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '4427, 4429, 4431, 4433, 4435, 4437, 4439, 4441, 4443, 4445, 4447, 4449',
 		['id'] = 731,
 		['name'] = '"Syndicate" Graffiti Pack',
 	},
-	[ 274] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612',
 		['id'] = 732,
 		['name'] = '"Syndicate" Sticker Pack',
 	},
-	[ 275] = {
+	{
 		['collection'] = 'syndicate',
 		['contains'] = '5368, 5367, 5366, 5365, 5364, 5363, 5362, 5361, 5360, 5359, 5358, 5357',
 		['id'] = 733,
 		['name'] = '"Syndicate" Charm Pack',
 	},
-	[ 276] = {
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612',
+		['id'] = 734,
+		['name'] = '"Dia de Muertos" Sticker Pack',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['contains'] = '5368, 5367, 5366, 5365, 5364, 5363, 5362, 5361, 5360, 5359, 5358, 5357',
+		['id'] = 735,
+		['name'] = '"Dia de Muertos" Charm Pack',
+	},
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '902,903,904,905,906,907',
 		['id'] = 900,
 		['name'] = 'Fragment Box',
 	},
-	[ 277] = {
+	{
 		['collection'] = 'project_z9',
 		['contains'] = '5045,5046,5047,5050,5048,5049,5051,5052,5040,5041,5043,5042,5044',
 		['id'] = 901,
 		['name'] = '"Halloween 2020" Charm Pack',
 	},
-	[ 278] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '41201,41601,43201,44401,123200,124400,125101,126201,220002,220005,220007,220008,240087,240088,240089,240090',
 		['id'] = 902,
 		['name'] = 'Uncommon Fragment',
 		['value'] = '2',
 	},
-	[ 279] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '41102,41502,41703,45301,121300,121600,124301,124600,220001,220009,220011,220015,240092,240093,240094,240097',
 		['id'] = 903,
 		['name'] = 'Rare Fragment',
 		['value'] = '3',
 	},
-	[ 280] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '41212,43202,44903,123400,124800,126401,220012,220013,220017,240091,240095,240096',
 		['id'] = 904,
 		['name'] = 'Epic Fragment',
 		['value'] = '4',
 	},
-	[ 281] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '41605,43402,44601,121200,121500,126400,220014,220016,220018,240098,240099,240100',
 		['id'] = 905,
 		['name'] = 'Legendary Fragment',
 		['value'] = '5',
 	},
-	[ 282] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '41701,44603,124300,125100,220019,220020,240101,240102',
 		['id'] = 906,
 		['name'] = 'Arcane Fragment',
 		['value'] = '6',
 	},
-	[ 283] = {
+	{
 		['collection'] = 'standoff_2',
 		['contains'] = '240064,240028,5140,180000,5020,5013,85104,41101,44901,12001,51006,72003,240115',
 		['id'] = 907,
 		['name'] = 'Nameless Fragment',
 		['value'] = '7',
 	},
-	[ 284] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1101,
 		['name'] = 'Sticker "Gold Skull"',
 		['value'] = '6',
 	},
-	[ 285] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1102,
 		['name'] = 'Sticker "Punisher"',
 		['value'] = '6',
 	},
-	[ 286] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1103,
 		['name'] = 'Sticker "Mad Bat"',
 		['value'] = '5',
 	},
-	[ 287] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1104,
 		['name'] = 'Sticker "Infernal Skull"',
 		['value'] = '5',
 	},
-	[ 288] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1105,
 		['name'] = 'Sticker "Ghoul"',
 		['value'] = '5',
 	},
-	[ 289] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1106,
 		['name'] = 'Sticker "Batrider"',
 		['value'] = '5',
 	},
-	[ 290] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1107,
 		['name'] = 'Sticker "Gangsta Pumpkin"',
 		['value'] = '4',
 	},
-	[ 291] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1108,
 		['name'] = 'Sticker "Snot"',
 		['value'] = '4',
 	},
-	[ 292] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1109,
 		['name'] = 'Sticker "Devilish"',
 		['value'] = '4',
 	},
-	[ 293] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1110,
 		['name'] = 'Sticker "Hurry Ghost"',
 		['value'] = '4',
 	},
-	[ 294] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1111,
 		['name'] = 'Sticker "Feed"',
 		['value'] = '4',
 	},
-	[ 295] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1112,
 		['name'] = 'Sticker "Anticamper"',
 		['value'] = '4',
 	},
-	[ 296] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1113,
 		['name'] = 'Sticker "BOOM"',
 		['value'] = '3',
 	},
-	[ 297] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1114,
 		['name'] = 'Sticker "Bloody Clown"',
 		['value'] = '3',
 	},
-	[ 298] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1115,
 		['name'] = 'Sticker "Ghosty"',
 		['value'] = '3',
 	},
-	[ 299] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1116,
 		['name'] = 'Sticker "Mummy"',
 		['value'] = '3',
 	},
-	[ 300] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1117,
 		['name'] = 'Sticker "Rush"',
 		['value'] = '3',
 	},
-	[ 301] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1118,
 		['name'] = 'Sticker "Evil Pumpkin"',
 		['value'] = '3',
 	},
-	[ 302] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1119,
 		['name'] = 'Sticker "Zombie"',
 		['value'] = '3',
 	},
-	[ 303] = {
+	{
 		['collection'] = 'halloween_2019',
 		['id'] = 1120,
 		['name'] = 'Sticker "Dracula"',
 		['value'] = '3',
 	},
-	[ 304] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1121,
 		['name'] = 'Sticker "Accordeon"',
 		['value'] = '4',
 	},
-	[ 305] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1122,
 		['name'] = 'Sticker "Cookie Killer"',
 		['value'] = '5',
 	},
-	[ 306] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1123,
 		['name'] = 'Sticker "Winter Duelist"',
 		['value'] = '4',
 	},
-	[ 307] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1124,
 		['name'] = 'Sticker "Mad Santa"',
 		['value'] = '5',
 	},
-	[ 308] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1125,
 		['name'] = 'Sticker "Metal Rat"',
 		['value'] = '6',
 	},
-	[ 309] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1126,
 		['name'] = 'Sticker "Penguin"',
 		['value'] = '4',
 	},
-	[ 310] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1127,
 		['name'] = 'Sticker "Snow King"',
 		['value'] = '3',
 	},
-	[ 311] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1128,
 		['name'] = 'Sticker "Snow Queen"',
 		['value'] = '6',
 	},
-	[ 312] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1129,
 		['name'] = 'Sticker "Numb Santa"',
 		['value'] = '3',
 	},
-	[ 313] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1130,
 		['name'] = 'Sticker "Christmas HE"',
 		['value'] = '3',
 	},
-	[ 314] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1131,
 		['name'] = 'Sticker "Sweet Ammo"',
 		['value'] = '5',
 	},
-	[ 315] = {
+	{
 		['collection'] = 'newyear2020',
 		['id'] = 1132,
 		['name'] = 'Sticker "Toxic Snowball"',
 		['value'] = '3',
 	},
-	[ 316] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1133,
 		['name'] = 'Sticker "Biohazard"',
 		['value'] = '4',
 	},
-	[ 317] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1134,
 		['name'] = 'Sticker "Danger"',
 		['value'] = '3',
 	},
-	[ 318] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1135,
 		['name'] = 'Sticker "Danger Zone"',
 		['value'] = '3',
 	},
-	[ 319] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1136,
 		['name'] = 'Sticker "Drop The Bomb"',
 		['value'] = '5',
 	},
-	[ 320] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1137,
 		['name'] = 'Sticker "Gas Mask"',
 		['value'] = '3',
 	},
-	[ 321] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1138,
 		['name'] = 'Sticker "Z9 Mask"',
 		['value'] = '5',
 	},
-	[ 322] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1139,
 		['name'] = 'Sticker "Z9 Mask" Swap',
 		['value'] = '6',
 	},
-	[ 323] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1140,
 		['name'] = 'Sticker "Murder"',
 		['value'] = '4',
 	},
-	[ 324] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1141,
 		['name'] = 'Sticker "Radiate Heat"',
 		['value'] = '6',
 	},
-	[ 325] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1142,
 		['name'] = 'Sticker "Radiation"',
 		['value'] = '3',
 	},
-	[ 326] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1143,
 		['name'] = 'Sticker "Smoke Grenade" Swap',
 		['value'] = '4',
 	},
-	[ 327] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1144,
 		['name'] = 'Sticker "Toxic"',
 		['value'] = '4',
 	},
-	[ 328] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1145,
 		['name'] = 'Sticker "Toxic" Swap',
 		['value'] = '5',
 	},
-	[ 329] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1146,
 		['name'] = 'Sticker "Z9 Project"',
 		['value'] = '3',
 	},
-	[ 330] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 1147,
 		['name'] = 'Sticker "Z9 Project" Gold',
 		['value'] = '4',
 	},
-	[ 331] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1200,
 		['name'] = 'Sticker "-28" Swap',
 		['value'] = '4',
 	},
-	[ 332] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1201,
 		['name'] = 'Sticker "AWM Master"',
 		['value'] = '3',
 	},
-	[ 333] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1202,
 		['name'] = 'Sticker "AWM Master" Color',
 		['value'] = '5',
 	},
-	[ 334] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1203,
 		['name'] = 'Sticker "Dragon"',
 		['value'] = '6',
 	},
-	[ 335] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1204,
 		['name'] = 'Sticker "Entry Kill" Color',
 		['value'] = '4',
 	},
-	[ 336] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1205,
 		['name'] = 'Sticker "With Love"',
 		['value'] = '5',
 	},
-	[ 337] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1206,
 		['name'] = 'Sticker "Headshot Zone"',
 		['value'] = '3',
 	},
-	[ 338] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1207,
 		['name'] = 'Sticker "The King"',
 		['value'] = '5',
 	},
-	[ 339] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1208,
 		['name'] = 'Sticker "Nice Skill"',
 		['value'] = '3',
 	},
-	[ 340] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1209,
 		['name'] = 'Sticker "Nice Skill" Swap',
 		['value'] = '5',
 	},
-	[ 341] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1210,
 		['name'] = 'Sticker "PRO"',
 		['value'] = '3',
 	},
-	[ 342] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1211,
 		['name'] = 'Sticker "Samurai"',
 		['value'] = '6',
 	},
-	[ 343] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1212,
 		['name'] = 'Sticker "Spare Gold"',
 		['value'] = '3',
 	},
-	[ 344] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1213,
 		['name'] = 'Sticker "Strike" Swap',
 		['value'] = '4',
 	},
-	[ 345] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1214,
 		['name'] = 'Sticker "V2"',
 		['value'] = '3',
 	},
-	[ 346] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1215,
 		['name'] = 'Sticker "V2 PRO" Swap',
 		['value'] = '4',
 	},
-	[ 347] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1216,
 		['name'] = 'Sticker "Deagle Master"',
 		['value'] = '3',
 	},
-	[ 348] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1217,
 		['name'] = 'Sticker "Deagle Master" Swap',
 		['value'] = '4',
 	},
-	[ 349] = {
+	{
 		['collection'] = 'rainbow',
 		['id'] = 1218,
 		['name'] = 'Sticker "Lucky Star"',
 		['value'] = '3',
 	},
-	[ 350] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1220,
 		['name'] = 'Sticker "Big Boy"',
 		['value'] = '5',
 	},
-	[ 351] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1221,
 		['name'] = 'Sticker "Fire" Color',
 		['value'] = '4',
 	},
-	[ 352] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1222,
 		['name'] = 'Sticker "Hot Gun" Color',
 		['value'] = '3',
 	},
-	[ 353] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1223,
 		['name'] = 'Sticker "Infernal Machine" Swap',
 		['value'] = '3',
 	},
-	[ 354] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1224,
 		['name'] = 'Sticker "Neon" Color',
 		['value'] = '6',
 	},
-	[ 355] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1225,
 		['name'] = 'Sticker "Not Today"',
 		['value'] = '3',
 	},
-	[ 356] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1226,
 		['name'] = 'Sticker "Phoenix Blazon" Color',
 		['value'] = '6',
 	},
-	[ 357] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1227,
 		['name'] = 'Sticker "Phoenix Blazon" Gold',
 		['value'] = '5',
 	},
-	[ 358] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1228,
 		['name'] = 'Sticker "Phoenix" Swap',
 		['value'] = '4',
 	},
-	[ 359] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1229,
 		['name'] = 'Sticker "Rage"',
 		['value'] = '5',
 	},
-	[ 360] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1230,
 		['name'] = 'Sticker "Rebirth" Swap',
 		['value'] = '4',
 	},
-	[ 361] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1231,
 		['name'] = 'Sticker "Shooter"',
 		['value'] = '3',
 	},
-	[ 362] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1232,
 		['name'] = 'Sticker "Pewnguin"',
 		['value'] = '3',
 	},
-	[ 363] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1233,
 		['name'] = 'Sticker "Green Sinister"',
 		['value'] = '4',
 	},
-	[ 364] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1234,
 		['name'] = 'Sticker "Candy Cane"',
 		['value'] = '3',
 	},
-	[ 365] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1235,
 		['name'] = 'Sticker "Candy Cane" Swap',
 		['value'] = '5',
 	},
-	[ 366] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1236,
 		['name'] = 'Sticker "Frosty Storm" Swap',
 		['value'] = '6',
 	},
-	[ 367] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1237,
 		['name'] = 'Sticker "Flake"',
 		['value'] = '3',
 	},
-	[ 368] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1238,
 		['name'] = 'Sticker "Flake" Color',
 		['value'] = '5',
 	},
-	[ 369] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1239,
 		['name'] = 'Sticker "Polar Clarity"',
 		['value'] = '4',
 	},
-	[ 370] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1240,
 		['name'] = 'Sticker "Iron Ox" Color',
 		['value'] = '5',
 	},
-	[ 371] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1241,
 		['name'] = 'Sticker "Golden Ox" Color',
 		['value'] = '6',
 	},
-	[ 372] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1242,
 		['name'] = 'Sticker "Winter Sport"',
 		['value'] = '3',
 	},
-	[ 373] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 1243,
 		['name'] = 'Sticker "Winter Sport" Color',
 		['value'] = '4',
 	},
-	[ 374] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 1244,
 		['name'] = 'Sticker "4 Years"',
 		['value'] = '3',
 	},
-	[ 375] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 1245,
 		['name'] = 'Sticker "4 Years" Color',
 		['value'] = '5',
 	},
-	[ 376] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 1246,
 		['name'] = 'Sticker "4 Years" Metallic',
 		['value'] = '4',
 	},
-	[ 377] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1247,
 		['name'] = 'Sticker "Brick"',
 		['value'] = '4',
 	},
-	[ 378] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1248,
 		['name'] = 'Sticker "Carpet"',
 		['value'] = '4',
 	},
-	[ 379] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1249,
 		['name'] = 'Sticker "Grapes"',
 		['value'] = '4',
 	},
-	[ 380] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1250,
 		['name'] = 'Sticker "Humvee"',
 		['value'] = '4',
 	},
-	[ 381] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1251,
 		['name'] = 'Sticker "Pizza"',
 		['value'] = '4',
 	},
-	[ 382] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1252,
 		['name'] = 'Sticker "Province"',
 		['value'] = '5',
 	},
-	[ 383] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1253,
 		['name'] = 'Sticker "Province" Gold',
 		['value'] = '6',
 	},
-	[ 384] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1254,
 		['name'] = 'Sticker "Rust"',
 		['value'] = '5',
 	},
-	[ 385] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1255,
 		['name'] = 'Sticker "Rust" Metallic',
 		['value'] = '6',
 	},
-	[ 386] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1256,
 		['name'] = 'Sticker "Sandstone"',
 		['value'] = '5',
 	},
-	[ 387] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1257,
 		['name'] = 'Sticker "Sandstone" Gold',
 		['value'] = '6',
 	},
-	[ 388] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1258,
 		['name'] = 'Sticker "Sector B"',
 		['value'] = '4',
 	},
-	[ 389] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1259,
 		['name'] = 'Sticker "Target"',
 		['value'] = '4',
 	},
-	[ 390] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1260,
 		['name'] = 'Sticker "Zone9"',
 		['value'] = '5',
 	},
-	[ 391] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1261,
 		['name'] = 'Sticker "Zone9" Color',
 		['value'] = '6',
 	},
-	[ 392] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1262,
 		['name'] = 'Sticker "Ambush"',
 		['value'] = '3',
 	},
-	[ 393] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1263,
 		['name'] = 'Sticker "Koi"',
 		['value'] = '3',
 	},
-	[ 394] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1264,
 		['name'] = 'Sticker "Koi" Color',
 		['value'] = '5',
 	},
-	[ 395] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1265,
 		['name'] = 'Sticker "Akuma"',
 		['value'] = '4',
 	},
-	[ 396] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1266,
 		['name'] = 'Sticker "Kunoichi"',
 		['value'] = '4',
 	},
-	[ 397] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1267,
 		['name'] = 'Sticker "Kitsune"',
 		['value'] = '3',
 	},
-	[ 398] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1268,
 		['name'] = 'Sticker "Neon Dragon" Color',
 		['value'] = '5',
 	},
-	[ 399] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1269,
 		['name'] = 'Sticker "Neon Dragon" Swap',
 		['value'] = '6',
 	},
-	[ 400] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1270,
 		['name'] = 'Sticker "Fluffy Assassin" Color',
 		['value'] = '4',
 	},
-	[ 401] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1271,
 		['name'] = 'Sticker "Sunset" Gold',
 		['value'] = '5',
 	},
-	[ 402] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1272,
 		['name'] = 'Sticker "Emperors Guard"',
 		['value'] = '3',
 	},
-	[ 403] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1273,
 		['name'] = 'Sticker "Zen Chip" Swap',
 		['value'] = '6',
 	},
-	[ 404] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1274,
 		['name'] = 'Sticker "Sakura"',
 		['value'] = '4',
 	},
-	[ 405] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1275,
 		['name'] = 'Sticker "Sakura" Swap',
 		['value'] = '6',
 	},
-	[ 406] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1276,
 		['name'] = 'Sticker "Endurance"',
 		['value'] = '4',
 	},
-	[ 407] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1277,
 		['name'] = 'Sticker "Sushi"',
 		['value'] = '3',
 	},
-	[ 408] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1278,
 		['name'] = 'Sticker "Bonsai"',
 		['value'] = '3',
 	},
-	[ 409] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1279,
 		['name'] = 'Sticker "Luck"',
 		['value'] = '3',
 	},
-	[ 410] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1280,
 		['name'] = 'Sticker "Endurance" Swap',
 		['value'] = '5',
 	},
-	[ 411] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1281,
 		['name'] = 'Sticker "Sushi" Swap',
 		['value'] = '5',
 	},
-	[ 412] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1282,
 		['name'] = 'Shield "Revival" Bronze',
 		['value'] = '1',
 	},
-	[ 413] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1283,
 		['name'] = 'Shield "Revival" Silver',
 		['value'] = '2',
 	},
-	[ 414] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1284,
 		['name'] = 'Shield "Revival" Gold',
 		['value'] = '3',
 	},
-	[ 415] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1285,
 		['name'] = 'Shield "Revival" Elite Gold',
 		['value'] = '4',
 	},
-	[ 416] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1286,
 		['name'] = 'Shield "Revival" Platinum',
 		['value'] = '5',
 	},
-	[ 417] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 1287,
 		['name'] = 'Shield "Revival" Diamond',
 		['value'] = '6',
 	},
-	[ 418] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1288,
 		['name'] = 'Sticker "Demon Flame"',
 		['value'] = '3',
 	},
-	[ 419] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1289,
 		['name'] = 'Sticker "Demon Flame" Color',
 		['value'] = '4',
 	},
-	[ 420] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1290,
 		['name'] = 'Sticker "Demonic Beast" Color',
 		['value'] = '5',
 	},
-	[ 421] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1291,
 		['name'] = 'Sticker "Ghost Lantern" Swap',
 		['value'] = '4',
 	},
-	[ 422] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1292,
 		['name'] = 'Sticker "Ogre"',
 		['value'] = '3',
 	},
-	[ 423] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1293,
 		['name'] = 'Sticker "Shadow Kitsune"',
 		['value'] = '3',
 	},
-	[ 424] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1294,
 		['name'] = 'Sticker "Shadow Kitsune" Color',
 		['value'] = '6',
 	},
-	[ 425] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1295,
 		['name'] = 'Sticker "Spirit House" Swap',
 		['value'] = '5',
 	},
-	[ 426] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 1296,
 		['name'] = 'Sticker "Vampirisushi" Swap',
 		['value'] = '4',
 	},
-	[ 427] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1297,
 		['name'] = 'Sticker "Be Cool"',
 		['value'] = '3',
 	},
-	[ 428] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1298,
 		['name'] = 'Sticker "Be Cool" Color',
 		['value'] = '4',
 	},
-	[ 429] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1299,
 		['name'] = 'Sticker "Christmas Joy"',
 		['value'] = '3',
 	},
-	[ 430] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1300,
 		['name'] = 'Sticker "Christmas Joy" Color',
 		['value'] = '4',
 	},
-	[ 431] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1301,
 		['name'] = 'Sticker "New Year 2022"',
 		['value'] = '3',
 	},
-	[ 432] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1302,
 		['name'] = 'Sticker "Rudolf"',
 		['value'] = '5',
 	},
-	[ 433] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1303,
 		['name'] = 'Sticker "Striped Zodiac"',
 		['value'] = '4',
 	},
-	[ 434] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1304,
 		['name'] = 'Sticker "Winter Fun"',
 		['value'] = '3',
 	},
-	[ 435] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1305,
 		['name'] = 'Sticker "Winter Fun" Color',
 		['value'] = '6',
 	},
-	[ 436] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 1306,
 		['name'] = 'Sticker "Jubilee 5"',
 		['value'] = '3',
 	},
-	[ 437] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 1307,
 		['name'] = 'Sticker "Jubilee 5" Gold',
 		['value'] = '5',
 	},
-	[ 438] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 1308,
 		['name'] = 'Sticker "Jubilee 5" Color',
 		['value'] = '4',
 	},
-	[ 439] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1309,
 		['name'] = 'Sticker "Thunderbolt"',
 		['value'] = '3',
 	},
-	[ 440] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1310,
 		['name'] = 'Sticker "Thunderbolt" Gold',
 		['value'] = '4',
 	},
-	[ 441] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1311,
 		['name'] = 'Sticker "Hound of Hades"',
 		['value'] = '3',
 	},
-	[ 442] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1312,
 		['name'] = 'Sticker "Cyclops"',
 		['value'] = '3',
 	},
-	[ 443] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1313,
 		['name'] = 'Sticker "Gorgon"',
 		['value'] = '6',
 	},
-	[ 444] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1314,
 		['name'] = 'Sticker "Minotaur"',
 		['value'] = '4',
 	},
-	[ 445] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1315,
 		['name'] = 'Sticker "Hades"',
 		['value'] = '5',
 	},
-	[ 446] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1316,
 		['name'] = 'Sticker "Legends" Gold',
 		['value'] = '6',
 	},
-	[ 447] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1317,
 		['name'] = 'Sticker "Legends" Color',
 		['value'] = '4',
 	},
-	[ 448] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1318,
 		['name'] = 'Sticker "Victory"',
 		['value'] = '3',
 	},
-	[ 449] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1319,
 		['name'] = 'Sticker "Zeus" Swap',
 		['value'] = '5',
 	},
-	[ 450] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1320,
 		['name'] = 'Sticker "Breeze" Swap',
 		['value'] = '6',
 	},
-	[ 451] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1321,
 		['name'] = 'Sticker "Cat" Swap',
 		['value'] = '4',
 	},
-	[ 452] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1322,
 		['name'] = 'Sticker "Escape" Swap',
 		['value'] = '4',
 	},
-	[ 453] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1323,
 		['name'] = 'Sticker "Sea Outlaw"',
 		['value'] = '3',
 	},
-	[ 454] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1324,
 		['name'] = 'Sticker "Sea Outlaw" Color',
 		['value'] = '5',
 	},
-	[ 455] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1325,
 		['name'] = 'Sticker "Beacon"',
 		['value'] = '3',
 	},
-	[ 456] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1326,
 		['name'] = 'Sticker "Jellyfish"',
 		['value'] = '3',
 	},
-	[ 457] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1327,
 		['name'] = 'Sticker "Jellyfish" Color',
 		['value'] = '4',
 	},
-	[ 458] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1328,
 		['name'] = 'Sticker "Pirate" Swap',
 		['value'] = '4',
 	},
-	[ 459] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1329,
 		['name'] = 'Sticker "Kraken"',
 		['value'] = '4',
 	},
-	[ 460] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1330,
 		['name'] = 'Sticker "Hound of Hades" Color',
 		['value'] = '5',
 	},
-	[ 461] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1331,
 		['name'] = 'Shield "Dragon Rise" Bronze',
 		['value'] = '1',
 	},
-	[ 462] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1332,
 		['name'] = 'Shield "Dragon Rise" Silver',
 		['value'] = '2',
 	},
-	[ 463] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1333,
 		['name'] = 'Shield "Dragon Rise" Gold',
 		['value'] = '3',
 	},
-	[ 464] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1334,
 		['name'] = 'Shield "Dragon Rise" Elite Gold',
 		['value'] = '4',
 	},
-	[ 465] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1335,
 		['name'] = 'Shield "Dragon Rise" Platinum',
 		['value'] = '5',
 	},
-	[ 466] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 1336,
 		['name'] = 'Shield "Dragon Rise" Diamond',
 		['value'] = '6',
 	},
-	[ 467] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1337,
 		['name'] = 'Sticker "Infected"',
 		['value'] = '6',
 	},
-	[ 468] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1338,
 		['name'] = 'Sticker "Oops" Color',
 		['value'] = '5',
 	},
-	[ 469] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1339,
 		['name'] = 'Sticker "Drowned" Swap',
 		['value'] = '4',
 	},
-	[ 470] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1340,
 		['name'] = 'Sticker "Sea Of Death"',
 		['value'] = '4',
 	},
-	[ 471] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1341,
 		['name'] = 'Sticker "Hazard"',
 		['value'] = '3',
 	},
-	[ 472] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1342,
 		['name'] = 'Sticker "Oops"',
 		['value'] = '3',
 	},
-	[ 473] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1343,
 		['name'] = 'Sticker "Hot Winter Party" Gold',
 		['value'] = '6',
 	},
-	[ 474] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1344,
 		['name'] = 'Sticker "Boom Box" Color',
 		['value'] = '5',
 	},
-	[ 475] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1345,
 		['name'] = 'Sticker "Let It Snow!" Swap',
 		['value'] = '4',
 	},
-	[ 476] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1346,
 		['name'] = 'Sticker "Hot Winter Party"',
 		['value'] = '3',
 	},
-	[ 477] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1347,
 		['name'] = 'Sticker "Ice Hot"',
 		['value'] = '4',
 	},
-	[ 478] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1348,
 		['name'] = 'Sticker "Snow Meteor"',
 		['value'] = '3',
 	},
-	[ 479] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1349,
 		['name'] = 'Sticker "Party Rabbit" Swap',
 		['value'] = '4',
 	},
-	[ 480] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1350,
 		['name'] = 'Sticker "Disco Party" Swap',
 		['value'] = '4',
 	},
-	[ 481] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1351,
 		['name'] = 'Shield "SO2" Silver',
 		['value'] = '3',
 	},
-	[ 482] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1352,
 		['name'] = 'Shield "SO2" Gold',
 		['value'] = '4',
 	},
-	[ 483] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 1353,
 		['name'] = 'Shield "Veteran 2023" Bronze',
 		['value'] = '1',
 	},
-	[ 484] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 1354,
 		['name'] = 'Shield "Veteran 2023" Silver',
 		['value'] = '2',
 	},
-	[ 485] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 1355,
 		['name'] = 'Shield "Veteran 2023" Gold',
 		['value'] = '3',
 	},
-	[ 486] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 1356,
 		['name'] = 'Shield "Veteran 2023" Elite Gold',
 		['value'] = '4',
 	},
-	[ 487] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 1357,
 		['name'] = 'Shield "Veteran 2023" Platinum',
 		['value'] = '5',
 	},
-	[ 488] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 1358,
 		['name'] = 'Shield "Veteran 2023" Diamond',
 		['value'] = '6',
 	},
-	[ 489] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1359,
 		['name'] = 'Sticker "Berserker"',
 		['value'] = '4',
 	},
-	[ 490] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1360,
 		['name'] = 'Sticker "Crest"',
 		['value'] = '3',
 	},
-	[ 491] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1361,
 		['name'] = 'Sticker "Crown"',
 		['value'] = '6',
 	},
-	[ 492] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1362,
 		['name'] = 'Sticker "Fireborn Dragon"',
 		['value'] = '3',
 	},
-	[ 493] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1363,
 		['name'] = 'Sticker "Fireborn Dragon" Gold',
 		['value'] = '5',
 	},
-	[ 494] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1364,
 		['name'] = 'Sticker "Fury Fire" Swap',
 		['value'] = '5',
 	},
-	[ 495] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1365,
 		['name'] = 'Sticker "Lion Lord"',
 		['value'] = '6',
 	},
-	[ 496] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1366,
 		['name'] = 'Sticker "Mad Orc"',
 		['value'] = '3',
 	},
-	[ 497] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1367,
 		['name'] = 'Sticker "Paladin"',
 		['value'] = '4',
 	},
-	[ 498] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1368,
 		['name'] = 'Sticker "Stealth"',
 		['value'] = '4',
 	},
-	[ 499] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1369,
 		['name'] = 'Sticker "Wyrm"',
 		['value'] = '3',
 	},
-	[ 500] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1370,
 		['name'] = 'Sticker "Wyrm" Color',
 		['value'] = '5',
 	},
-	[ 501] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1371,
 		['name'] = 'Shield "Legends" Bronze',
 		['value'] = '1',
 	},
-	[ 502] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1372,
 		['name'] = 'Shield "Legends" Silver',
 		['value'] = '2',
 	},
-	[ 503] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1373,
 		['name'] = 'Shield "Legends" Gold',
 		['value'] = '3',
 	},
-	[ 504] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1374,
 		['name'] = 'Shield "Legends" Elite Gold',
 		['value'] = '4',
 	},
-	[ 505] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1375,
 		['name'] = 'Shield "Legends" Platinum',
 		['value'] = '5',
 	},
-	[ 506] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1376,
 		['name'] = 'Shield "Legends" Diamond',
 		['value'] = '6',
 	},
-	[ 507] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1377,
 		['name'] = 'Shield "6 Years"',
 		['value'] = '4',
 	},
-	[ 508] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1378,
 		['name'] = 'Shield "6 Years" Gold',
 		['value'] = '5',
 	},
-	[ 509] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1379,
 		['name'] = 'Sticker "Bubblegum Space" Swap',
 		['value'] = '6',
 	},
-	[ 510] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1380,
 		['name'] = 'Sticker "Voidhound" Swap',
 		['value'] = '5',
 	},
-	[ 511] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1381,
 		['name'] = 'Sticker "Voidhound"',
 		['value'] = '3',
 	},
-	[ 512] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1382,
 		['name'] = 'Sticker "Hardcore" Color',
 		['value'] = '4',
 	},
-	[ 513] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1383,
 		['name'] = 'Sticker "Bolide" Swap',
 		['value'] = '4',
 	},
-	[ 514] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1384,
 		['name'] = 'Sticker "Space Vision"',
 		['value'] = '3',
 	},
-	[ 515] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1385,
 		['name'] = 'Shield "Fireborn" Bronze',
 		['value'] = '1',
 	},
-	[ 516] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1386,
 		['name'] = 'Shield "Fireborn" Silver',
 		['value'] = '2',
 	},
-	[ 517] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1387,
 		['name'] = 'Shield "Fireborn" Gold',
 		['value'] = '3',
 	},
-	[ 518] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1388,
 		['name'] = 'Shield "Fireborn" Elite Gold',
 		['value'] = '4',
 	},
-	[ 519] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1389,
 		['name'] = 'Shield "Fireborn" Platinum',
 		['value'] = '5',
 	},
-	[ 520] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1390,
 		['name'] = 'Shield "Fireborn" Diamond',
 		['value'] = '6',
 	},
-	[ 521] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1391,
 		['name'] = 'Sticker "Black Hole" Swap',
 		['value'] = '6',
 	},
-	[ 522] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1392,
 		['name'] = 'Sticker "Label"',
 		['value'] = '3',
 	},
-	[ 523] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1393,
 		['name'] = 'Sticker "Camel Sign"',
 		['value'] = '3',
 	},
-	[ 524] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1394,
 		['name'] = 'Sticker "A/C" Swap',
 		['value'] = '4',
 	},
-	[ 525] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1395,
 		['name'] = 'Sticker "Kebab Joint"',
 		['value'] = '4',
 	},
-	[ 526] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1396,
 		['name'] = 'Sticker "FID" Gold',
 		['value'] = '5',
 	},
-	[ 527] = {
+	{
 		['collection'] = 'travelers_bag',
 		['id'] = 1397,
 		['name'] = 'Sticker "Dune" Swap',
 		['value'] = '6',
 	},
-	[ 528] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1398,
 		['name'] = 'Sticker "Sunstrike"',
 		['value'] = '3',
 	},
-	[ 529] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1399,
 		['name'] = 'Sticker "Venomtail"',
 		['value'] = '3',
 	},
-	[ 530] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1400,
 		['name'] = 'Sticker "Sandman"',
 		['value'] = '3',
 	},
-	[ 531] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1401,
 		['name'] = 'Sticker "Sultry"',
 		['value'] = '3',
 	},
-	[ 532] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1402,
 		['name'] = 'Sticker "Marauder" Color',
 		['value'] = '4',
 	},
-	[ 533] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1403,
 		['name'] = 'Sticker "Mirage" Swap',
 		['value'] = '4',
 	},
-	[ 534] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1404,
 		['name'] = 'Sticker "Searing Assassin" Swap',
 		['value'] = '4',
 	},
-	[ 535] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1405,
 		['name'] = 'Sticker "Sunstrike" Gold',
 		['value'] = '5',
 	},
-	[ 536] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1406,
 		['name'] = 'Sticker "Run!" Color',
 		['value'] = '5',
 	},
-	[ 537] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1407,
 		['name'] = 'Sticker "Time Is Over" Color',
 		['value'] = '6',
 	},
-	[ 538] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1408,
 		['name'] = 'Sticker "Explorpion" Swap',
 		['value'] = '5',
 	},
-	[ 539] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1409,
 		['name'] = 'Sticker "Desert Snake" Color',
 		['value'] = '6',
 	},
-	[ 540] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1410,
 		['name'] = 'Sticker "Undead Gaze"',
 		['value'] = '3',
 	},
-	[ 541] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1411,
 		['name'] = 'Sticker "Subject X"',
 		['value'] = '3',
 	},
-	[ 542] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1412,
 		['name'] = 'Sticker "Crazy Devil" Color',
 		['value'] = '3',
 	},
-	[ 543] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1413,
 		['name'] = 'Sticker "Crimson Skull" Swap',
 		['value'] = '4',
 	},
-	[ 544] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1414,
 		['name'] = 'Sticker "Night Flier" Color',
 		['value'] = '4',
 	},
-	[ 545] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1415,
 		['name'] = 'Sticker "Cleaver-minded" Swap',
 		['value'] = '4',
 	},
-	[ 546] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1416,
 		['name'] = 'Sticker "Mind Control" Color',
 		['value'] = '4',
 	},
-	[ 547] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1417,
 		['name'] = 'Sticker "Shocked" Swap',
 		['value'] = '5',
 	},
-	[ 548] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1418,
 		['name'] = 'Sticker "Elusive Beast" Swap',
 		['value'] = '5',
 	},
-	[ 549] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1419,
 		['name'] = 'Sticker "Rabid" Color',
 		['value'] = '6',
 	},
-	[ 550] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 1420,
 		['name'] = 'Shield "Veteran 2024" Bronze',
 		['value'] = '1',
 	},
-	[ 551] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 1421,
 		['name'] = 'Shield "Veteran 2024" Silver',
 		['value'] = '2',
 	},
-	[ 552] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 1422,
 		['name'] = 'Shield "Veteran 2024" Gold',
 		['value'] = '3',
 	},
-	[ 553] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 1423,
 		['name'] = 'Shield "Veteran 2024" Elite Gold',
 		['value'] = '4',
 	},
-	[ 554] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 1424,
 		['name'] = 'Shield "Veteran 2024" Platinum',
 		['value'] = '5',
 	},
-	[ 555] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 1425,
 		['name'] = 'Shield "Veteran 2024" Diamond',
 		['value'] = '6',
 	},
-	[ 556] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1426,
 		['name'] = 'Sticker "Bullet Flake" Swap',
 		['value'] = '3',
 	},
-	[ 557] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1427,
 		['name'] = 'Sticker "Loong"',
 		['value'] = '3',
 	},
-	[ 558] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1428,
 		['name'] = 'Sticker "Frostbite"',
 		['value'] = '3',
 	},
-	[ 559] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1429,
 		['name'] = 'Sticker "Frosty Chaos"',
 		['value'] = '3',
 	},
-	[ 560] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1430,
 		['name'] = 'Sticker "Frostbite" Swap',
 		['value'] = '4',
 	},
-	[ 561] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1431,
 		['name'] = 'Sticker "Talon Stab" Color',
 		['value'] = '4',
 	},
-	[ 562] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1432,
 		['name'] = 'Sticker "Ice-Covered" Shine',
 		['value'] = '4',
 	},
-	[ 563] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1433,
 		['name'] = 'Sticker "Yeti" Reflex',
 		['value'] = '5',
 	},
-	[ 564] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1434,
 		['name'] = 'Sticker "Snow Dome" Reflex',
 		['value'] = '6',
 	},
-	[ 565] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1435,
 		['name'] = 'Sticker "Chameleon Style"',
 		['value'] = '3',
 	},
-	[ 566] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1436,
 		['name'] = 'Sticker "Pyre Breath"',
 		['value'] = '3',
 	},
-	[ 567] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1437,
 		['name'] = 'Sticker "Dream Team"',
 		['value'] = '3',
 	},
-	[ 568] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1438,
 		['name'] = 'Sticker "Tornado"',
 		['value'] = '3',
 	},
-	[ 569] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1439,
 		['name'] = 'Sticker "Bloodthirsty"',
 		['value'] = '3',
 	},
-	[ 570] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1440,
 		['name'] = 'Sticker "Deagle Top"',
 		['value'] = '3',
 	},
-	[ 571] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1441,
 		['name'] = 'Sticker "Tryharder" Swap',
 		['value'] = '3',
 	},
-	[ 572] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1442,
 		['name'] = 'Sticker "Bam"',
 		['value'] = '3',
 	},
-	[ 573] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1443,
 		['name'] = 'Sticker "New Legend" Color',
 		['value'] = '4',
 	},
-	[ 574] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1444,
 		['name'] = 'Sticker "Bulletproof" Swap',
 		['value'] = '4',
 	},
-	[ 575] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1445,
 		['name'] = 'Sticker "Insight" Reflex',
 		['value'] = '4',
 	},
-	[ 576] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1446,
 		['name'] = 'Sticker "Old Camper" Swap',
 		['value'] = '4',
 	},
-	[ 577] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1447,
 		['name'] = 'Sticker "Band-aid" Shine',
 		['value'] = '4',
 	},
-	[ 578] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1448,
 		['name'] = 'Sticker "Detonation" Swap',
 		['value'] = '4',
 	},
-	[ 579] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1449,
 		['name'] = 'Sticker "Disco Dance" Swap',
 		['value'] = '5',
 	},
-	[ 580] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1450,
 		['name'] = 'Sticker "9 Lives" Swap',
 		['value'] = '5',
 	},
-	[ 581] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1451,
 		['name'] = 'Sticker "Sweet Victory" Swap',
 		['value'] = '5',
 	},
-	[ 582] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1452,
 		['name'] = 'Sticker "Rrraptor"',
 		['value'] = '5',
 	},
-	[ 583] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1453,
 		['name'] = 'Sticker "Steady Aim" Reflex',
 		['value'] = '6',
 	},
-	[ 584] = {
+	{
 		['collection'] = 'shine',
 		['id'] = 1454,
 		['name'] = 'Sticker "Kawaii" Shine',
 		['value'] = '6',
 	},
-	[ 585] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1455,
 		['name'] = 'Shield "Sunstrike" Bronze',
 		['value'] = '1',
 	},
-	[ 586] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1456,
 		['name'] = 'Shield "Sunstrike" Silver',
 		['value'] = '2',
 	},
-	[ 587] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1457,
 		['name'] = 'Shield "Sunstrike" Gold',
 		['value'] = '3',
 	},
-	[ 588] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1458,
 		['name'] = 'Shield "Sunstrike" Elite Gold',
 		['value'] = '4',
 	},
-	[ 589] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1459,
 		['name'] = 'Shield "Sunstrike" Platinum',
 		['value'] = '5',
 	},
-	[ 590] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1460,
 		['name'] = 'Shield "Sunstrike" Diamond',
 		['value'] = '6',
 	},
-	[ 591] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1461,
 		['name'] = 'Sticker "Warning"',
 		['value'] = '3',
 	},
-	[ 592] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1462,
 		['name'] = 'Sticker "Woof"',
 		['value'] = '3',
 	},
-	[ 593] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1463,
 		['name'] = 'Sticker "Safety First"',
 		['value'] = '3',
 	},
-	[ 594] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1464,
 		['name'] = 'Sticker "Outcast" Silver',
 		['value'] = '3',
 	},
-	[ 595] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1465,
 		['name'] = 'Sticker "Alert" Swap',
 		['value'] = '4',
 	},
-	[ 596] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1466,
 		['name'] = 'Sticker "Miasma" Swap',
 		['value'] = '4',
 	},
-	[ 597] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1467,
 		['name'] = 'Sticker "Coyote" Swap',
 		['value'] = '4',
 	},
-	[ 598] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1468,
 		['name'] = 'Sticker "Venomizer" Color',
 		['value'] = '5',
 	},
-	[ 599] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1469,
 		['name'] = 'Sticker "Outcast" Gold',
 		['value'] = '5',
 	},
-	[ 600] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1470,
 		['name'] = 'Sticker "Silent Killer" Shine',
 		['value'] = '5',
 	},
-	[ 601] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1471,
 		['name'] = 'Sticker "Fume Ward" Reflex',
 		['value'] = '6',
 	},
-	[ 602] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1472,
 		['name'] = 'Sticker "Zone Spatter" Reflex',
 		['value'] = '6',
 	},
-	[ 603] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1473,
 		['name'] = 'Sticker "Relax" Swap',
 		['value'] = '3',
 	},
-	[ 604] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1474,
 		['name'] = 'Sticker "Flamingo Chill"',
 		['value'] = '3',
 	},
-	[ 605] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1475,
 		['name'] = 'Sticker "Fun and Sun" Gold',
 		['value'] = '4',
 	},
-	[ 606] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1476,
 		['name'] = 'Sticker "Party DJ" Shine',
 		['value'] = '4',
 	},
-	[ 607] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1477,
 		['name'] = 'Sticker "Bubblegum Sun" Color',
 		['value'] = '5',
 	},
-	[ 608] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1478,
 		['name'] = 'Sticker "Snapshot" Reflex',
 		['value'] = '6',
 	},
-	[ 609] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1479,
 		['name'] = 'Shield "Outcast" Bronze',
 		['value'] = '1',
 	},
-	[ 610] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1480,
 		['name'] = 'Shield "Outcast" Silver',
 		['value'] = '2',
 	},
-	[ 611] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1481,
 		['name'] = 'Shield "Outcast" Gold',
 		['value'] = '3',
 	},
-	[ 612] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1482,
 		['name'] = 'Shield "Outcast" Elite Gold',
 		['value'] = '4',
 	},
-	[ 613] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1483,
 		['name'] = 'Shield "Outcast" Platinum',
 		['value'] = '5',
 	},
-	[ 614] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1484,
 		['name'] = 'Shield "Outcast" Diamond',
 		['value'] = '6',
 	},
-	[ 615] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1485,
 		['name'] = 'Sticker "Reforged" Silver',
 		['value'] = '3',
 	},
-	[ 616] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1486,
 		['name'] = 'Sticker "Rusty Gear"',
 		['value'] = '3',
 	},
-	[ 617] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1487,
 		['name'] = 'Sticker "Hard Work"',
 		['value'] = '4',
 	},
-	[ 618] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1488,
 		['name'] = 'Sticker "Iron Force"',
 		['value'] = '3',
 	},
-	[ 619] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1489,
 		['name'] = 'Sticker "Pigeon" Swap',
 		['value'] = '4',
 	},
-	[ 620] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1490,
 		['name'] = 'Sticker "Fury Gauge" Swap',
 		['value'] = '4',
 	},
-	[ 621] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1491,
 		['name'] = 'Sticker "Brutal"',
 		['value'] = '3',
 	},
-	[ 622] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1492,
 		['name'] = 'Sticker "Reforged" Gold',
 		['value'] = '5',
 	},
-	[ 623] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1493,
 		['name'] = 'Sticker "Welding" Swap',
 		['value'] = '5',
 	},
-	[ 624] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1494,
 		['name'] = 'Sticker "Destroyer" Shine',
 		['value'] = '5',
 	},
-	[ 625] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1495,
 		['name'] = 'Sticker "Gun Heart" Swap',
 		['value'] = '6',
 	},
-	[ 626] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1496,
 		['name'] = 'Sticker "Full Metal" Reflex',
 		['value'] = '6',
 	},
-	[ 627] = {
+
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1498,
 		['name'] = 'Sticker "Arachnid"',
 		['value'] = '3',
 	},
-	[ 628] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1499,
 		['name'] = 'Sticker "Nightmare"',
 		['value'] = '3',
 	},
-	[ 629] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1500,
 		['name'] = 'Sticker "Hypnosis" Color',
 		['value'] = '4',
 	},
-	[ 630] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1501,
 		['name'] = 'Sticker "Beware the Bear" Swap',
 		['value'] = '4',
 	},
-	[ 631] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1502,
 		['name'] = 'Sticker "Spectral Mist" Shine',
 		['value'] = '5',
 	},
-	[ 632] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1503,
 		['name'] = 'Sticker "Stalked" Reflex',
 		['value'] = '6',
 	},
-	[ 633] = {
+	{
 		['collection'] = 'collaboration',
 		['id'] = 1504,
 		['name'] = 'Sticker "Green Planet"',
 		['value'] = '4',
 	},
-	[ 634] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1505,
 		['name'] = 'Shield "Perfect Leader"',
 		['value'] = '3',
 	},
-	[ 635] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 1506,
 		['name'] = 'Charm "Perfect Leader"',
 		['value'] = '3',
 	},
-	[ 636] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1507,
 		['name'] = 'Sticker "fRONZES" Major 2024',
 		['value'] = '4',
 	},
-	[ 637] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1508,
 		['name'] = 'Sticker "Lighting" Major 2024',
 		['value'] = '4',
 	},
-	[ 638] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1509,
 		['name'] = 'Sticker "chipaa" Major 2024',
 		['value'] = '4',
 	},
-	[ 639] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1510,
 		['name'] = 'Sticker "w1nnerx" Major 2024',
 		['value'] = '4',
 	},
-	[ 640] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1511,
 		['name'] = 'Sticker "qu1ns3" Major 2024',
 		['value'] = '4',
 	},
-	[ 641] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1512,
 		['name'] = 'Sticker "FORZE" Major 2024 Color',
 		['value'] = '5',
 	},
-	[ 642] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1513,
 		['name'] = 'Sticker "FORZE" Major 2024 Shine',
 		['value'] = '6',
 	},
-	[ 643] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1514,
 		['name'] = 'Sticker "Metal" Major 2024',
 		['value'] = '4',
 	},
-	[ 644] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1515,
 		['name'] = 'Sticker "EcM" Major 2024',
 		['value'] = '4',
 	},
-	[ 645] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1516,
 		['name'] = 'Sticker "BadDark" Major 2024',
 		['value'] = '4',
 	},
-	[ 646] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1517,
 		['name'] = 'Sticker "Koldzza" Major 2024',
 		['value'] = '4',
 	},
-	[ 647] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1518,
 		['name'] = 'Sticker "Kyten" Major 2024',
 		['value'] = '4',
 	},
-	[ 648] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1519,
 		['name'] = 'Sticker "ALPHA7 ESPORTS" Major 2024 Color',
 		['value'] = '5',
 	},
-	[ 649] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1520,
 		['name'] = 'Sticker "ALPHA7 ESPORTS" Major 2024 Shine',
 		['value'] = '6',
 	},
-	[ 650] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1521,
 		['name'] = 'Sticker "McQueen" Major 2024',
 		['value'] = '4',
 	},
-	[ 651] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1522,
 		['name'] = 'Sticker "Toose" Major 2024',
 		['value'] = '4',
 	},
-	[ 652] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1523,
 		['name'] = 'Sticker "pla1Nt" Major 2024',
 		['value'] = '4',
 	},
-	[ 653] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1524,
 		['name'] = 'Sticker "Ping" Major 2024',
 		['value'] = '4',
 	},
-	[ 654] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1525,
 		['name'] = 'Sticker "wyrdin" Major 2024',
 		['value'] = '4',
 	},
-	[ 655] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1526,
 		['name'] = 'Sticker "STREETEIGHT" Major 2024 Color',
 		['value'] = '5',
 	},
-	[ 656] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1527,
 		['name'] = 'Sticker "STREETEIGHT" Major 2024 Shine',
 		['value'] = '6',
 	},
-	[ 657] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1528,
 		['name'] = 'Sticker "ReZz" Major 2024',
 		['value'] = '4',
 	},
-	[ 658] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1529,
 		['name'] = 'Sticker "invi" Major 2024',
 		['value'] = '4',
 	},
-	[ 659] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1530,
 		['name'] = 'Sticker "cxtleta" Major 2024',
 		['value'] = '4',
 	},
-	[ 660] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1531,
 		['name'] = 'Sticker "1tapp" Major 2024',
 		['value'] = '4',
 	},
-	[ 661] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1532,
 		['name'] = 'Sticker "notbroken" Major 2024',
 		['value'] = '4',
 	},
-	[ 662] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1533,
 		['name'] = 'Sticker "AMKAL ESPORTS" Major 2024 Color',
 		['value'] = '5',
 	},
-	[ 663] = {
+	{
 		['collection'] = 'esports',
 		['id'] = 1534,
 		['name'] = 'Sticker "AMKAL ESPORTS" Major 2024 Shine',
 		['value'] = '6',
 	},
-	[ 664] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 1353,
 		['name'] = 'Shield "Veteran 2025" Bronze',
 		['value'] = '1',
 	},
-	[ 665] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 1354,
 		['name'] = 'Shield "Veteran 2025" Silver',
 		['value'] = '2',
 	},
-	[ 666] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 1355,
 		['name'] = 'Shield "Veteran 2025" Gold',
 		['value'] = '3',
 	},
-	[ 667] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 1356,
 		['name'] = 'Shield "Veteran 2025" Elite Gold',
 		['value'] = '4',
 	},
-	[ 668] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 1357,
 		['name'] = 'Shield "Veteran 2025" Platinum',
 		['value'] = '5',
 	},
-	[ 669] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 1358,
 		['name'] = 'Shield "Veteran 2025" Diamond',
 		['value'] = '6',
 	},
-	[ 670] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1541,
 		['name'] = 'Sticker "Sweet Star" Reflex',
 		['value'] = '5',
 	},
-	[ 671] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1542,
 		['name'] = 'Sticker "Ramen"',
 		['value'] = '3',
 	},
-	[ 672] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1543,
 		['name'] = 'Sticker "Pengzilla"',
 		['value'] = '3',
 	},
-	[ 673] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1544,
 		['name'] = 'Sticker "Starflare"',
 		['value'] = '3',
 	},
-	[ 674] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1545,
 		['name'] = 'Sticker "Kitsune Dreams" Shine',
 		['value'] = '4',
 	},
-	[ 675] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1546,
 		['name'] = 'Sticker "Venom Blade" Swap',
 		['value'] = '4',
 	},
-	[ 676] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1547,
 		['name'] = 'Sticker "Candy Core" Shine',
 		['value'] = '5',
 	},
-	[ 677] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1548,
 		['name'] = 'Sticker "Foxwish" Reflex',
 		['value'] = '6',
 	},
-	[ 678] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1549,
 		['name'] = 'Sticker "Oh no"',
 		['value'] = '3',
 	},
-	[ 679] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1550,
 		['name'] = 'Sticker "Ha-Ha Classic"',
 		['value'] = '3',
 	},
-	[ 680] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1551,
 		['name'] = 'Sticker "Think about it"',
 		['value'] = '3',
 	},
-	[ 681] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1552,
 		['name'] = 'Sticker "Wait what"',
 		['value'] = '3',
 	},
-	[ 682] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1553,
 		['name'] = 'Sticker "Pool of Tears"',
 		['value'] = '3',
 	},
-	[ 683] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1554,
 		['name'] = 'Sticker "That Feeling"',
 		['value'] = '3',
 	},
-	[ 684] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1555,
 		['name'] = 'Sticker "Intriguing"',
 		['value'] = '3',
 	},
-	[ 685] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1556,
 		['name'] = 'Sticker "Sad Cat"',
 		['value'] = '3',
 	},
-	[ 686] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1557,
 		['name'] = 'Sticker "Rush A or B" Swap',
 		['value'] = '4',
 	},
-	[ 687] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1558,
 		['name'] = 'Sticker "Wise Choice" Swap',
 		['value'] = '4',
 	},
-	[ 688] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1559,
 		['name'] = 'Sticker "This is Fine" Swap',
 		['value'] = '5',
 	},
-	[ 689] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1560,
 		['name'] = 'Sticker "Good Loot" Swap',
 		['value'] = '4',
 	},
-	[ 690] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1561,
 		['name'] = 'Sticker "Love Paws" Color',
 		['value'] = '4',
 	},
-	[ 691] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1562,
 		['name'] = 'Sticker "Pop-CT" Swap',
 		['value'] = '5',
 	},
-	[ 692] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1563,
 		['name'] = 'Sticker "Triggered" Swap',
 		['value'] = '5',
 	},
-	[ 693] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1564,
 		['name'] = 'Sticker "Your Fault" Swap',
 		['value'] = '4',
 	},
-	[ 694] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1565,
 		['name'] = 'Sticker "Like a Boss" Shine',
 		['value'] = '5',
 	},
-	[ 695] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1566,
 		['name'] = 'Sticker "GigaSAUG"',
 		['value'] = '4',
 	},
-	[ 696] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1567,
 		['name'] = 'Sticker "Sigma" Swap',
 		['value'] = '6',
 	},
-	[ 697] = {
+	{
 		['collection'] = 'joy',
 		['id'] = 1568,
 		['name'] = 'Sticker "Lonely Look" Reflex',
 		['value'] = '6',
 	},
-	[ 698] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1569,
 		['name'] = 'Shield "Reforged" Bronze',
 		['value'] = '1',
 	},
-	[ 699] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1570,
 		['name'] = 'Shield "Reforged" Silver',
 		['value'] = '2',
 	},
-	[ 700] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1571,
 		['name'] = 'Shield "Reforged" Gold',
 		['value'] = '3',
 	},
-	[ 701] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1572,
 		['name'] = 'Shield "Reforged" Elite Gold',
 		['value'] = '4',
 	},
-	[ 702] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1573,
 		['name'] = 'Shield "Reforged" Platinum',
 		['value'] = '5',
 	},
-	[ 703] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1574,
 		['name'] = 'Shield "Reforged" Diamond',
 		['value'] = '6',
 	},
-	[ 704] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1575,
 		['name'] = 'Sticker "Prey"',
 		['value'] = '5',
 	},
-	[ 705] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1576,
 		['name'] = 'Sticker "No Rush"',
 		['value'] = '3',
 	},
-	[ 706] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1577,
 		['name'] = 'Sticker "Capybara"',
 		['value'] = '3',
 	},
-	[ 707] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1578,
 		['name'] = 'Sticker "Gun Run"',
 		['value'] = '3',
 	},
-	[ 708] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1579,
 		['name'] = 'Sticker "Double Trouble" Color',
 		['value'] = '4',
 	},
-	[ 709] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1580,
 		['name'] = 'Sticker "OMG" Swap',
 		['value'] = '4',
 	},
-	[ 710] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1581,
 		['name'] = 'Sticker "Golazo" Shine',
 		['value'] = '4',
 	},
-	[ 711] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1582,
 		['name'] = 'Sticker "Prey" Color',
 		['value'] = '5',
 	},
-	[ 712] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1583,
 		['name'] = 'Sticker "Prowler" Reflex',
 		['value'] = '6',
 	},
-	[ 713] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1584,
 		['name'] = 'Sticker "Chirp" Swap',
 		['value'] = '5',
 	},
-	[ 714] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1585,
 		['name'] = 'Sticker "Backfire" Reflex',
 		['value'] = '5',
 	},
-	[ 715] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1586,
 		['name'] = 'Sticker "Toco" Color',
 		['value'] = '6',
 	},
-	[ 716] = {
+	{
 		['collection'] = 'event8years',
 		['id'] = 1587,
 		['name'] = 'Shield "8 Years"',
 		['value'] = '5',
 	},
-	[ 717] = {
+	{
 		['collection'] = 'event8years',
 		['id'] = 1588,
 		['name'] = 'Sticker "8 Years"',
 		['value'] = '4',
 	},
-	[ 718] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 1589,
 		['name'] = 'Sticker "Gambit"',
 		['value'] = '3',
 	},
-	[ 719] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 1590,
 		['name'] = 'Sticker "Hothead"',
 		['value'] = '3',
 	},
-	[ 720] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 1591,
 		['name'] = 'Sticker "Secret Island" Swap',
 		['value'] = '4',
 	},
-	[ 721] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 1592,
 		['name'] = 'Sticker "Laser Game" Shine',
 		['value'] = '4',
 	},
-	[ 722] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 1593,
 		['name'] = 'Sticker "Sigil" Swap',
 		['value'] = '5',
 	},
-	[ 723] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 1594,
 		['name'] = 'Sticker "Labyrinth" Reflex',
 		['value'] = '6',
 	},
-	[ 724] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1595,
 		['name'] = 'Shield "Prey" Bronze',
 		['value'] = '1',
 	},
-	[ 725] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1596,
 		['name'] = 'Shield "Prey" Silver',
 		['value'] = '2',
 	},
-	[ 726] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1597,
 		['name'] = 'Shield "Prey" Gold',
 		['value'] = '3',
 	},
-	[ 727] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1598,
 		['name'] = 'Shield "Prey" Elite Gold',
 		['value'] = '4',
 	},
-	[ 728] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1599,
 		['name'] = 'Shield "Prey" Platinum',
 		['value'] = '5',
 	},
-	[ 729] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1600,
 		['name'] = 'Shield "Prey" Diamond',
 		['value'] = '6',
 	},
-	[ 730] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1601,
 		['name'] = 'Sticker "Blade Dance" Reflex',
 		['value'] = '6',
 	},
-	[ 731] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1603,
 		['name'] = 'Sticker "Ko Gasumi"',
 		['value'] = '6',
 	},
-	[ 732] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1603,
 		['name'] = 'Sticker "Orchid" Shine',
 		['value'] = '5',
 	},
-	[ 733] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1604,
 		['name'] = 'Sticker "Syndicate" Gold',
 		['value'] = '5',
 	},
-	[ 734] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1605,
 		['name'] = 'Sticker "Drift King" Swap',
 		['value'] = '5',
 	},
-	[ 735] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1606,
 		['name'] = 'Sticker "Rikishi" Color',
 		['value'] = '4',
 	},
-	[ 736] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1607,
 		['name'] = 'Sticker "Pufferfish" Swap',
 		['value'] = '4',
 	},
-	[ 737] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1608,
 		['name'] = 'Sticker "Authority"',
 		['value'] = '4',
 	},
-	[ 738] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1609,
 		['name'] = 'Sticker "Syndicate" Silver',
 		['value'] = '3',
 	},
-	[ 739] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1610,
 		['name'] = 'Sticker "Oni Tattoo"',
 		['value'] = '3',
 	},
-	[ 740] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1611,
 		['name'] = 'Sticker "Koi Tattoo"',
 		['value'] = '3',
 	},
-	[ 741] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1612,
 		['name'] = 'Sticker "Kiku Tattoo"',
 		['value'] = '3',
 	},
-	[ 742] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1613,
 		['name'] = 'Sticker "Syndicate" Color',
 		['value'] = '4',
 	},
-	[ 743] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1614,
 		['name'] = 'Sticker "Syndicate"',
 		['value'] = '3',
 	},
-	[ 744] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1615,
 		['name'] = 'Sticker "Fiery Look"',
 		['value'] = '3',
 	},
-	[ 745] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1616,
 		['name'] = 'Sticker "Octo Chef" Swap',
 		['value'] = '4',
 	},
-	[ 746] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1617,
 		['name'] = 'Sticker "Street Boss" Shine',
 		['value'] = '5',
 	},
-	[ 747] = {
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1618,
+		['name'] = 'Sticker "Phantom Pack" Reflex',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1619,
+		['name'] = 'Sticker "Deadly Draw" Swap',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1620,
+		['name'] = 'Sticker "Viva la Vida" Shine',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1621,
+		['name'] = 'Sticker "El Luchador" Color',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1622,
+		['name'] = 'Sticker "Spiky Strings"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1623,
+		['name'] = 'Sticker "Dia de Muertos"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1624,
+		['name'] = 'Sticker "Spooky"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1625,
+		['name'] = 'Sticker "Paranoia" Reflex',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1626,
+		['name'] = 'Sticker "Vampiric Bite"',
+		['value'] = '3',
+	},
+	{
 		['collection'] = 'revival',
 		['id'] = 3000,
 		['name'] = 'Gloves "Phoenix Risen"',
 		['value'] = '6',
 	},
-	[ 748] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 3001,
 		['name'] = 'Gloves "Autumn"',
 		['value'] = '6',
 	},
-	[ 749] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 3002,
@@ -4501,7 +4598,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 750] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 3003,
@@ -4510,7 +4607,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 751] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 3004,
@@ -4519,7 +4616,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 752] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 3005,
@@ -4528,7 +4625,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 753] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'false',
 		['id'] = 3006,
@@ -4537,7 +4634,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 754] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'false',
 		['id'] = 3007,
@@ -4546,7 +4643,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 755] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'false',
 		['id'] = 3008,
@@ -4555,7 +4652,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 756] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'false',
 		['id'] = 3009,
@@ -4564,110 +4661,110 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 757] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 3010,
 		['name'] = 'Gloves "Year Of The Tiger"',
 		['value'] = '6',
 	},
-	[ 758] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 3011,
 		['name'] = 'Gloves "Acid"',
 		['value'] = '6',
 	},
-	[ 759] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 3012,
 		['name'] = 'Gloves "Camo"',
 		['value'] = '6',
 	},
-	[ 760] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 3013,
 		['name'] = 'Gloves "Fossil"',
 		['value'] = '6',
 	},
-	[ 761] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 3014,
 		['name'] = 'Gloves "Handcraft"',
 		['value'] = '6',
 	},
-	[ 762] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 3015,
 		['name'] = 'Gloves "Raider"',
 		['value'] = '6',
 	},
-	[ 763] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 3016,
 		['name'] = 'Gloves "Thug"',
 		['value'] = '6',
 	},
-	[ 764] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 3017,
 		['name'] = 'Gloves "Templar"',
 		['value'] = '6',
 	},
-	[ 765] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 3018,
 		['name'] = 'Gloves "X-Ray"',
 		['value'] = '6',
 	},
-	[ 766] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 3019,
 		['name'] = 'Gloves "Onyx"',
 		['value'] = '6',
 	},
-	[ 767] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 3020,
 		['name'] = 'Gloves "Tan Hide"',
 		['value'] = '6',
 	},
-	[ 768] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 3021,
 		['name'] = 'Gloves "Dragon Scale"',
 		['value'] = '6',
 	},
-	[ 769] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 3022,
 		['name'] = 'Gloves "Royal Rose"',
 		['value'] = '6',
 	},
-	[ 770] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 3023,
 		['name'] = 'Gloves "Flux"',
 		['value'] = '6',
 	},
-	[ 771] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 3024,
 		['name'] = 'Gloves "Shatter"',
 		['value'] = '6',
 	},
-	[ 772] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 3025,
 		['name'] = 'Gloves "Haunt"',
 		['value'] = '6',
 	},
-	[ 773] = {
+	{
 		['collection'] = 'subjectx',
 		['craftable'] = 'false',
 		['id'] = 3026,
 		['name'] = 'Gloves "Plague"',
 		['value'] = '6',
 	},
-	[ 774] = {
+	{
 		['collection'] = 'subjectx',
 		['craftable'] = 'false',
 		['id'] = 3027,
@@ -4676,7 +4773,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 775] = {
+	{
 		['collection'] = 'subjectx',
 		['craftable'] = 'false',
 		['id'] = 3028,
@@ -4685,7 +4782,9 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 776] = {
+
+
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'false',
 		['id'] = 3030,
@@ -4694,7 +4793,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 777] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'false',
 		['id'] = 3031,
@@ -4703,7 +4802,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 778] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'false',
 		['id'] = 3032,
@@ -4712,7 +4811,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 779] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'false',
 		['id'] = 3033,
@@ -4721,7 +4820,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 780] = {
+	{
 		['collection'] = 'reforged',
 		['craftable'] = 'false',
 		['id'] = 3034,
@@ -4730,7 +4829,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 781] = {
+	{
 		['collection'] = 'reforged',
 		['craftable'] = 'false',
 		['id'] = 3035,
@@ -4739,7 +4838,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 782] = {
+	{
 		['collection'] = 'reforged',
 		['craftable'] = 'false',
 		['id'] = 3036,
@@ -4748,7 +4847,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 783] = {
+	{
 		['collection'] = 'reforged',
 		['craftable'] = 'false',
 		['id'] = 3037,
@@ -4757,7 +4856,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 784] = {
+	{
 		['collection'] = 'reforged',
 		['craftable'] = 'false',
 		['id'] = 3038,
@@ -4766,7 +4865,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 785] = {
+	{
 		['collection'] = 'reforged',
 		['craftable'] = 'false',
 		['id'] = 3039,
@@ -4775,7 +4874,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 786] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['craftable'] = 'false',
 		['id'] = 3040,
@@ -4784,7 +4883,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 787] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'false',
 		['id'] = 3041,
@@ -4793,7 +4892,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 788] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'false',
 		['id'] = 3042,
@@ -4802,7 +4901,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 789] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'false',
 		['id'] = 3043,
@@ -4811,7 +4910,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 790] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'false',
 		['id'] = 3044,
@@ -4820,7 +4919,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 791] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'false',
 		['id'] = 3045,
@@ -4829,7 +4928,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 792] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'false',
 		['id'] = 3046,
@@ -4838,7 +4937,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 793] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 3047,
@@ -4847,7 +4946,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 794] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 3048,
@@ -4856,7 +4955,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 795] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 3049,
@@ -4865,7 +4964,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 796] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 3050,
@@ -4874,7 +4973,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 797] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 3051,
@@ -4883,7 +4982,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 798] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 3052,
@@ -4892,7 +4991,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 799] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 3053,
@@ -4901,4688 +5000,4856 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[ 800] = {
+	{
+		['collection'] = 'dia_de_muertos',
+		['craftable'] = 'false',
+		['match_drop'] = 'false',
+		['id'] = 3054,
+		['name'] = 'Gloves "Skeletal Hand"',
+		['stattrack'] = 'false',
+		['value'] = '6',
+	},
+	{
 		['collection'] = 'event5years',
 		['id'] = 4000,
 		['match_drop'] = 'false',
 		['name'] = 'Graffiti "High 5" Packed',
 		['value'] = '4',
 	},
-	[ 801] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 4001,
 		['name'] = 'Graffiti "High 5"',
 		['value'] = '4',
 	},
-	[ 802] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 4002,
 		['name'] = 'Graffiti "High 5 Splash" Packed',
 		['value'] = '5',
 	},
-	[ 803] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 4003,
 		['name'] = 'Graffiti "High 5 Splash"',
 		['value'] = '5',
 	},
-	[ 804] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4004,
 		['name'] = 'Graffiti "Exactly!"',
 		['value'] = '3',
 	},
-	[ 805] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4005,
 		['name'] = 'Graffiti "Exactly!" Packed',
 		['value'] = '3',
 	},
-	[ 806] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4006,
 		['name'] = 'Graffiti "Thumbs-up!"',
 		['value'] = '4',
 	},
-	[ 807] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4007,
 		['name'] = 'Graffiti "Thumbs-up!" Packed',
 		['value'] = '4',
 	},
-	[ 808] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4008,
 		['name'] = 'Graffiti "Thumbs-down!"',
 		['value'] = '4',
 	},
-	[ 809] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4009,
 		['name'] = 'Graffiti "Thumbs-down!" Packed',
 		['value'] = '4',
 	},
-	[ 810] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4010,
 		['name'] = 'Graffiti "Cupid"',
 		['value'] = '4',
 	},
-	[ 811] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4011,
 		['name'] = 'Graffiti "Cupid" Packed',
 		['value'] = '4',
 	},
-	[ 812] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4012,
 		['name'] = 'Graffiti "Explosive Taste"',
 		['value'] = '3',
 	},
-	[ 813] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4013,
 		['name'] = 'Graffiti "Explosive Taste" Packed',
 		['value'] = '3',
 	},
-	[ 814] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4014,
 		['name'] = 'Graffiti "Hoplite Strength"',
 		['value'] = '6',
 	},
-	[ 815] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4015,
 		['name'] = 'Graffiti "Hoplite Strength" Packed',
 		['value'] = '6',
 	},
-	[ 816] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4016,
 		['name'] = 'Graffiti "Ssshock!"',
 		['value'] = '5',
 	},
-	[ 817] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4017,
 		['name'] = 'Graffiti "Ssshock!" Packed',
 		['value'] = '5',
 	},
-	[ 818] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4018,
 		['name'] = 'Graffiti "Minotaur"',
 		['value'] = '5',
 	},
-	[ 819] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4019,
 		['name'] = 'Graffiti "Minotaur" Packed',
 		['value'] = '5',
 	},
-	[ 820] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4020,
 		['name'] = 'Graffiti "Oliver"',
 		['value'] = '3',
 	},
-	[ 821] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4021,
 		['name'] = 'Graffiti "Oliver" Packed',
 		['value'] = '3',
 	},
-	[ 822] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4022,
 		['name'] = 'Graffiti "Spy"',
 		['value'] = '5',
 	},
-	[ 823] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4023,
 		['name'] = 'Graffiti "Spy" Packed',
 		['value'] = '5',
 	},
-	[ 824] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4024,
 		['name'] = 'Graffiti "Pegus"',
 		['value'] = '3',
 	},
-	[ 825] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4025,
 		['name'] = 'Graffiti "Pegus" Packed',
 		['value'] = '3',
 	},
-	[ 826] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4026,
 		['name'] = 'Graffiti "Victory Bubble"',
 		['value'] = '6',
 	},
-	[ 827] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4027,
 		['name'] = 'Graffiti "Victory Bubble" Packed',
 		['value'] = '6',
 	},
-	[ 828] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4028,
 		['name'] = 'Graffiti "Killer Shark"',
 		['value'] = '4',
 	},
-	[ 829] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4029,
 		['name'] = 'Graffiti "Killer Shark" Packed',
 		['value'] = '4',
 	},
-	[ 830] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4030,
 		['name'] = 'Graffiti "Octopus"',
 		['value'] = '3',
 	},
-	[ 831] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4031,
 		['name'] = 'Graffiti "Octopus" Packed',
 		['value'] = '3',
 	},
-	[ 832] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4032,
 		['name'] = 'Graffiti "Golden Roger"',
 		['value'] = '5',
 	},
-	[ 833] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 4033,
 		['name'] = 'Graffiti "Golden Roger" Packed',
 		['value'] = '5',
 	},
-	[ 834] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4034,
 		['name'] = 'Graffiti "Zombie Attack"',
 		['value'] = '6',
 	},
-	[ 835] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4035,
 		['name'] = 'Graffiti "Zombie Attack" Packed',
 		['value'] = '6',
 	},
-	[ 836] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4036,
 		['name'] = 'Graffiti "You Infected"',
 		['value'] = '5',
 	},
-	[ 837] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4037,
 		['name'] = 'Graffiti "You Infected" Packed',
 		['value'] = '5',
 	},
-	[ 838] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4038,
 		['name'] = 'Graffiti "Observer"',
 		['value'] = '4',
 	},
-	[ 839] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4039,
 		['name'] = 'Graffiti "Observer" Packed',
 		['value'] = '4',
 	},
-	[ 840] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4040,
 		['name'] = 'Graffiti "It is OK"',
 		['value'] = '3',
 	},
-	[ 841] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4041,
 		['name'] = 'Graffiti "It is OK" Packed',
 		['value'] = '3',
 	},
-	[ 842] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4042,
 		['name'] = 'Graffiti "Hazard"',
 		['value'] = '3',
 	},
-	[ 843] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4043,
 		['name'] = 'Graffiti "Hazard" Packed',
 		['value'] = '3',
 	},
-	[ 844] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4044,
 		['name'] = 'Graffiti "Beware of Zombies"',
 		['value'] = '4',
 	},
-	[ 845] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 4045,
 		['name'] = 'Graffiti "Beware of Zombies" Packed',
 		['value'] = '4',
 	},
-	[ 846] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4047,
 		['name'] = 'Graffiti "Ochpochmak" Packed',
 		['value'] = '6',
 	},
-	[ 847] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4049,
 		['name'] = 'Graffiti "Lucky Number" Packed',
 		['value'] = '5',
 	},
-	[ 848] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4050,
 		['name'] = 'Graffiti "Angel"',
 		['value'] = '5',
 	},
-	[ 849] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4051,
 		['name'] = 'Graffiti "Angel" Packed',
 		['value'] = '5',
 	},
-	[ 850] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4052,
 		['name'] = 'Graffiti "Ban"',
 		['value'] = '4',
 	},
-	[ 851] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4053,
 		['name'] = 'Graffiti "Ban" Packed',
 		['value'] = '4',
 	},
-	[ 852] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4054,
 		['name'] = 'Graffiti "Bull"',
 		['value'] = '3',
 	},
-	[ 853] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4055,
 		['name'] = 'Graffiti "Bull" Packed',
 		['value'] = '3',
 	},
-	[ 854] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4056,
 		['name'] = 'Graffiti "Camper"',
 		['value'] = '3',
 	},
-	[ 855] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4057,
 		['name'] = 'Graffiti "Camper" Packed',
 		['value'] = '3',
 	},
-	[ 856] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4058,
 		['name'] = 'Graffiti "Done"',
 		['value'] = '4',
 	},
-	[ 857] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4059,
 		['name'] = 'Graffiti "Done" Packed',
 		['value'] = '4',
 	},
-	[ 858] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4060,
 		['name'] = 'Graffiti "Easy"',
 		['value'] = '3',
 	},
-	[ 859] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4061,
 		['name'] = 'Graffiti "Easy" Packed',
 		['value'] = '3',
 	},
-	[ 860] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4063,
 		['name'] = 'Graffiti "Explosion Warning" Packed',
 		['value'] = '3',
 	},
-	[ 861] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4064,
 		['name'] = 'Graffiti "GG"',
 		['value'] = '4',
 	},
-	[ 862] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4065,
 		['name'] = 'Graffiti "GG" Packed',
 		['value'] = '4',
 	},
-	[ 863] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4067,
 		['name'] = 'Graffiti "Gold Skull" Packed',
 		['value'] = '6',
 	},
-	[ 864] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4069,
 		['name'] = 'Graffiti "Headshot" Packed',
 		['value'] = '3',
 	},
-	[ 865] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4070,
 		['name'] = 'Graffiti "Killed"',
 		['value'] = '4',
 	},
-	[ 866] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4071,
 		['name'] = 'Graffiti "Killed" Packed',
 		['value'] = '4',
 	},
-	[ 867] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4073,
 		['name'] = 'Graffiti "Knife Kill" Packed',
 		['value'] = '4',
 	},
-	[ 868] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4074,
 		['name'] = 'Graffiti "Miss"',
 		['value'] = '3',
 	},
-	[ 869] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4075,
 		['name'] = 'Graffiti "Miss" Packed',
 		['value'] = '3',
 	},
-	[ 870] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4077,
 		['name'] = 'Graffiti "Nice Shot" Packed',
 		['value'] = '4',
 	},
-	[ 871] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4079,
 		['name'] = 'Graffiti "Old School" Packed',
 		['value'] = '3',
 	},
-	[ 872] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4080,
 		['name'] = 'Graffiti "Radio"',
 		['value'] = '3',
 	},
-	[ 873] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4081,
 		['name'] = 'Graffiti "Radio" Packed',
 		['value'] = '3',
 	},
-	[ 874] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4083,
 		['name'] = 'Graffiti "Tough Guy" Packed',
 		['value'] = '5',
 	},
-	[ 875] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4271,
 		['name'] = 'Graffiti "Toxic"',
 		['value'] = '5',
 	},
-	[ 876] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4272,
 		['name'] = 'Graffiti "Toxic" Packed',
 		['value'] = '5',
 	},
-	[ 877] = {
+	{
 		['collection'] = 'splash',
 		['id'] = 4086,
 		['name'] = 'Graffiti "Chill Out!"',
 		['value'] = '5',
 	},
-	[ 878] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4087,
 		['name'] = 'Graffiti "Chill Out!" Packed',
 		['value'] = '5',
 	},
-	[ 879] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4088,
 		['name'] = 'Graffiti "Cooldown!"',
 		['value'] = '4',
 	},
-	[ 880] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4089,
 		['name'] = 'Graffiti "Cooldown" Packed',
 		['value'] = '4',
 	},
-	[ 881] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4090,
 		['name'] = 'Graffiti "Homing Snowman"',
 		['value'] = '6',
 	},
-	[ 882] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4091,
 		['name'] = 'Graffiti "Homing Snowman" Packed',
 		['value'] = '6',
 	},
-	[ 883] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4092,
 		['name'] = 'Graffiti "Quack!"',
 		['value'] = '3',
 	},
-	[ 884] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4093,
 		['name'] = 'Graffiti "Quack!" Packed',
 		['value'] = '3',
 	},
-	[ 885] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4094,
 		['name'] = 'Graffiti "Mind-blowing Gift"',
 		['value'] = '3',
 	},
-	[ 886] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4095,
 		['name'] = 'Graffiti "Mind-blowing Gift" Packed',
 		['value'] = '3',
 	},
-	[ 887] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4096,
 		['name'] = 'Graffiti "Party Rabbit"',
 		['value'] = '3',
 	},
-	[ 888] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4097,
 		['name'] = 'Graffiti "Party Rabbit" Packed',
 		['value'] = '3',
 	},
-	[ 889] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4098,
 		['name'] = 'Graffiti "Water Gun"',
 		['value'] = '3',
 	},
-	[ 890] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4099,
 		['name'] = 'Graffiti "Water Gun" Packed',
 		['value'] = '3',
 	},
-	[ 891] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4100,
 		['name'] = 'Graffiti "Hot Winter Party"',
 		['value'] = '4',
 	},
-	[ 892] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 4101,
 		['name'] = 'Graffiti "Hot Winter Party" Packed',
 		['value'] = '4',
 	},
-	[ 893] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 4102,
 		['name'] = 'Graffiti "SO2"',
 		['value'] = '3',
 	},
-	[ 894] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 4103,
 		['name'] = 'Graffiti "SO2 King"',
 		['value'] = '4',
 	},
-	[ 895] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 4104,
 		['name'] = 'Graffiti "Veteran 2023" Bronze',
 		['value'] = '1',
 	},
-	[ 896] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 4105,
 		['name'] = 'Graffiti "Veteran 2023" Silver',
 		['value'] = '2',
 	},
-	[ 897] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 4106,
 		['name'] = 'Graffiti "Veteran 2023" Gold',
 		['value'] = '3',
 	},
-	[ 898] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 4107,
 		['name'] = 'Graffiti "Veteran 2023" Elite Gold',
 		['value'] = '4',
 	},
-	[ 899] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 4108,
 		['name'] = 'Graffiti "Veteran 2023" Platinum',
 		['value'] = '5',
 	},
-	[ 900] = {
+	{
 		['collection'] = 'veteran_2023',
 		['id'] = 4109,
 		['name'] = 'Graffiti "Veteran 2023" Diamond',
 		['value'] = '6',
 	},
-	[ 901] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4111,
 		['name'] = 'Graffiti "Champion"',
 		['value'] = '4',
 	},
-	[ 902] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4112,
 		['name'] = 'Graffiti "Champion" Packed',
 		['value'] = '4',
 	},
-	[ 903] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4113,
 		['name'] = 'Graffiti "Dislike"',
 		['value'] = '3',
 	},
-	[ 904] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4114,
 		['name'] = 'Graffiti "Dislike" Packed',
 		['value'] = '3',
 	},
-	[ 905] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4115,
 		['name'] = 'Graffiti "Dual Double"',
 		['value'] = '5',
 	},
-	[ 906] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4116,
 		['name'] = 'Graffiti "Dual Double" Packed',
 		['value'] = '5',
 	},
-	[ 907] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4117,
 		['name'] = 'Graffiti "Fireborn"',
 		['value'] = '3',
 	},
-	[ 908] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4118,
 		['name'] = 'Graffiti "Fireborn" Packed',
 		['value'] = '3',
 	},
-	[ 909] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4119,
 		['name'] = 'Graffiti "Firestorm"',
 		['value'] = '6',
 	},
-	[ 910] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4120,
 		['name'] = 'Graffiti "Firestorm" Packed',
 		['value'] = '6',
 	},
-	[ 911] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4121,
 		['name'] = 'Graffiti "Knives Out"',
 		['value'] = '5',
 	},
-	[ 912] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4122,
 		['name'] = 'Graffiti "Knives Out" Packed',
 		['value'] = '5',
 	},
-	[ 913] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4123,
 		['name'] = 'Graffiti "Lion Lord"',
 		['value'] = '6',
 	},
-	[ 914] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4124,
 		['name'] = 'Graffiti "Lion Lord" Packed',
 		['value'] = '6',
 	},
-	[ 915] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4125,
 		['name'] = 'Graffiti "Mad Orc"',
 		['value'] = '4',
 	},
-	[ 916] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4126,
 		['name'] = 'Graffiti "Mad Orc" Packed',
 		['value'] = '4',
 	},
-	[ 917] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4127,
 		['name'] = 'Graffiti "Metal Rock"',
 		['value'] = '3',
 	},
-	[ 918] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4128,
 		['name'] = 'Graffiti "Metal Rock" Packed',
 		['value'] = '3',
 	},
-	[ 919] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4129,
 		['name'] = 'Graffiti "Morning Star"',
 		['value'] = '3',
 	},
-	[ 920] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4130,
 		['name'] = 'Graffiti "Morning Star" Packed',
 		['value'] = '3',
 	},
-	[ 921] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4131,
 		['name'] = 'Graffiti "Bullseye"',
 		['value'] = '4',
 	},
-	[ 922] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4132,
 		['name'] = 'Graffiti "Bullseye" Packed',
 		['value'] = '4',
 	},
-	[ 923] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4133,
 		['name'] = 'Graffiti "On Fire"',
 		['value'] = '5',
 	},
-	[ 924] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 4134,
 		['name'] = 'Graffiti "On Fire" Packed',
 		['value'] = '5',
 	},
-	[ 925] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 4135,
 		['name'] = 'Graffiti "6 Years"',
 		['value'] = '5',
 	},
-	[ 926] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4137,
 		['name'] = 'Graffiti "Move Fast"',
 		['value'] = '6',
 	},
-	[ 927] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4138,
 		['name'] = 'Graffiti "Move Fast" Packed',
 		['value'] = '6',
 	},
-	[ 928] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4139,
 		['name'] = 'Graffiti "Death Match"',
 		['value'] = '5',
 	},
-	[ 929] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4140,
 		['name'] = 'Graffiti "Death Match" Packed',
 		['value'] = '5',
 	},
-	[ 930] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4141,
 		['name'] = 'Graffiti "Blasted"',
 		['value'] = '4',
 	},
-	[ 931] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4142,
 		['name'] = 'Graffiti "Blasted" Packed',
 		['value'] = '4',
 	},
-	[ 932] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4143,
 		['name'] = 'Graffiti "Stellarshot"',
 		['value'] = '4',
 	},
-	[ 933] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4144,
 		['name'] = 'Graffiti "Stellarshot" Packed',
 		['value'] = '4',
 	},
-	[ 934] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4145,
 		['name'] = 'Graffiti "Space Vision"',
 		['value'] = '3',
 	},
-	[ 935] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4146,
 		['name'] = 'Graffiti "Space Vision" Packed',
 		['value'] = '3',
 	},
-	[ 936] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4147,
 		['name'] = 'Graffiti "UFO"',
 		['value'] = '3',
 	},
-	[ 937] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4148,
 		['name'] = 'Graffiti "UFO" Packed',
 		['value'] = '3',
 	},
-	[ 938] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4149,
 		['name'] = 'Graffiti "Black Hole"',
 		['value'] = '6',
 	},
-	[ 939] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 4150,
 		['name'] = 'Graffiti "Black Hole" Packed',
 		['value'] = '6',
 	},
-	[ 940] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4151,
 		['name'] = 'Graffiti "Crossroads"',
 		['value'] = '3',
 	},
-	[ 941] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4152,
 		['name'] = 'Graffiti "Crossroads" Packed',
 		['value'] = '3',
 	},
-	[ 942] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4153,
 		['name'] = 'Graffiti "Cactus"',
 		['value'] = '3',
 	},
-	[ 943] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4154,
 		['name'] = 'Graffiti "Cactus" Packed',
 		['value'] = '3',
 	},
-	[ 944] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4155,
 		['name'] = 'Graffiti "Firearm"',
 		['value'] = '3',
 	},
-	[ 945] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4156,
 		['name'] = 'Graffiti "Firearm" Packed',
 		['value'] = '3',
 	},
-	[ 946] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4157,
 		['name'] = 'Graffiti "Sunstrike"',
 		['value'] = '3',
 	},
-	[ 947] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4158,
 		['name'] = 'Graffiti "Sunstrike" Packed',
 		['value'] = '3',
 	},
-	[ 948] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4159,
 		['name'] = 'Graffiti "Scorcher"',
 		['value'] = '4',
 	},
-	[ 949] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4160,
 		['name'] = 'Graffiti "Scorcher" Packed',
 		['value'] = '4',
 	},
-	[ 950] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4161,
 		['name'] = 'Graffiti "Chibi Chill"',
 		['value'] = '4',
 	},
-	[ 951] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4162,
 		['name'] = 'Graffiti "Chibi Chill" Packed',
 		['value'] = '4',
 	},
-	[ 952] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4163,
 		['name'] = 'Graffiti "Sandman"',
 		['value'] = '4',
 	},
-	[ 953] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4164,
 		['name'] = 'Graffiti "Sandman" Packed',
 		['value'] = '4',
 	},
-	[ 954] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4165,
 		['name'] = 'Graffiti "Fortune Teller"',
 		['value'] = '5',
 	},
-	[ 955] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4166,
 		['name'] = 'Graffiti "Fortune Teller" Packed',
 		['value'] = '5',
 	},
-	[ 956] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4167,
 		['name'] = 'Graffiti "Oasis"',
 		['value'] = '5',
 	},
-	[ 957] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4168,
 		['name'] = 'Graffiti "Oasis" Packed',
 		['value'] = '5',
 	},
-	[ 958] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4169,
 		['name'] = 'Graffiti "Bang"',
 		['value'] = '5',
 	},
-	[ 959] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4170,
 		['name'] = 'Graffiti "Bang" Packed',
 		['value'] = '5',
 	},
-	[ 960] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4171,
 		['name'] = 'Graffiti "Meowgical Genie"',
 		['value'] = '6',
 	},
-	[ 961] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4172,
 		['name'] = 'Graffiti "Meowgical Genie" Packed',
 		['value'] = '6',
 	},
-	[ 962] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4173,
 		['name'] = 'Graffiti "Toxic Play"',
 		['value'] = '6',
 	},
-	[ 963] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 4174,
 		['name'] = 'Graffiti "Toxic Play" Packed',
 		['value'] = '6',
 	},
-	[ 964] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4175,
 		['name'] = 'Graffiti "Vibes"',
 		['value'] = '3',
 	},
-	[ 965] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4176,
 		['name'] = 'Graffiti "Vibes" Packed',
 		['value'] = '3',
 	},
-	[ 966] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4177,
 		['name'] = 'Graffiti "Crazy"',
 		['value'] = '3',
 	},
-	[ 967] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4178,
 		['name'] = 'Graffiti "Crazy" Packed',
 		['value'] = '3',
 	},
-	[ 968] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4179,
 		['name'] = 'Graffiti "Head Hunter"',
 		['value'] = '3',
 	},
-	[ 969] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4180,
 		['name'] = 'Graffiti "Head Hunter" Packed',
 		['value'] = '3',
 	},
-	[ 970] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4181,
 		['name'] = 'Graffiti "Stare"',
 		['value'] = '3',
 	},
-	[ 971] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4182,
 		['name'] = 'Graffiti "Stare" Packed',
 		['value'] = '3',
 	},
-	[ 972] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4183,
 		['name'] = 'Graffiti "RIP"',
 		['value'] = '3',
 	},
-	[ 973] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4184,
 		['name'] = 'Graffiti "RIP" Packed',
 		['value'] = '3',
 	},
-	[ 974] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4185,
 		['name'] = 'Graffiti "Low HP"',
 		['value'] = '3',
 	},
-	[ 975] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4186,
 		['name'] = 'Graffiti "Low HP" Packed',
 		['value'] = '3',
 	},
-	[ 976] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4187,
 		['name'] = 'Graffiti "Blue Fire"',
 		['value'] = '3',
 	},
-	[ 977] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4188,
 		['name'] = 'Graffiti "Blue Fire" Packed',
 		['value'] = '3',
 	},
-	[ 978] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4189,
 		['name'] = 'Graffiti "Molotov"',
 		['value'] = '3',
 	},
-	[ 979] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4190,
 		['name'] = 'Graffiti "Molotov" Packed',
 		['value'] = '3',
 	},
-	[ 980] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4191,
 		['name'] = 'Graffiti "Sorry"',
 		['value'] = '4',
 	},
-	[ 981] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4192,
 		['name'] = 'Graffiti "Sorry" Packed',
 		['value'] = '4',
 	},
-	[ 982] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4193,
 		['name'] = 'Graffiti "Not Bad"',
 		['value'] = '4',
 	},
-	[ 983] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4194,
 		['name'] = 'Graffiti "Not Bad" Packed',
 		['value'] = '4',
 	},
-	[ 984] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4195,
 		['name'] = 'Graffiti "Quencher"',
 		['value'] = '4',
 	},
-	[ 985] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4196,
 		['name'] = 'Graffiti "Quencher" Packed',
 		['value'] = '4',
 	},
-	[ 986] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4197,
 		['name'] = 'Graffiti "Gotcha"',
 		['value'] = '4',
 	},
-	[ 987] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4198,
 		['name'] = 'Graffiti "Gotcha" Packed',
 		['value'] = '4',
 	},
-	[ 988] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4199,
 		['name'] = 'Graffiti "Ace"',
 		['value'] = '4',
 	},
-	[ 989] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4200,
 		['name'] = 'Graffiti "Ace" Packed',
 		['value'] = '4',
 	},
-	[ 990] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4201,
 		['name'] = 'Graffiti "Save"',
 		['value'] = '4',
 	},
-	[ 991] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4202,
 		['name'] = 'Graffiti "Save" Packed',
 		['value'] = '4',
 	},
-	[ 992] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4203,
 		['name'] = 'Graffiti "Trophy"',
 		['value'] = '5',
 	},
-	[ 993] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4204,
 		['name'] = 'Graffiti "Trophy" Packed',
 		['value'] = '5',
 	},
-	[ 994] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4205,
 		['name'] = 'Graffiti "Clutch"',
 		['value'] = '5',
 	},
-	[ 995] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4206,
 		['name'] = 'Graffiti "Clutch" Packed',
 		['value'] = '5',
 	},
-	[ 996] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4207,
 		['name'] = 'Graffiti "Touch Down"',
 		['value'] = '5',
 	},
-	[ 997] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4208,
 		['name'] = 'Graffiti "Touch Down" Packed',
 		['value'] = '5',
 	},
-	[ 998] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4209,
 		['name'] = 'Graffiti "Slow"',
 		['value'] = '5',
 	},
-	[ 999] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4210,
 		['name'] = 'Graffiti "Slow" Packed',
 		['value'] = '5',
 	},
-	[1000] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4211,
 		['name'] = 'Graffiti "Mad Bullet"',
 		['value'] = '6',
 	},
-	[1001] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4212,
 		['name'] = 'Graffiti "Mad Bullet" Packed',
 		['value'] = '6',
 	},
-	[1002] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4213,
 		['name'] = 'Graffiti "Fail"',
 		['value'] = '6',
 	},
-	[1003] = {
+	{
 		['collection'] = 'flow',
 		['id'] = 4214,
 		['name'] = 'Graffiti "Fail" Packed',
 		['value'] = '6',
 	},
-	[1004] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4215,
 		['name'] = 'Graffiti "Mad Gene"',
 		['value'] = '3',
 	},
-	[1005] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4216,
 		['name'] = 'Graffiti "Mad Gene" Packed',
 		['value'] = '3',
 	},
-	[1006] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4217,
 		['name'] = 'Graffiti "Cant Hide"',
 		['value'] = '3',
 	},
-	[1007] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4218,
 		['name'] = 'Graffiti "Cant Hide" Packed',
 		['value'] = '3',
 	},
-	[1008] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4219,
 		['name'] = 'Graffiti "Omen"',
 		['value'] = '3',
 	},
-	[1009] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4220,
 		['name'] = 'Graffiti "Omen" Packed',
 		['value'] = '3',
 	},
-	[1010] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4221,
 		['name'] = 'Graffiti "Subject X"',
 		['value'] = '3',
 	},
-	[1011] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4222,
 		['name'] = 'Graffiti "Subject X" Packed',
 		['value'] = '3',
 	},
-	[1012] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4223,
 		['name'] = 'Graffiti "Keep Out"',
 		['value'] = '4',
 	},
-	[1013] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4224,
 		['name'] = 'Graffiti "Keep Out" Packed',
 		['value'] = '4',
 	},
-	[1014] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4225,
 		['name'] = 'Graffiti "Empowered"',
 		['value'] = '4',
 	},
-	[1015] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4226,
 		['name'] = 'Graffiti "Empowered" Packed',
 		['value'] = '4',
 	},
-	[1016] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4227,
 		['name'] = 'Graffiti "Crimson Skull"',
 		['value'] = '4',
 	},
-	[1017] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4228,
 		['name'] = 'Graffiti "Crimson Skull" Packed',
 		['value'] = '4',
 	},
-	[1018] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4229,
 		['name'] = 'Graffiti "Lab Rat"',
 		['value'] = '5',
 	},
-	[1019] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4230,
 		['name'] = 'Graffiti "Lab Rat" Packed',
 		['value'] = '5',
 	},
-	[1020] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4231,
 		['name'] = 'Graffiti "Bite"',
 		['value'] = '6',
 	},
-	[1021] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 4232,
 		['name'] = 'Graffiti "Bite" Packed',
 		['value'] = '6',
 	},
-	[1022] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 4233,
 		['name'] = 'Graffiti "Veteran 2024" Bronze',
 		['value'] = '1',
 	},
-	[1023] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 4234,
 		['name'] = 'Graffiti "Veteran 2024" Silver',
 		['value'] = '2',
 	},
-	[1024] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 4235,
 		['name'] = 'Graffiti "Veteran 2024" Gold',
 		['value'] = '3',
 	},
-	[1025] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 4236,
 		['name'] = 'Graffiti "Veteran 2024" Elite Gold',
 		['value'] = '4',
 	},
-	[1026] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 4237,
 		['name'] = 'Graffiti "Veteran 2024" Platinum',
 		['value'] = '5',
 	},
-	[1027] = {
+	{
 		['collection'] = 'veteran_2024',
 		['id'] = 4238,
 		['name'] = 'Graffiti "Veteran 2024" Diamond',
 		['value'] = '6',
 	},
-	[1028] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4239,
 		['name'] = 'Graffiti "Freeze"',
 		['value'] = '3',
 	},
-	[1029] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4240,
 		['name'] = 'Graffiti "Freeze" Packed',
 		['value'] = '3',
 	},
-	[1030] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4241,
 		['name'] = 'Graffiti "Frosty Chaos"',
 		['value'] = '3',
 	},
-	[1031] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4242,
 		['name'] = 'Graffiti "Frosty Chaos" Packed',
 		['value'] = '3',
 	},
-	[1032] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4243,
 		['name'] = 'Graffiti "Snow Flake"',
 		['value'] = '3',
 	},
-	[1033] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4244,
 		['name'] = 'Graffiti "Snow Flake" Packed',
 		['value'] = '3',
 	},
-	[1034] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4245,
 		['name'] = 'Graffiti "Ammo Stocking"',
 		['value'] = '4',
 	},
-	[1035] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4246,
 		['name'] = 'Graffiti "Ammo Stocking" Packed',
 		['value'] = '4',
 	},
-	[1036] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4247,
 		['name'] = 'Graffiti "Candy Shiv"',
 		['value'] = '4',
 	},
-	[1037] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4248,
 		['name'] = 'Graffiti "Candy Shiv" Packed',
 		['value'] = '4',
 	},
-	[1038] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4249,
 		['name'] = 'Graffiti "Holiday Fuss"',
 		['value'] = '5',
 	},
-	[1039] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4250,
 		['name'] = 'Graffiti "Holiday Fuss" Packed',
 		['value'] = '5',
 	},
-	[1040] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4251,
 		['name'] = 'Graffiti "Loong"',
 		['value'] = '6',
 	},
-	[1041] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 4252,
 		['name'] = 'Graffiti "Loong" Packed',
 		['value'] = '6',
 	},
-	[1042] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4253,
 		['name'] = 'Graffiti "Coyote"',
 		['value'] = '3',
 	},
-	[1043] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4254,
 		['name'] = 'Graffiti "Coyote" Packed',
 		['value'] = '3',
 	},
-	[1044] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4256,
 		['name'] = 'Graffiti "Watch Your Step" Packed',
 		['value'] = '3',
 	},
-	[1045] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4257,
 		['name'] = 'Graffiti "Outcast"',
 		['value'] = '3',
 	},
-	[1046] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4258,
 		['name'] = 'Graffiti "Outcast" Packed',
 		['value'] = '3',
 	},
-	[1047] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4259,
 		['name'] = 'Graffiti "Danger"',
 		['value'] = '3',
 	},
-	[1048] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4260,
 		['name'] = 'Graffiti "Danger" Packed',
 		['value'] = '3',
 	},
-	[1049] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4262,
 		['name'] = 'Graffiti "Disinfection" Packed',
 		['value'] = '4',
 	},
-	[1050] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4264,
 		['name'] = 'Graffiti "Knock Knock" Packed',
 		['value'] = '4',
 	},
-	[1051] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4265,
 		['name'] = 'Graffiti "Smile"',
 		['value'] = '4',
 	},
-	[1052] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4266,
 		['name'] = 'Graffiti "Smile" Packed',
 		['value'] = '4',
 	},
-	[1053] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4268,
 		['name'] = 'Graffiti "Acid Rain" Packed',
 		['value'] = '5',
 	},
-	[1054] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4270,
 		['name'] = 'Graffiti "Cool Game" Packed',
 		['value'] = '5',
 	},
-	[1055] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4274,
 		['name'] = 'Graffiti "Reactive" Packed',
 		['value'] = '6',
 	},
-	[1056] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 4276,
 		['name'] = 'Graffiti "Radiate Heat" Packed',
 		['value'] = '6',
 	},
-	[1057] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 4277,
 		['name'] = 'Graffiti "7 Years"',
 		['value'] = '5',
 	},
-	[1058] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 4278,
 		['name'] = 'Shield "7 Years"',
 		['value'] = '4',
 	},
-	[1059] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4280,
 		['name'] = 'Graffiti "Fun and Sun" Packed',
 		['value'] = '3',
 	},
-	[1060] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4281,
 		['name'] = 'Graffiti "Aloha"',
 		['value'] = '3',
 	},
-	[1061] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4282,
 		['name'] = 'Graffiti "Aloha" Packed',
 		['value'] = '3',
 	},
-	[1062] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4283,
 		['name'] = 'Graffiti "Nice"',
 		['value'] = '4',
 	},
-	[1063] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4284,
 		['name'] = 'Graffiti "Nice" Packed',
 		['value'] = '4',
 	},
-	[1064] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4286,
 		['name'] = 'Graffiti "Heat Rage" Packed',
 		['value'] = '4',
 	},
-	[1065] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4288,
 		['name'] = 'Graffiti "Rip and R.I.P" Packed',
 		['value'] = '5',
 	},
-	[1066] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 4290,
 		['name'] = 'Graffiti "Water War" Packed',
 		['value'] = '6',
 	},
-	[1067] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4291,
 		['name'] = 'Graffiti "Lucky Clover"',
 		['value'] = '3',
 	},
-	[1068] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4292,
 		['name'] = 'Graffiti "Lucky Clover" Packed',
 		['value'] = '3',
 	},
-	[1069] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4293,
 		['name'] = 'Graffiti "Muted"',
 		['value'] = '3',
 	},
-	[1070] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4294,
 		['name'] = 'Graffiti "Muted" Packed',
 		['value'] = '3',
 	},
-	[1071] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4295,
 		['name'] = 'Graffiti "Tears of the Battle"',
 		['value'] = '3',
 	},
-	[1072] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4296,
 		['name'] = 'Graffiti "Tears of the Battle" Packed',
 		['value'] = '3',
 	},
-	[1073] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4297,
 		['name'] = 'Graffiti "Perfect Shot"',
 		['value'] = '3',
 	},
-	[1074] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4298,
 		['name'] = 'Graffiti "Perfect Shot" Packed',
 		['value'] = '3',
 	},
-	[1075] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4299,
 		['name'] = 'Graffiti "Warning! Shotguns"',
 		['value'] = '3',
 	},
-	[1076] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4300,
 		['name'] = 'Graffiti "Warning! Shotguns" Packed',
 		['value'] = '3',
 	},
-	[1077] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4301,
 		['name'] = 'Graffiti "Tilt"',
 		['value'] = '3',
 	},
-	[1078] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4302,
 		['name'] = 'Graffiti "Tilt" Packed',
 		['value'] = '3',
 	},
-	[1079] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4303,
 		['name'] = 'Graffiti "Cool"',
 		['value'] = '3',
 	},
-	[1080] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4304,
 		['name'] = 'Graffiti "Cool" Packed',
 		['value'] = '3',
 	},
-	[1081] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4305,
 		['name'] = 'Graffiti "Surrender"',
 		['value'] = '3',
 	},
-	[1082] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4306,
 		['name'] = 'Graffiti "Surrender" Packed',
 		['value'] = '3',
 	},
-	[1083] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4307,
 		['name'] = 'Graffiti "Mr Grenade"',
 		['value'] = '4',
 	},
-	[1084] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4308,
 		['name'] = 'Graffiti "Mr Grenade" Packed',
 		['value'] = '4',
 	},
-	[1085] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4309,
 		['name'] = 'Graffiti "Respect"',
 		['value'] = '4',
 	},
-	[1086] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4310,
 		['name'] = 'Graffiti "Respect" Packed',
 		['value'] = '4',
 	},
-	[1087] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4311,
 		['name'] = 'Graffiti "Rant Mode"',
 		['value'] = '4',
 	},
-	[1088] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4312,
 		['name'] = 'Graffiti "Rant Mode" Packed',
 		['value'] = '4',
 	},
-	[1089] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4313,
 		['name'] = 'Graffiti "This is Fine"',
 		['value'] = '5',
 	},
-	[1090] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4314,
 		['name'] = 'Graffiti "This is Fine" Packed',
 		['value'] = '5',
 	},
-	[1091] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4315,
 		['name'] = 'Graffiti "Hide"',
 		['value'] = '4',
 	},
-	[1092] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4316,
 		['name'] = 'Graffiti "Hide" Packed',
 		['value'] = '4',
 	},
-	[1093] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4317,
 		['name'] = 'Graffiti "Love"',
 		['value'] = '5',
 	},
-	[1094] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4318,
 		['name'] = 'Graffiti "Love" Packed',
 		['value'] = '5',
 	},
-	[1095] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4319,
 		['name'] = 'Graffiti "Solo"',
 		['value'] = '4',
 	},
-	[1096] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4320,
 		['name'] = 'Graffiti "Solo" Packed',
 		['value'] = '4',
 	},
-	[1097] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4321,
 		['name'] = 'Graffiti "Duck of War"',
 		['value'] = '5',
 	},
-	[1098] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4322,
 		['name'] = 'Graffiti "Duck of War" Packed',
 		['value'] = '5',
 	},
-	[1099] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4323,
 		['name'] = 'Graffiti "Vandal"',
 		['value'] = '4',
 	},
-	[1100] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4324,
 		['name'] = 'Graffiti "Vandal" Packed',
 		['value'] = '4',
 	},
-	[1101] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4325,
 		['name'] = 'Graffiti "Spiky"',
 		['value'] = '5',
 	},
-	[1102] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4326,
 		['name'] = 'Graffiti "Spiky" Packed',
 		['value'] = '5',
 	},
-	[1103] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4327,
 		['name'] = 'Graffiti "Kawaii Spray"',
 		['value'] = '6',
 	},
-	[1104] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4328,
 		['name'] = 'Graffiti "Kawaii Spray" Packed',
 		['value'] = '6',
 	},
-	[1105] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4329,
 		['name'] = 'Graffiti "Coin Kitty"',
 		['value'] = '6',
 	},
-	[1106] = {
+	{
 		['collection'] = 'vibe',
 		['id'] = 4330,
 		['name'] = 'Graffiti "Coin Kitty" Packed',
 		['value'] = '6',
 	},
-	[1107] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4331,
 		['name'] = 'Graffiti "Reforged"',
 		['value'] = '3',
 	},
-	[1108] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4332,
 		['name'] = 'Graffiti "Reforged" Packed',
 		['value'] = '3',
 	},
-	[1109] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4333,
 		['name'] = 'Graffiti "Skull Cap"',
 		['value'] = '3',
 	},
-	[1110] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4334,
 		['name'] = 'Graffiti "Skull Cap" Packed',
 		['value'] = '3',
 	},
-	[1111] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4335,
 		['name'] = 'Graffiti "Solid Heart"',
 		['value'] = '3',
 	},
-	[1112] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4336,
 		['name'] = 'Graffiti "Solid Heart" Packed',
 		['value'] = '3',
 	},
-	[1113] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4337,
 		['name'] = 'Graffiti "Broken Heart"',
 		['value'] = '3',
 	},
-	[1114] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4338,
 		['name'] = 'Graffiti "Broken Heart" Packed',
 		['value'] = '3',
 	},
-	[1115] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4339,
 		['name'] = 'Graffiti "You Are Next"',
 		['value'] = '4',
 	},
-	[1116] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4340,
 		['name'] = 'Graffiti "You Are Next" Packed',
 		['value'] = '4',
 	},
-	[1117] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4341,
 		['name'] = 'Graffiti "Eco Round"',
 		['value'] = '4',
 	},
-	[1118] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4342,
 		['name'] = 'Graffiti "Eco Round" Packed',
 		['value'] = '4',
 	},
-	[1119] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4343,
 		['name'] = 'Graffiti "Rusty Gear"',
 		['value'] = '4',
 	},
-	[1120] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4344,
 		['name'] = 'Graffiti "Rusty Gear" Packed',
 		['value'] = '4',
 	},
-	[1121] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4345,
 		['name'] = 'Graffiti "Tool of Power"',
 		['value'] = '5',
 	},
-	[1122] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4346,
 		['name'] = 'Graffiti "Tool of Power" Packed',
 		['value'] = '5',
 	},
-	[1123] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4347,
 		['name'] = 'Graffiti "Infernal Machine"',
 		['value'] = '5',
 	},
-	[1124] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4348,
 		['name'] = 'Graffiti "Infernal Machine" Packed',
 		['value'] = '5',
 	},
-	[1125] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4349,
 		['name'] = 'Graffiti "Pigeon"',
 		['value'] = '5',
 	},
-	[1126] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4350,
 		['name'] = 'Graffiti "Pigeon" Packed',
 		['value'] = '5',
 	},
-	[1127] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4351,
 		['name'] = 'Graffiti "Heavy Metal"',
 		['value'] = '6',
 	},
-	[1128] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4352,
 		['name'] = 'Graffiti "Heavy Metal" Packed',
 		['value'] = '6',
 	},
-	[1129] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4353,
 		['name'] = 'Graffiti "Smoke"',
 		['value'] = '6',
 	},
-	[1130] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 4354,
 		['name'] = 'Graffiti "Smoke" Packed',
 		['value'] = '6',
 	},
-	[1131] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4356,
 		['name'] = 'Graffiti "Hypnosis" Packed',
 		['value'] = '5',
 	},
-	[1132] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4358,
 		['name'] = 'Graffiti "Relentless" Packed',
 		['value'] = '6',
 	},
-	[1133] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4360,
 		['name'] = 'Graffiti "No Sleep" Packed',
 		['value'] = '4',
 	},
-	[1134] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4361,
 		['name'] = 'Graffiti "Ragged"',
 		['value'] = '3',
 	},
-	[1135] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4362,
 		['name'] = 'Graffiti "Ragged" Packed',
 		['value'] = '3',
 	},
-	[1136] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4364,
 		['name'] = 'Graffiti "Wake Up!" Packed',
 		['value'] = '4',
 	},
-	[1137] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 4366,
 		['name'] = 'Graffiti "Nightmare" Packed',
 		['value'] = '3',
 	},
-	[1138] = {
+	{
 		['collection'] = 'collaboration',
 		['id'] = 4368,
 		['name'] = 'Graffiti "Green Planet" Packed',
 		['value'] = '4',
 	},
-	[1139] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 4370,
 		['name'] = 'Graffiti "Veteran 2025" Bronze',
 		['value'] = '1',
 	},
-	[1140] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 4371,
 		['name'] = 'Graffiti "Veteran 2025" Silver',
 		['value'] = '2',
 	},
-	[1141] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 4372,
 		['name'] = 'Graffiti "Veteran 2025" Gold',
 		['value'] = '3',
 	},
-	[1142] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 4373,
 		['name'] = 'Graffiti "Veteran 2025" Elite Gold',
 		['value'] = '4',
 	},
-	[1143] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 4374,
 		['name'] = 'Graffiti "Veteran 2025" Platinum',
 		['value'] = '5',
 	},
-	[1144] = {
+	{
 		['collection'] = 'veteran_2025',
 		['id'] = 4375,
 		['name'] = 'Graffiti "Veteran 2025" Diamond',
 		['value'] = '6',
 	},
-	[1145] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4376,
 		['name'] = 'Graffiti "Yummy"',
 		['value'] = '3',
 	},
-	[1146] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4377,
 		['name'] = 'Graffiti "Yummy" Packed',
 		['value'] = '3',
 	},
-	[1147] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4379,
 		['name'] = 'Graffiti "Mad Move" Packed',
 		['value'] = '3',
 	},
-	[1148] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4381,
 		['name'] = 'Graffiti "Sad Move" Packed',
 		['value'] = '3',
 	},
-	[1149] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4383,
 		['name'] = 'Graffiti "Kitsune Dreams" Packed',
 		['value'] = '4',
 	},
-	[1150] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4385,
 		['name'] = 'Graffiti "Cute Shot" Packed',
 		['value'] = '4',
 	},
-	[1151] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4386,
 		['name'] = 'Graffiti "Like"',
 		['value'] = '5',
 	},
-	[1152] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4387,
 		['name'] = 'Graffiti "Like" Packed',
 		['value'] = '5',
 	},
-	[1153] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 4389,
 		['name'] = 'Graffiti "Icy Squad" Packed',
 		['value'] = '6',
 	},
-	[1154] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4390,
 		['name'] = 'Graffiti "Unchained"',
 		['value'] = '3',
 	},
-	[1155] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4391,
 		['name'] = 'Graffiti "Unchained" Packed',
 		['value'] = '3',
 	},
-	[1156] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4392,
 		['name'] = 'Graffiti "Bladebrand"',
 		['value'] = '3',
 	},
-	[1157] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4393,
 		['name'] = 'Graffiti "Bladebrand" Packed',
 		['value'] = '3',
 	},
-	[1158] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4394,
 		['name'] = 'Graffiti "Capybara"',
 		['value'] = '3',
 	},
-	[1159] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4395,
 		['name'] = 'Graffiti "Capybara" Packed',
 		['value'] = '3',
 	},
-	[1160] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4396,
 		['name'] = 'Graffiti "Prey"',
 		['value'] = '3',
 	},
-	[1161] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4397,
 		['name'] = 'Graffiti "Prey" Packed',
 		['value'] = '3',
 	},
-	[1162] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4398,
 		['name'] = 'Graffiti "Angry Team"',
 		['value'] = '4',
 	},
-	[1163] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4399,
 		['name'] = 'Graffiti "Angry Team" Packed',
 		['value'] = '4',
 	},
-	[1164] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4400,
 		['name'] = 'Graffiti "Fizz"',
 		['value'] = '4',
 	},
-	[1165] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4401,
 		['name'] = 'Graffiti "Fizz" Packed',
 		['value'] = '4',
 	},
-	[1166] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4402,
 		['name'] = 'Graffiti "Rampage"',
 		['value'] = '4',
 	},
-	[1167] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4403,
 		['name'] = 'Graffiti "Rampage" Packed',
 		['value'] = '4',
 	},
-	[1168] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4404,
 		['name'] = 'Graffiti "Golazo"',
 		['value'] = '5',
 	},
-	[1169] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4405,
 		['name'] = 'Graffiti "Golazo" Packed',
 		['value'] = '5',
 	},
-	[1170] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4406,
 		['name'] = 'Graffiti "Hunter"',
 		['value'] = '5',
 	},
-	[1171] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4407,
 		['name'] = 'Graffiti "Hunter" Packed',
 		['value'] = '5',
 	},
-	[1172] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4408,
 		['name'] = 'Graffiti "Pelada"',
 		['value'] = '5',
 	},
-	[1173] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4409,
 		['name'] = 'Graffiti "Pelada" Packed',
 		['value'] = '5',
 	},
-	[1174] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4410,
 		['name'] = 'Graffiti "Joy Killer"',
 		['value'] = '6',
 	},
-	[1175] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4411,
 		['name'] = 'Graffiti "Joy Killer" Packed',
 		['value'] = '6',
 	},
-	[1176] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4412,
 		['name'] = 'Graffiti "Toco"',
 		['value'] = '6',
 	},
-	[1177] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 4413,
 		['name'] = 'Graffiti "Toco" Packed',
 		['value'] = '6',
 	},
-	[1178] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4414,
 		['name'] = 'Graffiti "Mask of control"',
 		['value'] = '3',
 	},
-	[1179] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4415,
 		['name'] = 'Graffiti "Mask of control" Packed',
 		['value'] = '3',
 	},
-	[1180] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4416,
 		['name'] = 'Graffiti "Gambit"',
 		['value'] = '3',
 	},
-	[1181] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4417,
 		['name'] = 'Graffiti "Gambit" Packed',
 		['value'] = '3',
 	},
-	[1182] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4418,
 		['name'] = 'Graffiti "Do not stop"',
 		['value'] = '4',
 	},
-	[1183] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4419,
 		['name'] = 'Graffiti "Do not stop" Packed',
 		['value'] = '4',
 	},
-	[1184] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4420,
 		['name'] = 'Graffiti "The Watchers"',
 		['value'] = '4',
 	},
-	[1185] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4421,
 		['name'] = 'Graffiti "The Watchers" Packed',
 		['value'] = '4',
 	},
-	[1186] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4422,
 		['name'] = 'Graffiti "Sigil"',
 		['value'] = '5',
 	},
-	[1187] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4423,
 		['name'] = 'Graffiti "Sigil" Packed',
 		['value'] = '5',
 	},
-	[1188] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4424,
 		['name'] = 'Graffiti "Idol"',
 		['value'] = '6',
 	},
-	[1189] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 4425,
 		['name'] = 'Graffiti "Idol" Packed',
 		['value'] = '6',
 	},
-	[1190] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4426,
 		['name'] = 'Graffiti "Syndicate"',
 		['value'] = '6',
 	},
-	[1191] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4427,
 		['name'] = 'Graffiti "Syndicate" Packed',
 		['value'] = '6',
 	},
-	[1192] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4428,
 		['name'] = 'Graffiti "Celestial Tiger"',
 		['value'] = '6',
 	},
-	[1193] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4429,
 		['name'] = 'Graffiti "Celestial Tiger" Packed',
 		['value'] = '6',
 	},
-	[1194] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4430,
 		['name'] = 'Graffiti "Ninja"',
 		['value'] = '5',
 	},
-	[1195] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4431,
 		['name'] = 'Graffiti "Ninja" Packed',
 		['value'] = '5',
 	},
-	[1196] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4432,
 		['name'] = 'Graffiti "CATana"',
 		['value'] = '5',
 	},
-	[1197] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4433,
 		['name'] = 'Graffiti "CATana" Packed',
 		['value'] = '5',
 	},
-	[1198] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4434,
 		['name'] = 'Graffiti "Sensei"',
 		['value'] = '5',
 	},
-	[1199] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4435,
 		['name'] = 'Graffiti "Sensei" Packed',
 		['value'] = '5',
 	},
-	[1200] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4436,
 		['name'] = 'Graffiti "Shuriken"',
 		['value'] = '4',
 	},
-	[1201] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4437,
 		['name'] = 'Graffiti "Shuriken" Packed',
 		['value'] = '4',
 	},
-	[1202] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4438,
 		['name'] = 'Graffiti "Tatsu"',
 		['value'] = '4',
 	},
-	[1203] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4439,
 		['name'] = 'Graffiti "Tatsu" Packed',
 		['value'] = '4',
 	},
-	[1204] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4440,
 		['name'] = 'Graffiti "Akki"',
 		['value'] = '4',
 	},
-	[1205] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4441,
 		['name'] = 'Graffiti "Akki" Packed',
 		['value'] = '4',
 	},
-	[1206] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4442,
 		['name'] = 'Graffiti "Wanted"',
 		['value'] = '3',
 	},
-	[1207] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4443,
 		['name'] = 'Graffiti "Wanted" Packed',
 		['value'] = '3',
 	},
-	[1208] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4444,
 		['name'] = 'Graffiti "Training Target"',
 		['value'] = '3',
 	},
-	[1209] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4445,
 		['name'] = 'Graffiti "Training Target" Packed',
 		['value'] = '3',
 	},
-	[1210] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4446,
 		['name'] = 'Graffiti "Sakura"',
 		['value'] = '3',
 	},
-	[1211] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4447,
 		['name'] = 'Graffiti "Sakura" Packed',
 		['value'] = '3',
 	},
-	[1212] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4448,
 		['name'] = 'Graffiti "X Mark"',
 		['value'] = '3',
 	},
-	[1213] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4449,
 		['name'] = 'Graffiti "X Mark" Packed',
 		['value'] = '3',
 	},
-	[1214] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4450,
 		['name'] = 'Graffiti "Shiba Inu"',
 		['value'] = '3',
 	},
-	[1215] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4451,
 		['name'] = 'Graffiti "Shiba Inu" Packed',
 		['value'] = '3',
 	},
-	[1216] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4452,
 		['name'] = 'Graffiti "Samurai"',
 		['value'] = '4',
 	},
-	[1217] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4453,
 		['name'] = 'Graffiti "Samurai" Packed',
 		['value'] = '4',
 	},
-	[1218] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4454,
 		['name'] = 'Graffiti "Playful Spirit"',
 		['value'] = '5',
 	},
-	[1219] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 4455,
 		['name'] = 'Graffiti "Playful Spirit" Packed',
 		['value'] = '5',
 	},
-	[1220] = {
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4456,
+		['name'] = 'Graffiti "King of the Ring"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4457,
+		['name'] = 'Graffiti "King of the Ring" Packed',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4458,
+		['name'] = 'Graffiti "Dia de Muertos"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4459,
+		['name'] = 'Graffiti "Dia de Muertos" Packed',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4460,
+		['name'] = 'Graffiti "Viva la Vida"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4461,
+		['name'] = 'Graffiti "Viva la Vida" Packed',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4462,
+		['name'] = 'Graffiti "Spicy"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4463,
+		['name'] = 'Graffiti "Spicy" Packed',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4464,
+		['name'] = 'Graffiti "Hasta la Vista"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4465,
+		['name'] = 'Graffiti "Hasta la vista" Packed',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4466,
+		['name'] = 'Graffiti "Good Game"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 4467,
+		['name'] = 'Graffiti "Good Game" Packed',
+		['value'] = '3',
+	},
+	{
 		['collection'] = 'project_z9',
 		['id'] = 5000,
 		['name'] = 'Charm "Project Z9" Bronze',
 		['value'] = '1',
 	},
-	[1221] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 5001,
 		['name'] = 'Charm "Project Z9" Silver',
 		['value'] = '2',
 	},
-	[1222] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 5002,
 		['name'] = 'Charm "Project Z9" Gold',
 		['value'] = '3',
 	},
-	[1223] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 5003,
 		['name'] = 'Charm "Project Z9" Elite Gold',
 		['value'] = '4',
 	},
-	[1224] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 5004,
 		['name'] = 'Charm "Project Z9" Platinum',
 		['value'] = '5',
 	},
-	[1225] = {
+	{
 		['collection'] = 'project_z9',
 		['id'] = 5005,
 		['name'] = 'Charm "Project Z9" Diamond',
 		['value'] = '6',
 	},
-	[1226] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5006,
 		['name'] = 'Charm "Revival" Bronze',
 		['value'] = '1',
 	},
-	[1227] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5007,
 		['name'] = 'Charm "Revival" Silver',
 		['value'] = '2',
 	},
-	[1228] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5008,
 		['name'] = 'Charm "Revival" Gold',
 		['value'] = '3',
 	},
-	[1229] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5009,
 		['name'] = 'Charm "Revival" Elite Gold',
 		['value'] = '4',
 	},
-	[1230] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5010,
 		['name'] = 'Charm "Revival" Platinum',
 		['value'] = '5',
 	},
-	[1231] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5011,
 		['name'] = 'Charm "Revival" Diamond',
 		['value'] = '6',
 	},
-	[1232] = {
+	{
 		['collection'] = 'nameless',
 		['id'] = 5013,
 		['name'] = 'Charm "V2"',
 		['value'] = '7',
 	},
-	[1233] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5016,
 		['name'] = 'Charm "Cutting Pliers"',
 		['value'] = '3',
 	},
-	[1234] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5018,
 		['name'] = 'Chibi "Psycho"',
 		['value'] = '5',
 	},
-	[1235] = {
+	{
 		['collection'] = 'nameless',
 		['id'] = 5020,
 		['name'] = 'Charm "Ochpochmak"',
 		['value'] = '7',
 	},
-	[1236] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5021,
 		['name'] = 'Charm "Samurai"',
 		['value'] = '3',
 	},
-	[1237] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5022,
 		['name'] = 'Charm "Karambit Gold"',
 		['value'] = '4',
 	},
-	[1238] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5023,
 		['name'] = 'Chibi "Dummy"',
 		['value'] = '3',
 	},
-	[1239] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5024,
 		['name'] = 'Chibi "Joy"',
 		['value'] = '6',
 	},
-	[1240] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5025,
 		['name'] = 'Charm "Grenade"',
 		['value'] = '3',
 	},
-	[1241] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5026,
 		['name'] = 'Chibi "Esperto"',
 		['value'] = '5',
 	},
-	[1242] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5027,
 		['name'] = 'Chibi "Phoenix"',
 		['value'] = '4',
 	},
-	[1243] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5031,
 		['name'] = 'Charm "Claw"',
 		['value'] = '5',
 	},
-	[1244] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5032,
 		['name'] = 'Charm "Ammunition"',
 		['value'] = '4',
 	},
-	[1245] = {
+	{
 		['collection'] = 'revival',
 		['id'] = 5033,
 		['name'] = 'Charm "Wing"',
 		['value'] = '6',
 	},
-	[1246] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5040,
 		['name'] = 'Charm "Halloween Spirit"',
 		['value'] = '5',
 	},
-	[1247] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5041,
 		['name'] = 'Charm "Vampire Bat"',
 		['value'] = '5',
 	},
-	[1248] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5042,
 		['name'] = 'Charm "Reaper Scythe"',
 		['value'] = '6',
 	},
-	[1249] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5043,
 		['name'] = 'Charm "Spooky Lantern"',
 		['value'] = '5',
 	},
-	[1250] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5044,
 		['name'] = 'Charm "Suspicious Spider"',
 		['value'] = '6',
 	},
-	[1251] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5045,
 		['name'] = 'Charm "Horseman\'s Head"',
 		['value'] = '3',
 	},
-	[1252] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5046,
 		['name'] = 'Charm "Brainless"',
 		['value'] = '3',
 	},
-	[1253] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5047,
 		['name'] = 'Charm "Friendly Specter"',
 		['value'] = '3',
 	},
-	[1254] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5048,
 		['name'] = 'Charm "Scarecrow"',
 		['value'] = '4',
 	},
-	[1255] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5049,
 		['name'] = 'Chibi "Crunch"',
 		['value'] = '4',
 	},
-	[1256] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5050,
 		['name'] = 'Charm "Meteor"',
 		['value'] = '3',
 	},
-	[1257] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5051,
 		['name'] = 'Charm "Witchcraft"',
 		['value'] = '4',
 	},
-	[1258] = {
+	{
 		['collection'] = 'halloween_2020',
 		['id'] = 5052,
 		['name'] = 'Charm "Crooked Broom"',
 		['value'] = '4',
 	},
-	[1259] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5053,
 		['name'] = 'Charm "Snow Bear"',
 		['value'] = '6',
 	},
-	[1260] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5054,
 		['name'] = 'Charm "Year of Ox"',
 		['value'] = '6',
 	},
-	[1261] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5057,
 		['name'] = 'Charm "Cone"',
 		['value'] = '5',
 	},
-	[1262] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5058,
 		['name'] = 'Charm "Snow Flake"',
 		['value'] = '5',
 	},
-	[1263] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5059,
 		['name'] = 'Charm "Baby Penguin"',
 		['value'] = '3',
 	},
-	[1264] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5060,
 		['name'] = 'Charm "Gingerbread"',
 		['value'] = '3',
 	},
-	[1265] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5061,
 		['name'] = 'Charm "Mr Bowler"',
 		['value'] = '3',
 	},
-	[1266] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5062,
 		['name'] = 'Charm "Gift Catcher"',
 		['value'] = '3',
 	},
-	[1267] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5063,
 		['name'] = 'Charm "Christmas Tree"',
 		['value'] = '4',
 	},
-	[1268] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5064,
 		['name'] = 'Charm "Santa Globe"',
 		['value'] = '5',
 	},
-	[1269] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5065,
 		['name'] = 'Chibi "Santa Helper"',
 		['value'] = '4',
 	},
-	[1270] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 5066,
 		['name'] = 'Chibi "Gift Thief"',
 		['value'] = '4',
 	},
-	[1271] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 5067,
 		['name'] = 'Charm "4 Years" Silver',
 		['value'] = '4',
 	},
-	[1272] = {
+	{
 		['collection'] = 'event4years',
 		['id'] = 5068,
 		['name'] = 'Charm "4 Years" Gold',
 		['value'] = '5',
 	},
-	[1273] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5069,
 		['name'] = 'Charm "Imperial Coin"',
 		['value'] = '3',
 	},
-	[1274] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5070,
 		['name'] = 'Charm "Daruma"',
 		['value'] = '3',
 	},
-	[1275] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5071,
 		['name'] = 'Charm "Secret Data"',
 		['value'] = '5',
 	},
-	[1276] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5072,
 		['name'] = 'Charm "Golden Dragon"',
 		['value'] = '6',
 	},
-	[1277] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5073,
 		['name'] = 'Charm "Katana"',
 		['value'] = '4',
 	},
-	[1278] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5074,
 		['name'] = 'Charm "Kitsune"',
 		['value'] = '3',
 	},
-	[1279] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5075,
 		['name'] = 'Charm "Chochin"',
 		['value'] = '4',
 	},
-	[1280] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5076,
 		['name'] = 'Charm "Ballistic Mask"',
 		['value'] = '4',
 	},
-	[1281] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5077,
 		['name'] = 'Charm "SHURIKEN"',
 		['value'] = '3',
 	},
-	[1282] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5078,
 		['name'] = 'Charm "Sale"',
 		['value'] = '5',
 	},
-	[1283] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5079,
 		['name'] = 'Chibi "Shinobi"',
 		['value'] = '5',
 	},
-	[1284] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5080,
 		['name'] = 'Chibi "Zen"',
 		['value'] = '6',
 	},
-	[1285] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5081,
 		['name'] = 'Charm "Byakko"',
 		['value'] = '6',
 	},
-	[1286] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5082,
 		['name'] = 'Charm "Chochin Obake"',
 		['value'] = '5',
 	},
-	[1287] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5083,
 		['name'] = 'Charm "Count Paperakula"',
 		['value'] = '3',
 	},
-	[1288] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5084,
 		['name'] = 'Charm "Hannya"',
 		['value'] = '6',
 	},
-	[1289] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5085,
 		['name'] = 'Charm "Haradashi"',
 		['value'] = '3',
 	},
-	[1290] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5086,
 		['name'] = 'Charm "Inugami"',
 		['value'] = '6',
 	},
-	[1291] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5087,
 		['name'] = 'Charm "Kitsune Mask"',
 		['value'] = '6',
 	},
-	[1292] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5088,
 		['name'] = 'Charm "Mengu"',
 		['value'] = '6',
 	},
-	[1293] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5089,
 		['name'] = 'Charm "Oni"',
 		['value'] = '6',
 	},
-	[1294] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5090,
 		['name'] = 'Charm "Soul"',
 		['value'] = '5',
 	},
-	[1295] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5091,
 		['name'] = 'Charm "Spirit"',
 		['value'] = '3',
 	},
-	[1296] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5092,
 		['name'] = 'Chibi "Yokai"',
 		['value'] = '6',
 	},
-	[1297] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5093,
 		['name'] = 'Charm "Zombiegiri"',
 		['value'] = '4',
 	},
-	[1298] = {
+	{
 		['collection'] = 'cursed_souls',
 		['id'] = 5094,
 		['name'] = 'Charm "Zombiemaki"',
 		['value'] = '4',
 	},
-	[1299] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5095,
 		['name'] = 'Charm "Candy Cane"',
 		['value'] = '3',
 	},
-	[1300] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5096,
 		['name'] = 'Chibi "Commander Claus"',
 		['value'] = '6',
 	},
-	[1301] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5097,
 		['name'] = 'Charm "Gingerbread House"',
 		['value'] = '4',
 	},
-	[1302] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5098,
 		['name'] = 'Charm "Christmas Fireplace"',
 		['value'] = '4',
 	},
-	[1303] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5099,
 		['name'] = 'Charm "Mind Blowing Gift"',
 		['value'] = '3',
 	},
-	[1304] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5100,
 		['name'] = 'Charm "Winter Fun"',
 		['value'] = '5',
 	},
-	[1305] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5101,
 		['name'] = 'Charm "Gift Box"',
 		['value'] = '3',
 	},
-	[1306] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 5102,
 		['name'] = 'Charm "Grumpy Tiger"',
 		['value'] = '5',
 	},
-	[1307] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 5103,
 		['name'] = 'Charm "Long Run"',
 		['value'] = '5',
 	},
-	[1308] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 5104,
 		['name'] = 'Charm "Long Run" Gold',
 		['value'] = '6',
 	},
-	[1309] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 5105,
 		['name'] = 'Charm "Spray 5"',
 		['value'] = '4',
 	},
-	[1310] = {
+	{
 		['collection'] = 'event5years',
 		['id'] = 5106,
 		['name'] = 'Charm "Spray 5" Gold',
 		['value'] = '5',
 	},
-	[1311] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5107,
 		['name'] = 'Chibi "Peace"',
 		['value'] = '4',
 	},
-	[1312] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5108,
 		['name'] = 'Chibi "War"',
 		['value'] = '4',
 	},
-	[1313] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5109,
 		['name'] = 'Charm "Compass"',
 		['value'] = '4',
 	},
-	[1314] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5110,
 		['name'] = 'Charm "Antique Vase"',
 		['value'] = '4',
 	},
-	[1315] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5111,
 		['name'] = 'Charm "Harp"',
 		['value'] = '6',
 	},
-	[1316] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5112,
 		['name'] = 'Charm "Hoplit Helmet"',
 		['value'] = '4',
 	},
-	[1317] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5113,
 		['name'] = 'Charm "Legends" Gold',
 		['value'] = '6',
 	},
-	[1318] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5114,
 		['name'] = 'Charm "Legends" Silver',
 		['value'] = '3',
 	},
-	[1319] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5115,
 		['name'] = 'Charm "Thunderbolt"',
 		['value'] = '5',
 	},
-	[1320] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5116,
 		['name'] = 'Charm "Olive Branch"',
 		['value'] = '4',
 	},
-	[1321] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5117,
 		['name'] = 'Charm "Owl of Athena"',
 		['value'] = '3',
 	},
-	[1322] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5118,
 		['name'] = 'Charm "Peripteros"',
 		['value'] = '3',
 	},
-	[1323] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5119,
 		['name'] = 'Charm "Talaria"',
 		['value'] = '5',
 	},
-	[1324] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5120,
 		['name'] = 'Charm "Trident"',
 		['value'] = '3',
 	},
-	[1325] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5121,
 		['name'] = 'Charm "Windmill"',
 		['value'] = '5',
 	},
-	[1326] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5122,
 		['name'] = 'Charm "Dragon Rise 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1327] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5123,
 		['name'] = 'Charm "Dragon Rise 5v5" Silver',
 		['value'] = '2',
 	},
-	[1328] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5124,
 		['name'] = 'Charm "Dragon Rise 5v5" Gold',
 		['value'] = '3',
 	},
-	[1329] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5125,
 		['name'] = 'Charm "Dragon Rise 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1330] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5126,
 		['name'] = 'Charm "Dragon Rise 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1331] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5127,
 		['name'] = 'Charm "Dragon Rise 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1332] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5128,
 		['name'] = 'Charm "Dragon Rise 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1333] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5129,
 		['name'] = 'Charm "Dragon Rise 2v2" Silver',
 		['value'] = '2',
 	},
-	[1334] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5130,
 		['name'] = 'Charm "Dragon Rise 2v2" Gold',
 		['value'] = '3',
 	},
-	[1335] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5131,
 		['name'] = 'Charm "Dragon Rise 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1336] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5132,
 		['name'] = 'Charm "Dragon Rise 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1337] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 5133,
 		['name'] = 'Charm "Dragon Rise 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1338] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 5134,
 		['name'] = 'Chibi "Juggernaut"',
 		['value'] = '5',
 	},
-	[1339] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 5135,
 		['name'] = 'Charm "Sea of Death"',
 		['value'] = '6',
 	},
-	[1340] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 5136,
 		['name'] = 'Charm "Toxic Waste"',
 		['value'] = '4',
 	},
-	[1341] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 5137,
 		['name'] = 'Charm "Biohazard"',
 		['value'] = '4',
 	},
-	[1342] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 5138,
 		['name'] = 'Charm "Antidote"',
 		['value'] = '3',
 	},
-	[1343] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 5139,
 		['name'] = 'Charm "Classified"',
 		['value'] = '3',
 	},
-	[1344] = {
+	{
 		['collection'] = 'nameless',
 		['id'] = 5140,
 		['name'] = 'Charm "Black Spot"',
 		['value'] = '7',
 	},
-	[1345] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5141,
 		['name'] = 'Charm "Ever Green"',
 		['value'] = '4',
 	},
-	[1346] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5142,
 		['name'] = 'Charm "Ice-cream Van"',
 		['value'] = '4',
 	},
-	[1347] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5143,
 		['name'] = 'Charm "Winter Games"',
 		['value'] = '3',
 	},
-	[1348] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5144,
 		['name'] = 'Charm "Chill Chili"',
 		['value'] = '3',
 	},
-	[1349] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5145,
 		['name'] = 'Charm "Cold Bath Duck"',
 		['value'] = '3',
 	},
-	[1350] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5146,
 		['name'] = 'Charm "Hot Winter Party"',
 		['value'] = '6',
 	},
-	[1351] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5147,
 		['name'] = 'Chibi "Party Snowman"',
 		['value'] = '4',
 	},
-	[1352] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5148,
 		['name'] = 'Charm "Hot Ice Balloon"',
 		['value'] = '5',
 	},
-	[1353] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 5149,
 		['name'] = 'Charm "Christmas Trick"',
 		['value'] = '4',
 	},
-	[1354] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 5150,
 		['name'] = 'Charm "SO2"',
 		['value'] = '3',
 	},
-	[1355] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 5151,
 		['name'] = 'Charm "SO2" Gold',
 		['value'] = '4',
 	},
-	[1356] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5152,
 		['name'] = 'Charm "Drakeling"',
 		['value'] = '5',
 	},
-	[1357] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5153,
 		['name'] = 'Chibi "SIG4"',
 		['value'] = '4',
 	},
-	[1358] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5154,
 		['name'] = 'Chibi "Redhound"',
 		['value'] = '5',
 	},
-	[1359] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5155,
 		['name'] = 'Charm "Fireborn" Gold',
 		['value'] = '6',
 	},
-	[1360] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5156,
 		['name'] = 'Charm "Fireborn" Silver',
 		['value'] = '3',
 	},
-	[1361] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5157,
 		['name'] = 'Charm "Charger"',
 		['value'] = '3',
 	},
-	[1362] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5158,
 		['name'] = 'Charm "Paladin"',
 		['value'] = '4',
 	},
-	[1363] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5159,
 		['name'] = 'Charm "Morning Star"',
 		['value'] = '3',
 	},
-	[1364] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5160,
 		['name'] = 'Charm "Dragon Shield"',
 		['value'] = '6',
 	},
-	[1365] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5161,
 		['name'] = 'Charm "Molotov"',
 		['value'] = '5',
 	},
-	[1366] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5162,
 		['name'] = 'Charm "Tracery"',
 		['value'] = '4',
 	},
-	[1367] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5163,
 		['name'] = 'Charm "Rook Tower"',
 		['value'] = '3',
 	},
-	[1368] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5164,
 		['name'] = 'Charm "Legends 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1369] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5165,
 		['name'] = 'Charm "Legends 5v5" Silver',
 		['value'] = '2',
 	},
-	[1370] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5166,
 		['name'] = 'Charm "Legends 5v5" Gold',
 		['value'] = '3',
 	},
-	[1371] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5167,
 		['name'] = 'Charm "Legends 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1372] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5168,
 		['name'] = 'Charm "Legends 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1373] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5169,
 		['name'] = 'Charm "Legends 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1374] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5170,
 		['name'] = 'Charm "Legends 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1375] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5171,
 		['name'] = 'Charm "Legends 2v2" Silver',
 		['value'] = '2',
 	},
-	[1376] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5172,
 		['name'] = 'Charm "Legends 2v2" Gold',
 		['value'] = '3',
 	},
-	[1377] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5173,
 		['name'] = 'Charm "Legends 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1378] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5174,
 		['name'] = 'Charm "Legends 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1379] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 5175,
 		['name'] = 'Charm "Legends 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1380] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 5176,
 		['name'] = 'Charm "Cranium"',
 		['value'] = '6',
 	},
-	[1381] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 5177,
 		['name'] = 'Charm "Vessel"',
 		['value'] = '5',
 	},
-	[1382] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 5178,
 		['name'] = 'Chibi "Space Dude"',
 		['value'] = '4',
 	},
-	[1383] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 5179,
 		['name'] = 'Charm "Gravitex"',
 		['value'] = '4',
 	},
-	[1384] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 5180,
 		['name'] = 'Charm "Insectoid"',
 		['value'] = '3',
 	},
-	[1385] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 5181,
 		['name'] = 'Charm "Space Vision"',
 		['value'] = '3',
 	},
-	[1386] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5182,
 		['name'] = 'Charm "Fireborn 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1387] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5183,
 		['name'] = 'Charm "Fireborn 5v5" Silver',
 		['value'] = '2',
 	},
-	[1388] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5184,
 		['name'] = 'Charm "Fireborn 5v5" Gold',
 		['value'] = '3',
 	},
-	[1389] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5185,
 		['name'] = 'Charm "Fireborn 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1390] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5186,
 		['name'] = 'Charm "Fireborn 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1391] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5187,
 		['name'] = 'Charm "Fireborn 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1392] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5188,
 		['name'] = 'Charm "Fireborn 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1393] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5189,
 		['name'] = 'Charm "Fireborn 2v2" Silver',
 		['value'] = '2',
 	},
-	[1394] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5190,
 		['name'] = 'Charm "Fireborn 2v2" Gold',
 		['value'] = '3',
 	},
-	[1395] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5191,
 		['name'] = 'Charm "Fireborn 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1396] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5192,
 		['name'] = 'Charm "Fireborn 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1397] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 5193,
 		['name'] = 'Charm "Fireborn 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1398] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5194,
 		['name'] = 'Charm "Fang"',
 		['value'] = '3',
 	},
-	[1399] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5195,
 		['name'] = 'Charm "Camel Sign"',
 		['value'] = '3',
 	},
-	[1400] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5196,
 		['name'] = 'Charm "Canteen"',
 		['value'] = '3',
 	},
-	[1401] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5197,
 		['name'] = 'Charm "Sunstrike" Silver',
 		['value'] = '3',
 	},
-	[1402] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5198,
 		['name'] = 'Chibi "FID"',
 		['value'] = '4',
 	},
-	[1403] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5199,
 		['name'] = 'Charm "Radio"',
 		['value'] = '4',
 	},
-	[1404] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5200,
 		['name'] = 'Charm "Hourglass"',
 		['value'] = '4',
 	},
-	[1405] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5201,
 		['name'] = 'Charm "Lamp"',
 		['value'] = '5',
 	},
-	[1406] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5202,
 		['name'] = 'Charm "Stinger"',
 		['value'] = '5',
 	},
-	[1407] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5203,
 		['name'] = 'Chibi "Chill"',
 		['value'] = '5',
 	},
-	[1408] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5204,
 		['name'] = 'Charm "Sunstrike" Gold',
 		['value'] = '6',
 	},
-	[1409] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5205,
 		['name'] = 'Charm "Meowgical Genie"',
 		['value'] = '6',
 	},
-	[1410] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5206,
 		['name'] = 'Charm "Subject X"',
 		['value'] = '3',
 	},
-	[1411] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5207,
 		['name'] = 'Charm "Cleaver"',
 		['value'] = '3',
 	},
-	[1412] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5208,
 		['name'] = 'Charm "Grasp"',
 		['value'] = '4',
 	},
-	[1413] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5209,
 		['name'] = 'Charm "Gene-X"',
 		['value'] = '4',
 	},
-	[1414] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5210,
 		['name'] = 'Charm "Phantom Scan"',
 		['value'] = '4',
 	},
-	[1415] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5211,
 		['name'] = 'Charm "Jawesome"',
 		['value'] = '5',
 	},
-	[1416] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5212,
 		['name'] = 'Chibi "Lab Whiz"',
 		['value'] = '5',
 	},
-	[1417] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 5213,
 		['name'] = 'Charm "Lab Crypt"',
 		['value'] = '6',
 	},
-	[1418] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5214,
 		['name'] = 'Charm "Frosty Chaos"',
 		['value'] = '3',
 	},
-	[1419] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5215,
 		['name'] = 'Charm "Cookie"',
 		['value'] = '3',
 	},
-	[1420] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5216,
 		['name'] = 'Charm "Xmas Drakeling"',
 		['value'] = '4',
 	},
-	[1421] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5217,
 		['name'] = 'Charm "Candle Lantern"',
 		['value'] = '4',
 	},
-	[1422] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5218,
 		['name'] = 'Charm "Steam Train"',
 		['value'] = '4',
 	},
-	[1423] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5219,
 		['name'] = 'Chibi "Nutcracker"',
 		['value'] = '5',
 	},
-	[1424] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 5220,
 		['name'] = 'Charm "Yeti"',
 		['value'] = '6',
 	},
-	[1425] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5221,
 		['name'] = 'Charm "Sunstrike 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1426] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5222,
 		['name'] = 'Charm "Sunstrike 5v5" Silver',
 		['value'] = '2',
 	},
-	[1427] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5223,
 		['name'] = 'Charm "Sunstrike 5v5" Gold',
 		['value'] = '3',
 	},
-	[1428] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5224,
 		['name'] = 'Charm "Sunstrike 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1429] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5225,
 		['name'] = 'Charm "Sunstrike 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1430] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5226,
 		['name'] = 'Charm "Sunstrike 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1431] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5227,
 		['name'] = 'Charm "Sunstrike 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1432] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5228,
 		['name'] = 'Charm "Sunstrike 2v2" Silver',
 		['value'] = '2',
 	},
-	[1433] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5229,
 		['name'] = 'Charm "Sunstrike 2v2" Gold',
 		['value'] = '3',
 	},
-	[1434] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5230,
 		['name'] = 'Charm "Sunstrike 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1435] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5231,
 		['name'] = 'Charm "Sunstrike 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1436] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 5232,
 		['name'] = 'Charm "Sunstrike 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1437] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5233,
 		['name'] = 'Charm "Outcast" Silver',
 		['value'] = '3',
 	},
-	[1438] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5234,
 		['name'] = 'Charm "Danger"',
 		['value'] = '3',
 	},
-	[1439] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5235,
 		['name'] = 'Charm "Z9 Project"',
 		['value'] = '3',
 	},
-	[1440] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5236,
 		['name'] = 'Charm "Keychain"',
 		['value'] = '4',
 	},
-	[1441] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5237,
 		['name'] = 'Charm "Savage"',
 		['value'] = '3',
 	},
-	[1442] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5238,
 		['name'] = 'Charm "Reactor"',
 		['value'] = '5',
 	},
-	[1443] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5239,
 		['name'] = 'Charm "Computer"',
 		['value'] = '4',
 	},
-	[1444] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5240,
 		['name'] = 'Chibi "Atomic"',
 		['value'] = '5',
 	},
-	[1445] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5241,
 		['name'] = 'Charm "Gamma Counter"',
 		['value'] = '5',
 	},
-	[1446] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5242,
 		['name'] = 'Charm "Coyote"',
 		['value'] = '4',
 	},
-	[1447] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5243,
 		['name'] = 'Charm "Outcast" Gold',
 		['value'] = '6',
 	},
-	[1448] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5244,
 		['name'] = 'Chibi "Adam"',
 		['value'] = '6',
 	},
-	[1449] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 5245,
 		['name'] = 'Charm "Fun and Sun"',
 		['value'] = '3',
 	},
-	[1450] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 5246,
 		['name'] = 'Charm "Cocktail"',
 		['value'] = '3',
 	},
-	[1451] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 5247,
 		['name'] = 'Charm "Ukulele"',
 		['value'] = '4',
 	},
-	[1452] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 5248,
 		['name'] = 'Charm "Pool Float"',
 		['value'] = '4',
 	},
-	[1453] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 5249,
 		['name'] = 'Charm "Totem"',
 		['value'] = '5',
 	},
-	[1454] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 5250,
 		['name'] = 'Chibi "Surfer"',
 		['value'] = '6',
 	},
-	[1455] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5251,
 		['name'] = 'Charm "Outcast 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1456] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5252,
 		['name'] = 'Charm "Outcast 2v2" Silver',
 		['value'] = '2',
 	},
-	[1457] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5253,
 		['name'] = 'Charm "Outcast 2v2" Gold',
 		['value'] = '3',
 	},
-	[1458] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5254,
 		['name'] = 'Charm "Outcast 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1459] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5255,
 		['name'] = 'Charm "Outcast 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1460] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5256,
 		['name'] = 'Charm "Outcast 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1461] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5257,
 		['name'] = 'Charm "Outcast 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1462] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5258,
 		['name'] = 'Charm "Outcast 5v5" Silver',
 		['value'] = '2',
 	},
-	[1463] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5259,
 		['name'] = 'Charm "Outcast 5v5" Gold',
 		['value'] = '3',
 	},
-	[1464] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5260,
 		['name'] = 'Charm "Outcast 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1465] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5261,
 		['name'] = 'Charm "Outcast 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1466] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 5262,
 		['name'] = 'Charm "Outcast 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1467] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5263,
 		['name'] = 'Charm "Screw"',
 		['value'] = '3',
 	},
-	[1468] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5264,
 		['name'] = 'Charm "Wrench"',
 		['value'] = '3',
 	},
-	[1469] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5265,
 		['name'] = 'Charm "Brick"',
 		['value'] = '3',
 	},
-	[1470] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5266,
 		['name'] = 'Charm "Reforged" Silver',
 		['value'] = '3',
 	},
-	[1471] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5267,
 		['name'] = 'Charm "Ring Saw"',
 		['value'] = '4',
 	},
-	[1472] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5268,
 		['name'] = 'Charm "Battery"',
 		['value'] = '4',
 	},
-	[1473] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5269,
 		['name'] = 'Charm "Metal Tag"',
 		['value'] = '5',
 	},
-	[1474] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5270,
 		['name'] = 'Charm "Pigeon"',
 		['value'] = '5',
 	},
-	[1475] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5271,
 		['name'] = 'Charm "Forklift"',
 		['value'] = '4',
 	},
-	[1476] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5272,
 		['name'] = 'Chibi "Smuggler"',
 		['value'] = '5',
 	},
-	[1477] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5273,
 		['name'] = 'Chibi "FOG"',
 		['value'] = '6',
 	},
-	[1478] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5274,
 		['name'] = 'Charm "Reforged" Gold',
 		['value'] = '6',
 	},
-	[1479] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 5276,
 		['name'] = 'Charm "Hexcatcher"',
 		['value'] = '3',
 	},
-	[1480] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 5277,
 		['name'] = 'Charm "Voodoo Doll"',
 		['value'] = '3',
 	},
-	[1481] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 5278,
 		['name'] = 'Charm "Gazing Mirror"',
 		['value'] = '4',
 	},
-	[1482] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 5279,
 		['name'] = 'Charm "Nightmare"',
 		['value'] = '4',
 	},
-	[1483] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 5280,
 		['name'] = 'Chibi "Sleepwalker"',
 		['value'] = '5',
 	},
-	[1484] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 5281,
 		['name'] = 'Charm "Hypno Beast"',
 		['value'] = '6',
 	},
-	[1485] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5282,
 		['name'] = 'Charm "Pingo"',
 		['value'] = '4',
 	},
-	[1486] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5283,
 		['name'] = 'Charm "Frost Shuriken"',
 		['value'] = '3',
 	},
-	[1487] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5284,
 		['name'] = 'Charm "Origami Snake"',
 		['value'] = '3',
 	},
-	[1488] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5285,
 		['name'] = 'Charm "Kitsune Dreams"',
 		['value'] = '4',
 	},
-	[1489] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5286,
 		['name'] = 'Charm "Mecha Knight"',
 		['value'] = '4',
 	},
-	[1490] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5287,
 		['name'] = 'Charm "Purrfect Luck"',
 		['value'] = '5',
 	},
-	[1491] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5288,
 		['name'] = 'Chibi "Twinkle"',
 		['value'] = '6',
 	},
-	[1492] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 5289,
 		['name'] = 'Charm "Holiday Twist"',
 		['value'] = '4',
 	},
-	[1493] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5290,
 		['name'] = 'Charm "Reforged 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1494] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5291,
 		['name'] = 'Charm "Reforged 5v5" Silver',
 		['value'] = '2',
 	},
-	[1495] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5292,
 		['name'] = 'Charm "Reforged 5v5" Gold',
 		['value'] = '3',
 	},
-	[1496] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5293,
 		['name'] = 'Charm "Reforged 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1497] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5294,
 		['name'] = 'Charm "Reforged 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1498] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5295,
 		['name'] = 'Charm "Reforged 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1499] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5296,
 		['name'] = 'Charm "Reforged 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1500] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5297,
 		['name'] = 'Charm "Reforged 2v2" Silver',
 		['value'] = '2',
 	},
-	[1501] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5298,
 		['name'] = 'Charm "Reforged 2v2" Gold',
 		['value'] = '3',
 	},
-	[1502] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5299,
 		['name'] = 'Charm "Reforged 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1503] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5300,
 		['name'] = 'Charm "Reforged 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1504] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5301,
 		['name'] = 'Charm "Reforged 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1505] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5302,
 		['name'] = 'Charm "Reforged 1v1" Bronze',
 		['value'] = '1',
 	},
-	[1506] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5303,
 		['name'] = 'Charm "Reforged 1v1" Silver',
 		['value'] = '2',
 	},
-	[1507] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5304,
 		['name'] = 'Charm "Reforged 1v1" Gold',
 		['value'] = '3',
 	},
-	[1508] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5305,
 		['name'] = 'Charm "Reforged 1v1" Elite Gold',
 		['value'] = '4',
 	},
-	[1509] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5306,
 		['name'] = 'Charm "Reforged 1v1" Platinum',
 		['value'] = '5',
 	},
-	[1510] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 5307,
 		['name'] = 'Charm "Reforged 1v1" Diamond',
 		['value'] = '6',
 	},
-	[1511] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5308,
 		['name'] = 'Charm "Timbau"',
 		['value'] = '3',
 	},
-	[1512] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5309,
 		['name'] = 'Charm "Tagged Helmet"',
 		['value'] = '3',
 	},
-	[1513] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5310,
 		['name'] = 'Charm "Bladebrand"',
 		['value'] = '3',
 	},
-	[1514] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5311,
 		['name'] = 'Charm "Prey" Silver',
 		['value'] = '3',
 	},
-	[1515] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5312,
 		['name'] = 'Charm "Capybara"',
 		['value'] = '4',
 	},
-	[1516] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5313,
 		['name'] = 'Charm "Stall"',
 		['value'] = '4',
 	},
-	[1517] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5314,
 		['name'] = 'Charm "Golden Ball"',
 		['value'] = '4',
 	},
-	[1518] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5315,
 		['name'] = 'Charm "Prey" Gold',
 		['value'] = '5',
 	},
-	[1519] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5316,
 		['name'] = 'Charm "Transmitter"',
 		['value'] = '5',
 	},
-	[1520] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5317,
 		['name'] = 'Chibi "GRT"',
 		['value'] = '5',
 	},
-	[1521] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5318,
 		['name'] = 'Chibi "RIA"',
 		['value'] = '6',
 	},
-	[1522] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5319,
 		['name'] = 'Charm "Parrot"',
 		['value'] = '6',
 	},
-	[1523] = {
+	{
 		['collection'] = 'event8years',
 		['id'] = 5320,
 		['name'] = 'Charm "8 Years"',
 		['value'] = '6',
 	},
-	[1524] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 5321,
 		['name'] = 'Charm "Gambit"',
 		['value'] = '3',
 	},
-	[1525] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 5322,
 		['name'] = 'Charm "Watcher"',
 		['value'] = '3',
 	},
-	[1526] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 5323,
 		['name'] = 'Charm "Mask of Control"',
 		['value'] = '4',
 	},
-	[1527] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 5324,
 		['name'] = 'Charm "Cresset"',
 		['value'] = '4',
 	},
-	[1528] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 5325,
 		['name'] = 'Chibi "Trial"',
 		['value'] = '5',
 	},
-	[1529] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 5326,
 		['name'] = 'Charm "Sigil"',
 		['value'] = '6',
 	},
-	[1530] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5327,
 		['name'] = 'Charm "Gold Skull"',
 		['value'] = '6',
 	},
-	[1531] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5328,
 		['name'] = 'Charm "Lighter"',
 		['value'] = '6',
 	},
-	[1532] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5329,
 		['name'] = 'Charm "Bomb"',
 		['value'] = '4',
 	},
-	[1533] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5330,
 		['name'] = 'Charm "Metal Rat"',
 		['value'] = '5',
 	},
-	[1534] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5331,
 		['name'] = 'Charm "Plush Adam"',
 		['value'] = '5',
 	},
-	[1535] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5332,
 		['name'] = 'Charm "Low HP"',
 		['value'] = '5',
 	},
-	[1536] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5333,
 		['name'] = 'Charm "Mini Kit"',
 		['value'] = '4',
 	},
-	[1537] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5334,
 		['name'] = 'Charm "PRO"',
 		['value'] = '3',
 	},
-	[1538] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5335,
 		['name'] = 'Charm "Gold Coin"',
 		['value'] = '3',
 	},
-	[1539] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5336,
 		['name'] = 'Charm "Lucky"',
 		['value'] = '3',
 	},
-	[1540] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5337,
 		['name'] = 'Charm "Origin Box"',
 		['value'] = '4',
 	},
-	[1541] = {
+	{
 		['collection'] = 'rewind',
 		['id'] = 5338,
 		['name'] = 'Charm "SO2 Tag"',
 		['value'] = '3',
 	},
-	[1542] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5339,
 		['name'] = 'Charm "Prey 1v1" Bronze',
 		['value'] = '1',
 	},
-	[1543] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5340,
 		['name'] = 'Charm "Prey 1v1" Silver',
 		['value'] = '2',
 	},
-	[1544] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5341,
 		['name'] = 'Charm "Prey 1v1" Gold',
 		['value'] = '3',
 	},
-	[1545] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5342,
 		['name'] = 'Charm "Prey 1v1" Elite Gold',
 		['value'] = '4',
 	},
-	[1546] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5343,
 		['name'] = 'Charm "Prey 1v1" Platinum',
 		['value'] = '5',
 	},
-	[1547] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5344,
 		['name'] = 'Charm "Prey 1v1" Diamond',
 		['value'] = '6',
 	},
-	[1548] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5345,
 		['name'] = 'Charm "Prey 5v5" Bronze',
 		['value'] = '1',
 	},
-	[1549] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5346,
 		['name'] = 'Charm "Prey 5v5" Silver',
 		['value'] = '2',
 	},
-	[1550] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5347,
 		['name'] = 'Charm "Prey 5v5" Gold',
 		['value'] = '3',
 	},
-	[1551] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5348,
 		['name'] = 'Charm "Prey 5v5" Elite Gold',
 		['value'] = '4',
 	},
-	[1552] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5349,
 		['name'] = 'Charm "Prey 5v5" Platinum',
 		['value'] = '5',
 	},
-	[1553] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5350,
 		['name'] = 'Charm "Prey 5v5" Diamond',
 		['value'] = '6',
 	},
-	[1554] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5351,
 		['name'] = 'Charm "Prey 2v2" Bronze',
 		['value'] = '1',
 	},
-	[1555] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5352,
 		['name'] = 'Charm "Prey 2v2" Silver',
 		['value'] = '2',
 	},
-	[1556] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5353,
 		['name'] = 'Charm "Prey 2v2" Gold',
 		['value'] = '3',
 	},
-	[1557] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5354,
 		['name'] = 'Charm "Prey 2v2" Elite Gold',
 		['value'] = '4',
 	},
-	[1558] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5355,
 		['name'] = 'Charm "Prey 2v2" Platinum',
 		['value'] = '5',
 	},
-	[1559] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 5356,
 		['name'] = 'Charm "Prey 2v2" Diamond',
 		['value'] = '6',
 	},
-	[1560] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5357,
 		['name'] = 'Charm "Drift King"',
 		['value'] = '6',
 	},
-	[1561] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5358,
 		['name'] = 'Chibi "Daizen"',
 		['value'] = '6',
 	},
-	[1562] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5359,
 		['name'] = 'Charm "Street Boss"',
 		['value'] = '5',
 	},
-	[1563] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5360,
 		['name'] = 'Charm "Arcade Game"',
 		['value'] = '5',
 	},
-	[1564] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5361,
 		['name'] = 'Charm "Syndicate" Gold',
 		['value'] = '5',
 	},
-	[1565] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5362,
 		['name'] = 'Charm "Noodle Friend"',
 		['value'] = '4',
 	},
-	[1566] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5363,
 		['name'] = 'Charm "Sakura"',
 		['value'] = '4',
 	},
-	[1567] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5364,
 		['name'] = 'Charm "Octo Chef"',
 		['value'] = '4',
 	},
-	[1568] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5365,
 		['name'] = 'Charm "Kokeshi"',
 		['value'] = '3',
 	},
-	[1569] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5366,
 		['name'] = 'Charm "Temple"',
 		['value'] = '3',
 	},
-	[1570] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5367,
 		['name'] = 'Charm "Sai"',
 		['value'] = '3',
 	},
-	[1571] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5368,
 		['name'] = 'Charm "Syndicate" Silver',
 		['value'] = '3',
 	},
-	[1572] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 5369,
 		['name'] = 'Charm "Syndicate"',
 		['value'] = '5',
 	},
-	[1573] = {
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5370,
+		['name'] = 'Chibi "Reaper"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5371,
+		['name'] = 'Charm "Alpaka"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5372,
+		['name'] = 'Charm "Calavera"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5373,
+		['name'] = 'Charm "Mariachi"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5374,
+		['name'] = 'Charm "Deadly Draw"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5375,
+		['name'] = 'Charm "Dia de Muertos" Silver',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5376,
+		['name'] = 'Charm "Dia de Muertos" Gold',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5377,
+		['name'] = 'Charm "Tesoro"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 5378,
+		['name'] = 'Charm "Metamorph"',
+		['value'] = '5',
+	},
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 7031,
 		['name'] = 'Frame "Portal"',
 		['value'] = '6',
 	},
-	[1574] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 7036,
 		['name'] = 'Frame "Kitsune Dreams" Kori',
 		['value'] = '3',
 	},
-	[1575] = {
+	{
 		['collection'] = 'kitsune_dreams',
-		['craftable'] = 'true',
-		['event_craft'] = 'true',
 		['id'] = 7037,
-		['match_drop'] = 'true',
 		['name'] = 'Frame "Kitsune Dreams" Naito',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'kitsune_dreams',
+		['id'] = 7038,
+		['name'] = 'Frame "Kitsune Dreams" Akari',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'kitsune_dreams',
+		['id'] = 7039,
+		['name'] = 'Frame "Kitsune Dreams" Hoshi',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 7040,
+		['name'] = 'Frame "Dia de Muertos"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 377,
+		['name'] = 'Medal "Dia de Muertos" Bronze',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 378,
+		['name'] = 'Medal "Dia de Muertos" Silver',
+		['value'] = '1',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 379,
+		['name'] = 'Medal "Dia de Muertos" Gold',
+		['value'] = '2',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 380,
+		['name'] = 'Medal "Dia de Muertos" Elite Gold',
+		['stattrack'] = 'false',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 381,
+		['name'] = 'Medal "Dia de Muertos" Platinum',
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1576] = {
-		['collection'] = 'kitsune_dreams',
-		['craftable'] = 'true',
-		['event_craft'] = 'true',
-		['id'] = 7038,
-		['match_drop'] = 'true',
-		['name'] = 'Frame "Kitsune Dreams" Akari',
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 382,
+		['name'] = 'Medal "Dia de Muertos" Diamond',
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1577] = {
-		['collection'] = 'kitsune_dreams',
-		['craftable'] = 'true',
-		['event_craft'] = 'true',
-		['id'] = 7039,
-		['match_drop'] = 'true',
-		['name'] = 'Frame "Kitsune Dreams" Hoshi',
-		['stattrack'] = 'false',
-		['value'] = '6',
-	},
-	[1578] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9592,7 +9859,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1579] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9601,7 +9868,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1580] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9611,7 +9878,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1581] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9621,7 +9888,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1582] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9630,7 +9897,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1583] = {
+	{
 		['collection'] = 'nameless',
 		['event_craft'] = 'true',
 		['id'] = 12001,
@@ -9638,7 +9905,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[1584] = {
+	{
 		['collection'] = 'event2years',
 		['event_craft'] = 'true',
 		['id'] = 12002,
@@ -9646,7 +9913,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1585] = {
+	{
 		['collection'] = 'event2years',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9655,7 +9922,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1586] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9665,7 +9932,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1587] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9675,7 +9942,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1588] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9684,7 +9951,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1589] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9694,7 +9961,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1590] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9704,7 +9971,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1591] = {
+	{
 		['collection'] = 'assistance',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9714,7 +9981,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1592] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9724,7 +9991,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1593] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9733,7 +10000,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1594] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9743,7 +10010,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1595] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9753,7 +10020,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1596] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9763,7 +10030,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1597] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9773,7 +10040,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1598] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9783,7 +10050,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1599] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9793,7 +10060,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1600] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9802,7 +10069,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1601] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9811,7 +10078,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1602] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9821,7 +10088,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1603] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9831,7 +10098,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1604] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9840,7 +10107,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1605] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9849,7 +10116,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1606] = {
+	{
 		['collection'] = 'event2years',
 		['event_craft'] = 'true',
 		['id'] = 34003,
@@ -9857,7 +10124,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1607] = {
+	{
 		['collection'] = 'event2years',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9867,7 +10134,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1608] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9877,7 +10144,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1609] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9887,7 +10154,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1610] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9897,7 +10164,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1611] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9907,7 +10174,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1612] = {
+	{
 		['collection'] = 'nameless',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9916,7 +10183,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[1613] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9926,7 +10193,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1614] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9936,7 +10203,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1615] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9945,7 +10212,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1616] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9955,7 +10222,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1617] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9965,7 +10232,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1618] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9974,7 +10241,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1619] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9983,7 +10250,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1620] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -9993,7 +10260,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1621] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10003,7 +10270,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1622] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10013,7 +10280,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1623] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10023,7 +10290,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1624] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10033,7 +10300,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1625] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10043,7 +10310,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1626] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10053,7 +10320,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1627] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10063,7 +10330,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1628] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10072,7 +10339,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1629] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10081,7 +10348,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1630] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10090,7 +10357,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1631] = {
+	{
 		['collection'] = 'event2years',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10100,7 +10367,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1632] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10110,7 +10377,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1633] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10119,7 +10386,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1634] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10128,7 +10395,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1635] = {
+	{
 		['collection'] = 'nameless',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10138,7 +10405,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[1636] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10148,7 +10415,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1637] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10157,7 +10424,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1638] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10166,7 +10433,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1639] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10176,7 +10443,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1640] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10186,7 +10453,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1641] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10196,7 +10463,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1642] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10206,7 +10473,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1643] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10216,7 +10483,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1644] = {
+	{
 		['collection'] = 'assistance',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10225,7 +10492,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1645] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10235,7 +10502,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1646] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10245,7 +10512,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1647] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10254,7 +10521,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1648] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10264,7 +10531,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1649] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10274,7 +10541,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1650] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10284,7 +10551,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1651] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10294,7 +10561,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1652] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'false',
 		['id'] = 47502,
@@ -10302,7 +10569,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1653] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'false',
 		['id'] = 47503,
@@ -10310,7 +10577,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1654] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10319,7 +10586,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1655] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10328,7 +10595,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1656] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10337,7 +10604,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1657] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10346,7 +10613,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1658] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10355,7 +10622,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1659] = {
+	{
 		['collection'] = 'assistance',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10364,7 +10631,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1660] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10373,7 +10640,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1661] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10382,7 +10649,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1662] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10391,7 +10658,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1663] = {
+	{
 		['collection'] = 'nameless',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10400,7 +10667,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[1664] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10409,7 +10676,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1665] = {
+	{
 		['collection'] = 'event2years',
 		['event_craft'] = 'true',
 		['id'] = 51008,
@@ -10417,7 +10684,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1666] = {
+	{
 		['collection'] = 'competitive',
 		['event_craft'] = 'true',
 		['id'] = 51601,
@@ -10425,7 +10692,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1667] = {
+	{
 		['collection'] = 'competitive',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10434,7 +10701,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1668] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10444,7 +10711,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1669] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10454,7 +10721,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1670] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10463,7 +10730,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1671] = {
+	{
 		['collection'] = 'competitive',
 		['event_craft'] = 'true',
 		['id'] = 54401,
@@ -10471,7 +10738,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1672] = {
+	{
 		['collection'] = 'competitive',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10480,7 +10747,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1673] = {
+	{
 		['collection'] = 'competitive',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10489,7 +10756,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1674] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10498,7 +10765,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1675] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10507,7 +10774,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1676] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10517,7 +10784,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1677] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10527,7 +10794,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1678] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10536,7 +10803,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1679] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10546,7 +10813,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1680] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10556,7 +10823,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1681] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10566,7 +10833,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1682] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10576,7 +10843,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1683] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10585,7 +10852,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1684] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10594,7 +10861,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1685] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10603,7 +10870,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1686] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10612,7 +10879,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1687] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10621,7 +10888,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1688] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 67701,
@@ -10629,7 +10896,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1689] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 67702,
@@ -10637,7 +10904,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1690] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 67703,
@@ -10645,7 +10912,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1691] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 67704,
@@ -10653,7 +10920,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1692] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 67705,
@@ -10661,21 +10928,21 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1693] = {
+	{
 		['collection'] = 'assistance',
 		['id'] = 71001,
 		['name'] = 'M9 Bayonet "Blue Blood"',
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1694] = {
+	{
 		['collection'] = 'origin',
 		['id'] = 71002,
 		['name'] = 'M9 Bayonet "Ancient"',
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1695] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'false',
 		['id'] = 71003,
@@ -10683,7 +10950,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1696] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10692,7 +10959,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1697] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10701,7 +10968,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1698] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10710,7 +10977,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1699] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10719,7 +10986,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1700] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10728,7 +10995,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1701] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10737,7 +11004,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1702] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10746,7 +11013,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1703] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10755,7 +11022,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1704] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'false',
 		['id'] = 72002,
@@ -10763,7 +11030,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1705] = {
+	{
 		['collection'] = 'nameless',
 		['craftable'] = 'false',
 		['id'] = 72003,
@@ -10771,7 +11038,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[1706] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'false',
 		['id'] = 72004,
@@ -10779,7 +11046,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1707] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'false',
 		['id'] = 72006,
@@ -10787,7 +11054,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1708] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'false',
 		['id'] = 72007,
@@ -10795,7 +11062,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1709] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['id'] = 73001,
@@ -10803,7 +11070,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1710] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['id'] = 73002,
@@ -10811,7 +11078,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1711] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['id'] = 73003,
@@ -10819,7 +11086,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1712] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['id'] = 73004,
@@ -10827,7 +11094,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1713] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['id'] = 73005,
@@ -10835,7 +11102,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1714] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10844,7 +11111,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1715] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10853,7 +11120,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1716] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10862,7 +11129,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1717] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10871,7 +11138,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1718] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10880,7 +11147,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1719] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10889,7 +11156,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1720] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10898,7 +11165,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1721] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10907,7 +11174,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1722] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10916,7 +11183,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1723] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10925,7 +11192,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1724] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 77813,
@@ -10933,7 +11200,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1725] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 77814,
@@ -10941,7 +11208,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1726] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 77815,
@@ -10949,7 +11216,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1727] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10958,7 +11225,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1728] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10967,7 +11234,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1729] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10977,7 +11244,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1730] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -10987,7 +11254,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1731] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -10997,7 +11264,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1732] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11007,7 +11274,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1733] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11017,7 +11284,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1734] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11027,7 +11294,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1735] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11037,7 +11304,8 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1736] = {
+
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11047,7 +11315,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1737] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11056,7 +11324,8 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1738] = {
+
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11065,7 +11334,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1739] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11074,7 +11343,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1740] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11083,7 +11352,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1741] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11092,7 +11361,8 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1742] = {
+
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11101,7 +11371,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1743] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11110,7 +11380,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1744] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11119,7 +11389,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1745] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11128,7 +11398,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1746] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11137,7 +11407,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1747] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11146,7 +11416,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1748] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11156,7 +11426,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1749] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11166,7 +11436,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1750] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11175,7 +11445,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1751] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11184,7 +11454,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1752] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11193,7 +11463,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1753] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11203,7 +11473,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1754] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11213,7 +11483,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1755] = {
+	{
 		['collection'] = 'nameless',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11222,7 +11492,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[1756] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11231,7 +11501,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1757] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11240,7 +11510,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1758] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11249,7 +11519,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1759] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11259,7 +11529,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1760] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11269,7 +11539,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1761] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11278,7 +11548,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1762] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'false',
 		['id'] = 87919,
@@ -11286,7 +11556,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1763] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'false',
 		['id'] = 87920,
@@ -11294,7 +11564,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1764] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11303,7 +11573,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1765] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11312,7 +11582,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1766] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11321,7 +11591,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1767] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11330,7 +11600,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1768] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11339,7 +11609,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1769] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11348,7 +11618,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1770] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11357,7 +11627,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1771] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11366,7 +11636,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1772] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11375,7 +11645,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1773] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11384,43 +11654,43 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1774] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 97100,
 		['name'] = 'M9 Bayonet "Frozen"',
 		['value'] = '6',
 	},
-	[1775] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 97200,
 		['name'] = 'Karambit "Cold Flame"',
 		['value'] = '6',
 	},
-	[1776] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 97201,
 		['name'] = 'Karambit "Frozen"',
 		['value'] = '6',
 	},
-	[1777] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 97203,
 		['name'] = 'Karambit "Snow Camo"',
 		['value'] = '6',
 	},
-	[1778] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 97300,
 		['name'] = 'jKommando "Frozen"',
 		['value'] = '6',
 	},
-	[1779] = {
+	{
 		['collection'] = 'new_year_2021',
 		['id'] = 97500,
 		['name'] = 'Butterfly "Cold Flame"',
 		['value'] = '6',
 	},
-	[1780] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 97700,
@@ -11428,7 +11698,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1781] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11437,7 +11707,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1782] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11446,7 +11716,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1783] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11455,7 +11725,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1784] = {
+	{
 		['collection'] = 'event4years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11464,7 +11734,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1785] = {
+	{
 		['collection'] = 'event4years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11473,7 +11743,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1786] = {
+	{
 		['collection'] = 'event4years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11482,7 +11752,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1787] = {
+	{
 		['collection'] = 'event4years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11491,7 +11761,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1788] = {
+	{
 		['collection'] = 'event4years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11501,7 +11771,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1789] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11511,7 +11781,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1790] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11521,7 +11791,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1791] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11531,7 +11801,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1792] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11541,7 +11811,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1793] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11551,7 +11821,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1794] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11561,7 +11831,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1795] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11571,7 +11841,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1796] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11581,7 +11851,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1797] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11591,7 +11861,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1798] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11601,7 +11871,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1799] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11611,7 +11881,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1800] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11621,7 +11891,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1801] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11631,7 +11901,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1802] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11641,7 +11911,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1803] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11651,7 +11921,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1804] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11661,7 +11931,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1805] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11671,7 +11941,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1806] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11681,7 +11951,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1807] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11691,7 +11961,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1808] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -11701,7 +11971,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1809] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11711,7 +11981,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1810] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11721,7 +11991,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1811] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11731,7 +12001,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1812] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11741,7 +12011,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1813] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11751,7 +12021,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1814] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11761,7 +12031,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1815] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11771,7 +12041,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1816] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11781,7 +12051,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1817] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11791,7 +12061,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1818] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11801,7 +12071,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1819] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11811,7 +12081,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1820] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11821,19 +12091,19 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1821] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 138000,
 		['name'] = 'Tanto "Dojo"',
 		['value'] = '6',
 	},
-	[1822] = {
+	{
 		['collection'] = 'dragon_rise',
 		['id'] = 138001,
 		['name'] = 'Tanto "Yakuza"',
 		['value'] = '6',
 	},
-	[1823] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 138002,
@@ -11841,7 +12111,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1824] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11851,7 +12121,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1825] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11861,7 +12131,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1826] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11871,7 +12141,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1827] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11881,7 +12151,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1828] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11891,7 +12161,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1829] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11901,7 +12171,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1830] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11911,7 +12181,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1831] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11921,7 +12191,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1832] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11931,7 +12201,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1833] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -11941,156 +12211,156 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1834] = {
+	{
 		['collection'] = 'cursed_souls',
 		['event_craft'] = 'true',
 		['id'] = 148000,
 		['name'] = 'Tanto "Restless"',
 		['value'] = '6',
 	},
-	[1835] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 151600,
 		['name'] = 'TEC-9 "Royal Frost"',
 		['value'] = '3',
 	},
-	[1836] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 151700,
 		['name'] = 'F/S "Royal Frost"',
 		['value'] = '3',
 	},
-	[1837] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 154300,
 		['name'] = 'M4A1 "Year Of The Tiger"',
 		['value'] = '6',
 	},
-	[1838] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 154800,
 		['name'] = 'FAMAS "Christmas Symbol"',
 		['value'] = '5',
 	},
-	[1839] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 154900,
 		['name'] = 'FN FAL "Christmas Symbol"',
 		['value'] = '4',
 	},
-	[1840] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 155200,
 		['name'] = 'M40 "Thief Of The Christmas"',
 		['value'] = '4',
 	},
-	[1841] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 155300,
 		['name'] = 'M110 "Year Of The Tiger"',
 		['value'] = '5',
 	},
-	[1842] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 156300,
 		['name'] = 'FabM "Thief Of The Christmas"',
 		['value'] = '3',
 	},
-	[1843] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 157100,
 		['name'] = 'M9 Bayonet "Kumo"',
 		['value'] = '6',
 	},
-	[1844] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 157200,
 		['name'] = 'Karambit "Year Of The Tiger"',
 		['value'] = '6',
 	},
-	[1845] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 157300,
 		['name'] = 'jKommando "Augustite"',
 		['value'] = '6',
 	},
-	[1846] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 157500,
 		['name'] = 'Butterfly "Kumo"',
 		['value'] = '6',
 	},
-	[1847] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 157700,
 		['name'] = 'Flip "Holiday Frost"',
 		['value'] = '6',
 	},
-	[1848] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 157800,
 		['name'] = 'Kunai "Augustite"',
 		['value'] = '6',
 	},
-	[1849] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 157900,
 		['name'] = 'Scorpion "Holiday Frost"',
 		['value'] = '6',
 	},
-	[1850] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['event_craft'] = 'true',
 		['id'] = 158000,
 		['name'] = 'Tanto "Year Of The Tiger"',
 		['value'] = '6',
 	},
-	[1851] = {
+	{
 		['collection'] = 'event5years',
 		['event_craft'] = 'true',
 		['id'] = 161200,
 		['name'] = 'USP "Stickerbomb"',
 		['value'] = '5',
 	},
-	[1852] = {
+	{
 		['collection'] = 'event5years',
 		['event_craft'] = 'true',
 		['id'] = 161600,
 		['name'] = 'TEC-9 "Stickerbomb"',
 		['value'] = '4',
 	},
-	[1853] = {
+	{
 		['collection'] = 'event5years',
 		['event_craft'] = 'true',
 		['id'] = 163400,
 		['name'] = 'MP7 "Stickerbomb"',
 		['value'] = '5',
 	},
-	[1854] = {
+	{
 		['collection'] = 'event5years',
 		['event_craft'] = 'true',
 		['id'] = 165100,
 		['name'] = 'AWM "Stickerbomb"',
 		['value'] = '6',
 	},
-	[1855] = {
+	{
 		['collection'] = 'event5years',
 		['event_craft'] = 'true',
 		['id'] = 165200,
 		['name'] = 'M40 "Stickerbomb"',
 		['value'] = '3',
 	},
-	[1856] = {
+	{
 		['collection'] = 'event5years',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12099,7 +12369,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1857] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12108,7 +12378,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1858] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12117,7 +12387,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1859] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12126,7 +12396,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1860] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12135,7 +12405,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1861] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12144,7 +12414,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1862] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12153,7 +12423,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1863] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12162,7 +12432,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1864] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12171,7 +12441,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1865] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12180,7 +12450,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1866] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12189,7 +12459,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1867] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12198,7 +12468,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1868] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12207,7 +12477,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1869] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12216,7 +12486,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1870] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12225,7 +12495,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1871] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12234,7 +12504,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1872] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12243,7 +12513,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1873] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12252,7 +12522,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1874] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12261,7 +12531,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1875] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12270,7 +12540,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1876] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12279,418 +12549,418 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1877] = {
+	{
 		['collection'] = 'sharp',
 		['id'] = 170021,
 		['name'] = 'Dual Daggers "Acid"',
 		['value'] = '6',
 	},
-	[1878] = {
+	{
 		['collection'] = 'sharp',
 		['event_craft'] = 'true',
 		['id'] = 170022,
 		['name'] = 'Dual Daggers "Demonic Steel"',
 		['value'] = '6',
 	},
-	[1879] = {
+	{
 		['collection'] = 'sharp',
 		['event_craft'] = 'true',
 		['id'] = 170023,
 		['name'] = 'Dual Daggers "Grunge"',
 		['value'] = '6',
 	},
-	[1880] = {
+	{
 		['collection'] = 'sharp',
 		['event_craft'] = 'true',
 		['id'] = 170024,
 		['name'] = 'Dual Daggers "Molten"',
 		['value'] = '6',
 	},
-	[1881] = {
+	{
 		['collection'] = 'nameless',
 		['event_craft'] = 'true',
 		['id'] = 180000,
 		['name'] = 'Dual Daggers "Harmony"',
 		['value'] = '7',
 	},
-	[1882] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180001,
 		['name'] = 'AKR "Scylla"',
 		['value'] = '5',
 	},
-	[1883] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180002,
 		['name'] = 'AWM "Poseidon"',
 		['value'] = '4',
 	},
-	[1884] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180003,
 		['name'] = 'FabM "Hercules"',
 		['value'] = '3',
 	},
-	[1885] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180004,
 		['name'] = 'M4 "Minotaur"',
 		['value'] = '3',
 	},
-	[1886] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180005,
 		['name'] = 'M40 "Constellations"',
 		['value'] = '5',
 	},
-	[1887] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180006,
 		['name'] = 'M60 "Ares"',
 		['value'] = '3',
 	},
-	[1888] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180007,
 		['name'] = 'M110 "Themis"',
 		['value'] = '4',
 	},
-	[1889] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180008,
 		['name'] = 'MAC10 "Argo"',
 		['value'] = '6',
 	},
-	[1890] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180009,
 		['name'] = 'MAC10 "Constellations"',
 		['value'] = '5',
 	},
-	[1891] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180010,
 		['name'] = 'MP5 "Gorgon"',
 		['value'] = '6',
 	},
-	[1892] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180011,
 		['name'] = 'SPAS "Griffin"',
 		['value'] = '3',
 	},
-	[1893] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180012,
 		['name'] = 'SPAS "Zeus"',
 		['value'] = '4',
 	},
-	[1894] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180013,
 		['name'] = 'F/S "Octopus"',
 		['value'] = '5',
 	},
-	[1895] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180014,
 		['name'] = 'SM1014 "Fatal Combo"',
 		['value'] = '5',
 	},
-	[1896] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180015,
 		['name'] = 'TEC-9 "Splash"',
 		['value'] = '3',
 	},
-	[1897] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180016,
 		['name'] = 'AKR12 "Carving"',
 		['value'] = '4',
 	},
-	[1898] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180017,
 		['name'] = 'FN FAL "Basilisk"',
 		['value'] = '4',
 	},
-	[1899] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180018,
 		['name'] = 'M4A1 "Mermaid"',
 		['value'] = '5',
 	},
-	[1900] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180019,
 		['name'] = 'M16 "Muraena"',
 		['value'] = '5',
 	},
-	[1901] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180020,
 		['name'] = 'MAC10 "Fatal Combo"',
 		['value'] = '5',
 	},
-	[1902] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180021,
 		['name'] = 'SPAS "Octopus"',
 		['value'] = '5',
 	},
-	[1903] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 180022,
 		['name'] = 'Kukri "Ares"',
 		['value'] = '6',
 	},
-	[1904] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 180023,
 		['name'] = 'Kukri "Prophet"',
 		['value'] = '6',
 	},
-	[1905] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 180024,
 		['name'] = 'Kukri "Gold Trim"',
 		['value'] = '6',
 	},
-	[1906] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180025,
 		['name'] = 'Kukri "Antique Silver"',
 		['value'] = '6',
 	},
-	[1907] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180026,
 		['name'] = 'Kukri "Constellations"',
 		['value'] = '6',
 	},
-	[1908] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180027,
 		['name'] = 'Kukri "Divine Power"',
 		['value'] = '6',
 	},
-	[1909] = {
+	{
 		['collection'] = 'legends',
 		['event_craft'] = 'true',
 		['id'] = 180028,
 		['name'] = 'Dual Daggers "Jaws"',
 		['value'] = '6',
 	},
-	[1910] = {
+	{
 		['collection'] = 'project_pandora',
 		['event_craft'] = 'true',
 		['id'] = 190001,
 		['name'] = 'AKR12 "Riot"',
 		['value'] = '6',
 	},
-	[1911] = {
+	{
 		['collection'] = 'project_pandora',
 		['event_craft'] = 'true',
 		['id'] = 190002,
 		['name'] = 'Desert Eagle "Infection"',
 		['value'] = '3',
 	},
-	[1912] = {
+	{
 		['collection'] = 'project_pandora',
 		['event_craft'] = 'true',
 		['id'] = 190003,
 		['name'] = 'FAMAS "Handcraft"',
 		['value'] = '3',
 	},
-	[1913] = {
+	{
 		['collection'] = 'project_pandora',
 		['event_craft'] = 'true',
 		['id'] = 190004,
 		['name'] = 'MAC10 "Melt Away"',
 		['value'] = '5',
 	},
-	[1914] = {
+	{
 		['collection'] = 'project_pandora',
 		['event_craft'] = 'true',
 		['id'] = 190005,
 		['name'] = 'P350 "Raider"',
 		['value'] = '4',
 	},
-	[1915] = {
+	{
 		['collection'] = 'project_pandora',
 		['event_craft'] = 'true',
 		['id'] = 190006,
 		['name'] = 'SPAS "Raider"',
 		['value'] = '4',
 	},
-	[1916] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200001,
 		['name'] = 'M4 "Sunset"',
 		['value'] = '6',
 	},
-	[1917] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200002,
 		['name'] = 'UMP45 "Luminous"',
 		['value'] = '5',
 	},
-	[1918] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200003,
 		['name'] = 'SPAS "Vibe"',
 		['value'] = '4',
 	},
-	[1919] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200004,
 		['name'] = 'MP7 "Space Blaster"',
 		['value'] = '4',
 	},
-	[1920] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200005,
 		['name'] = 'MP5 "Space Blaster"',
 		['value'] = '3',
 	},
-	[1921] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200006,
 		['name'] = 'P90 "Purple Mist"',
 		['value'] = '3',
 	},
-	[1922] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200007,
 		['name'] = 'M16 "Retro Arcade"',
 		['value'] = '4',
 	},
-	[1923] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200008,
 		['name'] = 'MAC10 "Purple Mist"',
 		['value'] = '3',
 	},
-	[1924] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200009,
 		['name'] = 'AKR "Digital Burst"',
 		['value'] = '5',
 	},
-	[1925] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['event_craft'] = 'true',
 		['id'] = 200010,
 		['name'] = 'USP "Digital Burst"',
 		['value'] = '4',
 	},
-	[1926] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200011,
 		['name'] = 'Karambit "Purple Camo"',
 		['value'] = '6',
 	},
-	[1927] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200012,
 		['name'] = 'M9 Bayonet "Digital Burst"',
 		['value'] = '6',
 	},
-	[1928] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200013,
 		['name'] = 'Kukri "Digital Burst"',
 		['value'] = '6',
 	},
-	[1929] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200014,
 		['name'] = 'Kunai "Prism"',
 		['value'] = '6',
 	},
-	[1930] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200015,
 		['name'] = 'jKommando "Prism"',
 		['value'] = '6',
 	},
-	[1931] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200016,
 		['name'] = 'Tanto "Retro Arcade"',
 		['value'] = '6',
 	},
-	[1932] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 200017,
 		['name'] = 'Dual Daggers "Retro Arcade"',
 		['value'] = '6',
 	},
-	[1933] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 210001,
 		['name'] = 'Desert Eagle "Hunter"',
 		['value'] = '3',
 	},
-	[1934] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 210002,
 		['name'] = 'M16 "Sharpshooter"',
 		['value'] = '3',
 	},
-	[1935] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 210003,
 		['name'] = 'AWM "Cold-blooded"',
 		['value'] = '4',
 	},
-	[1936] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 210004,
 		['name'] = 'AKR "Steel Grip"',
 		['value'] = '4',
 	},
-	[1937] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 210005,
 		['name'] = 'G22 "Steel Grip"',
 		['value'] = '2',
 	},
-	[1938] = {
+	{
 		['collection'] = 'standoff_2',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12699,7 +12969,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1939] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12708,7 +12978,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1940] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12717,7 +12987,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1941] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12726,7 +12996,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1942] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12735,7 +13005,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1943] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12744,7 +13014,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1944] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12753,7 +13023,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1945] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12762,7 +13032,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1946] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12771,7 +13041,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[1947] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12780,7 +13050,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1948] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12789,7 +13059,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[1949] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12798,7 +13068,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1950] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12807,7 +13077,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1951] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12816,7 +13086,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1952] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12825,7 +13095,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1953] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12834,7 +13104,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[1954] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12843,7 +13113,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1955] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12852,7 +13122,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[1956] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12861,7 +13131,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[1957] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12870,7 +13140,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1958] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -12879,297 +13149,297 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[1959] = {
+	{
 		['collection'] = 'revenge',
 		['id'] = 220021,
 		['name'] = 'Stiletto "Soul Devourer"',
 		['value'] = '6',
 	},
-	[1960] = {
+	{
 		['collection'] = 'revenge',
 		['event_craft'] = 'true',
 		['id'] = 220022,
 		['name'] = 'Stiletto "Viper"',
 		['value'] = '6',
 	},
-	[1961] = {
+	{
 		['collection'] = 'revenge',
 		['event_craft'] = 'true',
 		['id'] = 220023,
 		['name'] = 'Stiletto "Tie Dye"',
 		['value'] = '6',
 	},
-	[1962] = {
+	{
 		['collection'] = 'revenge',
 		['event_craft'] = 'true',
 		['id'] = 220024,
 		['name'] = 'Stiletto "Damascus"',
 		['value'] = '6',
 	},
-	[1963] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230001,
 		['name'] = 'AKR12 "Ashbringer"',
 		['value'] = '5',
 	},
-	[1964] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230002,
 		['name'] = 'F/S "Ophidian"',
 		['value'] = '4',
 	},
-	[1965] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230003,
 		['name'] = 'G22 "Lion Lord"',
 		['value'] = '3',
 	},
-	[1966] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230004,
 		['name'] = 'M4A1 "Paladin"',
 		['value'] = '6',
 	},
-	[1967] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230005,
 		['name'] = 'M40 "Wyvern"',
 		['value'] = '3',
 	},
-	[1968] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230006,
 		['name'] = 'MAC10 "Wild Rage"',
 		['value'] = '4',
 	},
-	[1969] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230007,
 		['name'] = 'P90 "Dragon Flame"',
 		['value'] = '5',
 	},
-	[1970] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230008,
 		['name'] = 'SPAS "Unicorn"',
 		['value'] = '3',
 	},
-	[1971] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230009,
 		['name'] = 'UMP45 "Warchief"',
 		['value'] = '4',
 	},
-	[1972] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230010,
 		['name'] = 'USP "Griffin"',
 		['value'] = '3',
 	},
-	[1973] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230011,
 		['name'] = 'Berettas "Blazing Maw"',
 		['value'] = '5',
 	},
-	[1974] = {
+	{
 		['collection'] = 'fireborn',
 		['event_craft'] = 'true',
 		['id'] = 230012,
 		['name'] = 'Berettas "Royal Rose"',
 		['value'] = '6',
 	},
-	[1975] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240001,
 		['name'] = 'TEC-9 "Glitch"',
 		['value'] = '6',
 	},
-	[1976] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240002,
 		['name'] = 'FabM "Cranium"',
 		['value'] = '5',
 	},
-	[1977] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240003,
 		['name'] = 'M60 "Spaceware"',
 		['value'] = '4',
 	},
-	[1978] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240004,
 		['name'] = 'Berettas "Hexagon"',
 		['value'] = '4',
 	},
-	[1979] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240005,
 		['name'] = 'FAMAS "Stellar Blitz"',
 		['value'] = '3',
 	},
-	[1980] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240006,
 		['name'] = 'AWM "Xenoguard"',
 		['value'] = '3',
 	},
-	[1981] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 240007,
 		['name'] = 'Butterfly "Glitch"',
 		['value'] = '6',
 	},
-	[1982] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 240008,
 		['name'] = 'Kunai "Glitch"',
 		['value'] = '6',
 	},
-	[1983] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 240009,
 		['name'] = 'Tanto "Glitch"',
 		['value'] = '6',
 	},
-	[1984] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240010,
 		['name'] = 'Scorpion "Magnalium"',
 		['value'] = '6',
 	},
-	[1985] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240011,
 		['name'] = 'Flip "Magnalium"',
 		['value'] = '6',
 	},
-	[1986] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240012,
 		['name'] = 'Stiletto "Flux"',
 		['value'] = '6',
 	},
-	[1987] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240013,
 		['name'] = 'AWM "Nebula"',
 		['value'] = '6',
 	},
-	[1988] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240014,
 		['name'] = 'Karambit "Nebula"',
 		['value'] = '6',
 	},
-	[1989] = {
+	{
 		['collection'] = 'space_vision',
 		['event_craft'] = 'true',
 		['id'] = 240015,
 		['name'] = 'P90 "Nebula"',
 		['value'] = '6',
 	},
-	[1990] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240016,
 		['name'] = 'MP7 "Ridge"',
 		['value'] = '3',
 	},
-	[1991] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240017,
 		['name'] = 'FN FAL "Scaleskitter"',
 		['value'] = '5',
 	},
-	[1992] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240018,
 		['name'] = 'UMP45 "Arid"',
 		['value'] = '3',
 	},
-	[1993] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240019,
 		['name'] = 'MAC10 "Arid"',
 		['value'] = '3',
 	},
-	[1994] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240020,
 		['name'] = 'P350 "Sandspirit"',
 		['value'] = '3',
 	},
-	[1995] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240021,
 		['name'] = 'SM1014 "Serpent"',
 		['value'] = '4',
 	},
-	[1996] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240022,
 		['name'] = 'M4A1 "Serpent"',
 		['value'] = '4',
 	},
-	[1997] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240023,
 		['name'] = 'M110 "Harbinger"',
 		['value'] = '5',
 	},
-	[1998] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240024,
 		['name'] = 'Desert Eagle "Dust Devil"',
 		['value'] = '4',
 	},
-	[1999] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240025,
 		['name'] = 'USP "Mirage Menace"',
 		['value'] = '6',
 	},
-	[2000] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240026,
 		['name'] = 'M16 "Dust Devil"',
 		['value'] = '5',
 	},
-	[2001] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240027,
@@ -13177,365 +13447,365 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2002] = {
+	{
 		['collection'] = 'nameless',
 		['id'] = 240028,
 		['name'] = 'Desert Eagle "Aureate"',
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[2003] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 240029,
 		['name'] = 'Fang "Flare"',
 		['value'] = '6',
 	},
-	[2004] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 240030,
 		['name'] = 'Fang "Serpent"',
 		['value'] = '6',
 	},
-	[2005] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 240031,
 		['name'] = 'Fang "Obsidian"',
 		['value'] = '6',
 	},
-	[2006] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240032,
 		['name'] = 'Fang "Relic"',
 		['value'] = '6',
 	},
-	[2007] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240033,
 		['name'] = 'Fang "Aureate"',
 		['value'] = '6',
 	},
-	[2008] = {
+	{
 		['collection'] = 'sunstrike',
 		['event_craft'] = 'true',
 		['id'] = 240034,
 		['name'] = 'Fang "Damascus"',
 		['value'] = '6',
 	},
-	[2009] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240035,
 		['name'] = 'MP5 "Insanity"',
 		['value'] = '3',
 	},
-	[2010] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240036,
 		['name'] = 'M60 "Quantum"',
 		['value'] = '3',
 	},
-	[2011] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240037,
 		['name'] = 'Berettas "Hybrid"',
 		['value'] = '3',
 	},
-	[2012] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240038,
 		['name'] = 'FabM "Tindalos"',
 		['value'] = '4',
 	},
-	[2013] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240039,
 		['name'] = 'G22 "Haunt"',
 		['value'] = '4',
 	},
-	[2014] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240040,
 		['name'] = 'M40 "Venom Shade"',
 		['value'] = '4',
 	},
-	[2015] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240041,
 		['name'] = 'F/S "Hellspawn"',
 		['value'] = '5',
 	},
-	[2016] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240042,
 		['name'] = 'P90 "Revenant"',
 		['value'] = '5',
 	},
-	[2017] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240043,
 		['name'] = 'AKR12 "Haunt"',
 		['value'] = '5',
 	},
-	[2018] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240044,
 		['name'] = 'M4 "N-Kai"',
 		['value'] = '6',
 	},
-	[2019] = {
+	{
 		['collection'] = 'subjectx',
 		['event_craft'] = 'true',
 		['id'] = 240045,
 		['name'] = 'Fang "Haunt"',
 		['value'] = '6',
 	},
-	[2020] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240046,
 		['name'] = 'TEC-9 "Verglas"',
 		['value'] = '3',
 	},
-	[2021] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240047,
 		['name'] = 'FN FAL "Verglas"',
 		['value'] = '3',
 	},
-	[2022] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240048,
 		['name'] = 'FAMAS "Snow Storm"',
 		['value'] = '3',
 	},
-	[2023] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240049,
 		['name'] = 'Berettas "Lumos Shard"',
 		['value'] = '4',
 	},
-	[2024] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240050,
 		['name'] = 'M16 "Bigfoot"',
 		['value'] = '4',
 	},
-	[2025] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240051,
 		['name'] = 'AKR "Icewing"',
 		['value'] = '4',
 	},
-	[2026] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240052,
 		['name'] = 'MP7 "Festal Wrap"',
 		['value'] = '4',
 	},
-	[2027] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240053,
 		['name'] = 'AWM "Festal Wrap"',
 		['value'] = '5',
 	},
-	[2028] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240054,
 		['name'] = 'P350 "Festal Wrap"',
 		['value'] = '5',
 	},
-	[2029] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['event_craft'] = 'true',
 		['id'] = 240055,
 		['name'] = 'SM1014 "Freezing Gasp"',
 		['value'] = '6',
 	},
-	[2030] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240056,
 		['name'] = 'jKommando "Blight"',
 		['value'] = '6',
 	},
-	[2031] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240058,
 		['name'] = 'Fang "Saphira"',
 		['value'] = '6',
 	},
-	[2032] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240059,
 		['name'] = 'Butterfly "Saphira"',
 		['value'] = '6',
 	},
-	[2033] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240060,
 		['name'] = 'Dual Daggers "Frost Nova"',
 		['value'] = '6',
 	},
-	[2034] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240061,
 		['name'] = 'Tanto "Frost Nova"',
 		['value'] = '6',
 	},
-	[2035] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240062,
 		['name'] = 'Stiletto "Dark Shiver"',
 		['value'] = '6',
 	},
-	[2036] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 240063,
 		['name'] = 'M9 Bayonet "Dark Shiver"',
 		['value'] = '6',
 	},
-	[2037] = {
+	{
 		['collection'] = 'nameless',
 		['id'] = 240064,
 		['name'] = 'Sting "Mimicry"',
 		['value'] = '7',
 	},
-	[2038] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 240065,
 		['name'] = 'Sting "Meld"',
 		['value'] = '6',
 	},
-	[2039] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 240066,
 		['name'] = 'Sting "Corrode"',
 		['value'] = '6',
 	},
-	[2040] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240067,
 		['name'] = 'Sting "Fleck"',
 		['value'] = '6',
 	},
-	[2041] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240068,
 		['name'] = 'Sting "Shroud"',
 		['value'] = '6',
 	},
-	[2042] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240069,
 		['name'] = 'Sting "Oil Sheen"',
 		['value'] = '6',
 	},
-	[2043] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240070,
 		['name'] = 'Sting "Temper Shades"',
 		['value'] = '6',
 	},
-	[2044] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240071,
 		['name'] = 'MAC10 "Corrode"',
 		['value'] = '3',
 	},
-	[2045] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240072,
 		['name'] = 'USP "Corrode"',
 		['value'] = '3',
 	},
-	[2046] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240073,
 		['name'] = 'M110 "Reach Keeper"',
 		['value'] = '3',
 	},
-	[2047] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240074,
 		['name'] = 'VAL "Forge"',
 		['value'] = '3',
 	},
-	[2048] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240075,
 		['name'] = 'F/S "Toxic"',
 		['value'] = '4',
 	},
-	[2049] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240076,
 		['name'] = 'UMP45 "Industrial"',
 		['value'] = '4',
 	},
-	[2050] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240077,
 		['name'] = 'M60 "Fatal"',
 		['value'] = '4',
 	},
-	[2051] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240078,
 		['name'] = 'SPAS "Dangerous"',
 		['value'] = '5',
 	},
-	[2052] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240079,
 		['name'] = 'P90 "Fusion Core"',
 		['value'] = '5',
 	},
-	[2053] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240080,
 		['name'] = 'VAL "Oil Sheen"',
 		['value'] = '5',
 	},
-	[2054] = {
+	{
 		['collection'] = 'outcast',
 		['event_craft'] = 'true',
 		['id'] = 240081,
 		['name'] = 'Desert Eagle "Fusion Core"',
 		['value'] = '6',
 	},
-	[2055] = {
+	{
 		['collection'] = 'outcast',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13544,7 +13814,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2056] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13553,7 +13823,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2057] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13562,7 +13832,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2058] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13571,7 +13841,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2059] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13580,7 +13850,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2060] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13589,7 +13859,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2061] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13598,7 +13868,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2062] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13607,7 +13877,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2063] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13616,7 +13886,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2064] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13625,7 +13895,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2065] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13634,7 +13904,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2066] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13643,7 +13913,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2067] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13652,7 +13922,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2068] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13661,7 +13931,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2069] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13670,7 +13940,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2070] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13679,7 +13949,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2071] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13688,7 +13958,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2072] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13697,7 +13967,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2073] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13706,7 +13976,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2074] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13715,7 +13985,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2075] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -13724,7 +13994,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2076] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240103,
@@ -13732,7 +14002,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2077] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240104,
@@ -13740,7 +14010,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2078] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240105,
@@ -13748,7 +14018,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2079] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240106,
@@ -13756,7 +14026,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2080] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240107,
@@ -13764,7 +14034,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2081] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240108,
@@ -13772,37 +14042,37 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2082] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 240109,
 		['name'] = 'Dual Daggers "Tiki"',
 		['value'] = '6',
 	},
-	[2083] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 240110,
 		['name'] = 'Kukri "Sea Glint"',
 		['value'] = '6',
 	},
-	[2084] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 240111,
 		['name'] = 'Karambit "Pelagia"',
 		['value'] = '6',
 	},
-	[2085] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 240112,
 		['name'] = 'Scorpion "Ahau"',
 		['value'] = '6',
 	},
-	[2086] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 240113,
 		['name'] = 'Sting "Pelagia"',
 		['value'] = '6',
 	},
-	[2087] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['event_craft'] = 'true',
 		['id'] = 240114,
@@ -13810,7 +14080,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2088] = {
+	{
 		['collection'] = 'nameless',
 		['event_craft'] = 'true',
 		['id'] = 240115,
@@ -13818,7 +14088,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[2089] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240116,
@@ -13826,7 +14096,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2090] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240117,
@@ -13834,7 +14104,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2091] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240118,
@@ -13842,7 +14112,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2092] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240119,
@@ -13850,7 +14120,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2093] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240120,
@@ -13858,7 +14128,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2094] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240121,
@@ -13866,7 +14136,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2095] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240122,
@@ -13874,7 +14144,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2096] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240123,
@@ -13882,7 +14152,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2097] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240124,
@@ -13890,7 +14160,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2098] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240125,
@@ -13898,7 +14168,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2099] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240126,
@@ -13906,7 +14176,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2100] = {
+	{
 		['collection'] = 'reforged',
 		['event_craft'] = 'true',
 		['id'] = 240127,
@@ -13914,26 +14184,26 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2101] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 240128,
 		['name'] = 'Kukri "Decay"',
 		['value'] = '6',
 	},
-	[2102] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 240129,
 		['name'] = 'Dual Daggers "Contagion"',
 		['value'] = '6',
 	},
-	[2103] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 240130,
 		['name'] = 'Butterfly "Ripple"',
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2104] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240131,
@@ -13941,7 +14211,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2105] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240132,
@@ -13949,7 +14219,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2106] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240133,
@@ -13957,7 +14227,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2107] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240134,
@@ -13965,7 +14235,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2108] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240135,
@@ -13973,7 +14243,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2109] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240136,
@@ -13981,7 +14251,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2110] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240137,
@@ -13989,7 +14259,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2111] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240138,
@@ -13997,7 +14267,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2112] = {
+	{
 		['collection'] = 'nightmare',
 		['event_craft'] = 'true',
 		['id'] = 240139,
@@ -14005,14 +14275,14 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2113] = {
+	{
 		['collection'] = 'standoff_2',
 		['id'] = 240140,
 		['name'] = 'AKR12 "Cold-hearted"',
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2114] = {
+	{
 		['collection'] = 'standoff_2',
 		['event_craft'] = 'true',
 		['id'] = 240141,
@@ -14020,7 +14290,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2115] = {
+	{
 		['collection'] = 'nameless',
 		['event_craft'] = 'true',
 		['id'] = 240144,
@@ -14028,7 +14298,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '7',
 	},
-	[2116] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240145,
@@ -14036,7 +14306,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2117] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240146,
@@ -14044,7 +14314,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2118] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240147,
@@ -14052,7 +14322,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2119] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240148,
@@ -14060,7 +14330,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2120] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240149,
@@ -14068,7 +14338,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2121] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240150,
@@ -14076,67 +14346,67 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2122] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 240151,
 		['name'] = 'Tanto "Hanami"',
 		['value'] = '6',
 	},
-	[2123] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 240152,
 		['name'] = 'Scorpion "Neko Joy"',
 		['value'] = '6',
 	},
-	[2124] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 240153,
 		['name'] = 'Stiletto "Voidroot"',
 		['value'] = '6',
 	},
-	[2125] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240154,
 		['name'] = 'M9 Bayonet "Amber Koi"',
 		['value'] = '6',
 	},
-	[2126] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240155,
 		['name'] = 'Fang "Wavesong"',
 		['value'] = '6',
 	},
-	[2127] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240156,
 		['name'] = 'Kunai "Wavesong"',
 		['value'] = '6',
 	},
-	[2128] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240157,
 		['name'] = 'SPAS "Tensai"',
 		['value'] = '4',
 	},
-	[2129] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240158,
 		['name'] = 'VAL "Ronin"',
 		['value'] = '5',
 	},
-	[2130] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240159,
 		['name'] = 'M4A1 "Sparkling Gaze"',
 		['value'] = '6',
 	},
-	[2131] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240160,
@@ -14144,7 +14414,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2132] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240161,
@@ -14152,7 +14422,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2133] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240162,
@@ -14160,7 +14430,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2134] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['event_craft'] = 'true',
 		['id'] = 240163,
@@ -14168,14 +14438,14 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2135] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 240164,
 		['name'] = 'Karambit "Vermilion"',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2136] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240166,
@@ -14183,7 +14453,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2137] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240167,
@@ -14191,7 +14461,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2138] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240168,
@@ -14199,7 +14469,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2139] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240169,
@@ -14207,7 +14477,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2140] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240170,
@@ -14215,7 +14485,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2141] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240171,
@@ -14223,7 +14493,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2142] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240172,
@@ -14231,7 +14501,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2143] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240173,
@@ -14239,7 +14509,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2144] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240174,
@@ -14247,7 +14517,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2145] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240175,
@@ -14255,7 +14525,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2146] = {
+	{
 		['collection'] = 'prey',
 		['event_craft'] = 'true',
 		['id'] = 240176,
@@ -14263,7 +14533,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2147] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14272,7 +14542,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2148] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14281,7 +14551,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2149] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14290,7 +14560,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2150] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14299,7 +14569,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2151] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14308,7 +14578,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '1',
 	},
-	[2152] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14317,7 +14587,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2153] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14326,7 +14596,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2154] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14335,7 +14605,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2155] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14344,7 +14614,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '2',
 	},
-	[2156] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14353,7 +14623,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2157] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14362,7 +14632,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2158] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14371,7 +14641,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2159] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14380,7 +14650,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2160] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14389,7 +14659,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2161] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14398,7 +14668,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2162] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14407,7 +14677,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2163] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14416,7 +14686,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2164] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14425,7 +14695,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2165] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14434,7 +14704,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2166] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14443,7 +14713,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2167] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['event_craft'] = 'true',
@@ -14452,7 +14722,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2168] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14461,7 +14731,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2169] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14470,7 +14740,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2170] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14479,7 +14749,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2171] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14488,7 +14758,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2172] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14497,7 +14767,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2173] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14506,7 +14776,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2174] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14515,7 +14785,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2175] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14524,7 +14794,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2176] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14533,7 +14803,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2177] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14542,7 +14812,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2178] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14551,7 +14821,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2179] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14560,7 +14830,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2180] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14569,7 +14839,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2181] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14578,7 +14848,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2182] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14587,7 +14857,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2183] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14596,7 +14866,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2184] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14605,7 +14875,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2185] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14614,7 +14884,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2186] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14623,7 +14893,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2187] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14632,7 +14902,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2188] = {
+	{
 		['collection'] = 'esports',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14641,7 +14911,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2189] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14650,7 +14920,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2190] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14659,7 +14929,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2191] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14668,7 +14938,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2192] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14677,7 +14947,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2193] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14686,7 +14956,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2194] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['event_craft'] = 'true',
@@ -14695,25 +14965,25 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2195] = {
+	{
 		['collection'] = 'gambit',
 		['id'] = 240225,
 		['name'] = 'Butterfly "Gambit"',
 		['value'] = '6',
 	},
-	[2196] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240226,
 		['name'] = 'Tanto "Celestial Tiger"',
 		['value'] = '6',
 	},
-	[2197] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240227,
 		['name'] = 'Kukri "Cascade"',
 		['value'] = '6',
 	},
-	[2198] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240228,
@@ -14721,7 +14991,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2199] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240229,
@@ -14729,7 +14999,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2200] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240230,
@@ -14737,7 +15007,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2201] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240231,
@@ -14745,7 +15015,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2202] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240232,
@@ -14753,7 +15023,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2203] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240233,
@@ -14761,7 +15031,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2204] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240234,
@@ -14769,7 +15039,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2205] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240235,
@@ -14777,7 +15047,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2206] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240236,
@@ -14785,7 +15055,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '5',
 	},
-	[2207] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240237,
@@ -14793,7 +15063,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2208] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240238,
@@ -14801,7 +15071,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2209] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240239,
@@ -14809,7 +15079,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2210] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240240,
@@ -14817,7 +15087,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2211] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240241,
@@ -14825,7 +15095,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2212] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240242,
@@ -14833,7 +15103,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '4',
 	},
-	[2213] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240243,
@@ -14841,7 +15111,7 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '3',
 	},
-	[2214] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 240244,
@@ -14849,1561 +15119,1721 @@ return {
 		['stattrack'] = 'false',
 		['value'] = '6',
 	},
-	[2215] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240245,
 		['name'] = 'P90 "Foxfire"',
 		['value'] = '3',
 	},
-	[2216] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240246,
 		['name'] = 'SM1014 "Falling Leaves"',
 		['value'] = '3',
 	},
-	[2217] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240247,
 		['name'] = 'MAC10 "Tempest"',
 		['value'] = '4',
 	},
-	[2218] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240248,
 		['name'] = 'M40 "White Ash"',
 		['value'] = '4',
 	},
-	[2219] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 240249,
 		['name'] = 'Desert Eagle "Blossom"',
 		['value'] = '5',
 	},
-	[2220] = {
+	{
 		['collection'] = 'syndicate',
-		['craftable'] = 'true',
 		['id'] = 240250,
 		['name'] = 'AKR12 "Kensei"',
-		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2221] = {
+	{
 		['collection'] = 'syndicate',
-		['craftable'] = 'true',
 		['id'] = 240251,
 		['name'] = 'Tanto "Blossom"',
 		['value'] = '6',
 	},
-	[2222] = {
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240252,
+		['name'] = 'Mallard "Phantom Pack"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240253,
+		['name'] = 'G22 "Flor de Muertos"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240254,
+		['name'] = 'M4 "Bullets and Roses"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240255,
+		['name'] = 'Akimbo Uzi "Howling Ghost"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240256,
+		['name'] = 'VAL "Rosa Mortal"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240257,
+		['name'] = 'SPAS "Eternal Flow"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240258,
+		['name'] = 'M60 "Horror"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240259,
+		['name'] = 'FAMAS "Raider"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240260,
+		['name'] = 'AWM "Vampire"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240261,
+		['name'] = 'M16 "Naga"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240262,
+		['name'] = 'MP5 "Arcane Surge"',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240263,
+		['name'] = 'USP "Horror"',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240264,
+		['name'] = 'UMP45 "Leviathan"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240265,
+		['name'] = 'M110 "Centipede"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240266,
+		['name'] = 'FabM "Fiend"',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240267,
+		['name'] = 'VAL "Phantom Pack"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240268,
+		['name'] = 'Thermite "Scorched Earth"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240269,
+		['name'] = 'Butterfly "Arcane Surge"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240270,
+		['name'] = 'Dual Daggers "Flor de Muertos"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240271,
+		['name'] = 'jKommando "Engraving"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240272,
+		['name'] = 'Mantis "Poison"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240273,
+		['name'] = 'Sting "Carmine Thorns"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240274,
+		['name'] = 'Scorpion "Howling Ghost"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240275,
+		['name'] = 'Karambit "White Rose"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'nameless',
+		['id'] = 240276,
+		['name'] = 'Mallard "PRO Gold"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'esports',
+		['id'] = 240277,
+		['name'] = 'M4A1 "PawPaw"',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['craftable'] = 'true',
+		['id'] = 240278,
+		['name'] = 'AKR "La Reina"',
+		['value'] = '6',
+	},
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1011002,
-		['name'] = 'G22 "Nest" StatTrack',
+		['name'] = 'G22 "Nest" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2223] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1011008,
-		['name'] = 'G22 "Frost Wyrm" StatTrack',
+		['name'] = 'G22 "Frost Wyrm" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2224] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1013001,
-		['name'] = 'P350 "Neon" StatTrack',
+		['name'] = 'P350 "Neon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2225] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1013003,
-		['name'] = 'P350 "Forest Spirit" StatTrack',
+		['name'] = 'P350 "Forest Spirit" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2226] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1013004,
-		['name'] = 'P350 "Rally" StatTrack',
+		['name'] = 'P350 "Rally" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2227] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1015003,
-		['name'] = 'Desert Eagle "Predator" StatTrack',
+		['name'] = 'Desert Eagle "Predator" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2228] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1015004,
-		['name'] = 'Desert Eagle "Red Dragon" StatTrack',
+		['name'] = 'Desert Eagle "Red Dragon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2229] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1015006,
-		['name'] = 'Desert Eagle "Dragon Glass" StatTrack',
+		['name'] = 'Desert Eagle "Dragon Glass" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2230] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1032001,
-		['name'] = 'UMP45 "Cyberpunk" StatTrack',
+		['name'] = 'UMP45 "Cyberpunk" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2231] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1032003,
-		['name'] = 'UMP45 "Shark" StatTrack',
+		['name'] = 'UMP45 "Shark" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2232] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1032004,
-		['name'] = 'UMP45 "Winged" StatTrack',
+		['name'] = 'UMP45 "Winged" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2233] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1032005,
-		['name'] = 'UMP45 "Beast" StatTrack',
+		['name'] = 'UMP45 "Beast" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2234] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1034001,
-		['name'] = 'MP7 "Offroad" StatTrack',
+		['name'] = 'MP7 "Offroad" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2235] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1034002,
-		['name'] = 'MP7 "Arcade" StatTrack',
+		['name'] = 'MP7 "Arcade" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2236] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1035002,
-		['name'] = 'P90 "Ghoul" StatTrack',
+		['name'] = 'P90 "Ghoul" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2237] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1041102,
-		['name'] = 'G22 "Starfall" StatTrack',
+		['name'] = 'G22 "Starfall" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2238] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1041212,
-		['name'] = 'USP "Pisces" StatTrack',
+		['name'] = 'USP "Pisces" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2239] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1041502,
-		['name'] = 'Desert Eagle "Ace" StatTrack',
+		['name'] = 'Desert Eagle "Ace" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2240] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1041605,
-		['name'] = 'TEC-9 "Fable" StatTrack',
+		['name'] = 'TEC-9 "Fable" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2241] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1041701,
-		['name'] = 'F/S "Venom" StatTrack',
+		['name'] = 'F/S "Venom" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2242] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1041703,
-		['name'] = 'F/S "Tactical" StatTrack',
+		['name'] = 'F/S "Tactical" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2243] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1043202,
-		['name'] = 'UMP45 "Cerberus" StatTrack',
+		['name'] = 'UMP45 "Cerberus" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2244] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1043402,
-		['name'] = 'MP7 "Lich" StatTrack',
+		['name'] = 'MP7 "Lich" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2245] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1044002,
-		['name'] = 'AKR "Treasure Hunter" StatTrack',
+		['name'] = 'AKR "Treasure Hunter" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2246] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1044004,
-		['name'] = 'AKR "Sport" StatTrack',
+		['name'] = 'AKR "Sport" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2247] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1044005,
-		['name'] = 'AKR "Necromancer" StatTrack',
+		['name'] = 'AKR "Necromancer" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2248] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1044006,
-		['name'] = 'AKR "Carbon" StatTrack',
+		['name'] = 'AKR "Carbon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2249] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1044601,
-		['name'] = 'M4 "Lizard" StatTrack',
+		['name'] = 'M4 "Lizard" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2250] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1044603,
-		['name'] = 'M4 "Samurai" StatTrack',
+		['name'] = 'M4 "Samurai" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2251] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1044903,
-		['name'] = 'FN FAL "Tactical" StatTrack',
+		['name'] = 'FN FAL "Tactical" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2252] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1045001,
-		['name'] = 'AKR12 "Railgun" StatTrack',
+		['name'] = 'AKR12 "Railgun" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2253] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1045002,
-		['name'] = 'AKR12 "Pixel Camouflage" StatTrack',
+		['name'] = 'AKR12 "Pixel Camouflage" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2254] = {
+	{
 		['collection'] = 'fable',
 		['craftable'] = 'true',
 		['id'] = 1045301,
-		['name'] = 'M110 "Cyber" StatTrack',
+		['name'] = 'M110 "Cyber" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2255] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1046002,
-		['name'] = 'M4 "Necromancer" StatTrack',
+		['name'] = 'M4 "Necromancer" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2256] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1046006,
-		['name'] = 'M4 "PRO" StatTrack',
+		['name'] = 'M4 "PRO" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2257] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1046007,
-		['name'] = 'M4 "Grand Prix" StatTrack',
+		['name'] = 'M4 "Grand Prix" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2258] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1047002,
-		['name'] = 'M16 "Winged" StatTrack',
+		['name'] = 'M16 "Winged" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2259] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1048001,
-		['name'] = 'FAMAS "Beagle" StatTrack',
+		['name'] = 'FAMAS "Beagle" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2260] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1048002,
-		['name'] = 'FAMAS "Fury" StatTrack',
+		['name'] = 'FAMAS "Fury" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2261] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1048003,
-		['name'] = 'FAMAS "Hull" StatTrack',
+		['name'] = 'FAMAS "Hull" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2262] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1051002,
-		['name'] = 'AWM "Phoenix" StatTrack',
+		['name'] = 'AWM "Phoenix" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2263] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1051003,
-		['name'] = 'AWM "Gear" StatTrack',
+		['name'] = 'AWM "Gear" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2264] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1051004,
-		['name'] = 'AWM "Scratch" StatTrack',
+		['name'] = 'AWM "Scratch" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2265] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1051007,
-		['name'] = 'AWM "Genesis" StatTrack',
+		['name'] = 'AWM "Genesis" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2266] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1052001,
-		['name'] = 'M40 "Quake" StatTrack',
+		['name'] = 'M40 "Quake" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2267] = {
+	{
 		['collection'] = 'rival',
 		['craftable'] = 'true',
 		['id'] = 1052003,
-		['name'] = 'M40 "Beagle" StatTrack',
+		['name'] = 'M40 "Beagle" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2268] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1061101,
-		['name'] = 'G22 "Frozen" StatTrack',
+		['name'] = 'G22 "Frozen" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2269] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1061201,
-		['name'] = 'USP "Stone Cold" StatTrack',
+		['name'] = 'USP "Stone Cold" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2270] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1061601,
-		['name'] = 'TEC-9 "Necromancer" StatTrack',
+		['name'] = 'TEC-9 "Necromancer" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2271] = {
+	{
 		['collection'] = 'origin',
 		['craftable'] = 'true',
 		['id'] = 1062002,
-		['name'] = 'SM1014 "Pathfinder" StatTrack',
+		['name'] = 'SM1014 "Pathfinder" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2272] = {
+	{
 		['collection'] = 'furious',
 		['craftable'] = 'true',
 		['id'] = 1062003,
-		['name'] = 'SM1014 "Necromancer" StatTrack',
+		['name'] = 'SM1014 "Necromancer" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2273] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1063401,
-		['name'] = 'MP7 "Winter Sport" StatTrack',
+		['name'] = 'MP7 "Winter Sport" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2274] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1065101,
-		['name'] = 'AWM "Winter Sport" StatTrack',
+		['name'] = 'AWM "Winter Sport" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2275] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1065201,
-		['name'] = 'M40 "Arctic" StatTrack',
+		['name'] = 'M40 "Arctic" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2276] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1065202,
-		['name'] = 'M40 "Winter Track" StatTrack',
+		['name'] = 'M40 "Winter Track" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2277] = {
+	{
 		['collection'] = 'newyear2020',
 		['craftable'] = 'false',
 		['id'] = 1066201,
-		['name'] = 'SM1014 "Arctic" StatTrack',
+		['name'] = 'SM1014 "Arctic" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2278] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1071103,
-		['name'] = 'G22 "Monster" StatTrack',
+		['name'] = 'G22 "Monster" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2279] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1071104,
-		['name'] = 'G22 "White Carbon" StatTrack',
+		['name'] = 'G22 "White Carbon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2280] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1071306,
-		['name'] = 'P350 "Radiation" StatTrack',
+		['name'] = 'P350 "Radiation" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2281] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1071607,
-		['name'] = 'TEC-9 "Reactor" StatTrack',
+		['name'] = 'TEC-9 "Reactor" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2282] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1071701,
-		['name'] = 'F/S "Poison" StatTrack',
+		['name'] = 'F/S "Poison" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2283] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1071702,
-		['name'] = 'F/S "Zone" StatTrack',
+		['name'] = 'F/S "Zone" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2284] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1073208,
-		['name'] = 'UMP45 "Gas" StatTrack',
+		['name'] = 'UMP45 "Gas" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2285] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1073209,
-		['name'] = 'UMP45 "White Carbon" StatTrack',
+		['name'] = 'UMP45 "White Carbon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2286] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1073610,
-		['name'] = 'MP5 "Project Z9" StatTrack',
+		['name'] = 'MP5 "Project Z9" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2287] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1073611,
-		['name'] = 'MP5 "Reactor" StatTrack',
+		['name'] = 'MP5 "Reactor" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2288] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1073612,
-		['name'] = 'MP5 "Zone" StatTrack',
+		['name'] = 'MP5 "Zone" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2289] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1074800,
-		['name'] = 'FAMAS "Monster" StatTrack',
+		['name'] = 'FAMAS "Monster" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2290] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1075205,
-		['name'] = 'M40 "Monster" StatTrack',
+		['name'] = 'M40 "Monster" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2291] = {
+	{
 		['collection'] = 'project_z9',
 		['craftable'] = 'false',
 		['id'] = 1076218,
-		['name'] = 'FabM "Reactor" StatTrack',
+		['name'] = 'FabM "Reactor" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2292] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1081107,
-		['name'] = 'G22 "Carbon" StatTrack',
+		['name'] = 'G22 "Carbon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2293] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1081200,
-		['name'] = 'USP "Geometric" StatTrack',
+		['name'] = 'USP "Geometric" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2294] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1081300,
-		['name'] = 'P350 "Autumn" StatTrack',
+		['name'] = 'P350 "Autumn" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2295] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1081700,
-		['name'] = 'F/S "Rush" StatTrack',
+		['name'] = 'F/S "Rush" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2296] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1081726,
-		['name'] = 'F/S "Wraith" StatTrack',
+		['name'] = 'F/S "Wraith" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2297] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1083200,
-		['name'] = 'UMP45 "Geometric" StatTrack',
+		['name'] = 'UMP45 "Geometric" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2298] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1083201,
-		['name'] = 'UMP45 "Spirit" StatTrack',
+		['name'] = 'UMP45 "Spirit" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2299] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1083400,
-		['name'] = 'MP7 "Revival" StatTrack',
+		['name'] = 'MP7 "Revival" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2300] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1083410,
-		['name'] = 'MP7 "Graffiti" StatTrack',
+		['name'] = 'MP7 "Graffiti" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2301] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1083411,
-		['name'] = 'MP7 "Banana" StatTrack',
+		['name'] = 'MP7 "Banana" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2302] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1083512,
-		['name'] = 'P90 "Samurai" StatTrack',
+		['name'] = 'P90 "Samurai" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2303] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1084400,
-		['name'] = 'AKR12 "Geometric" StatTrack',
+		['name'] = 'AKR12 "Geometric" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2304] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1084402,
-		['name'] = 'AKR "Dragon" StatTrack',
+		['name'] = 'AKR "Dragon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2305] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1084403,
-		['name'] = 'AKR "Nano" StatTrack',
+		['name'] = 'AKR "Nano" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2306] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1084500,
-		['name'] = 'AKR12 "Carbon" StatTrack',
+		['name'] = 'AKR12 "Carbon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2307] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1084600,
-		['name'] = 'M4 "Revival" StatTrack',
+		['name'] = 'M4 "Revival" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2308] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1084624,
-		['name'] = 'M4 "Night Wolf" StatTrack',
+		['name'] = 'M4 "Night Wolf" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2309] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1084800,
-		['name'] = 'FAMAS "Autumn" StatTrack',
+		['name'] = 'FAMAS "Autumn" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2310] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1084900,
-		['name'] = 'FN FAL "Phoenix Risen" StatTrack',
+		['name'] = 'FN FAL "Phoenix Risen" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2311] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1085127,
-		['name'] = 'AWM "Dragon" StatTrack',
+		['name'] = 'AWM "Dragon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2312] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1085300,
-		['name'] = 'M110 "Transition" StatTrack',
+		['name'] = 'M110 "Transition" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2313] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1086216,
-		['name'] = 'SM1014 "Wave" StatTrack',
+		['name'] = 'SM1014 "Wave" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2314] = {
+	{
 		['collection'] = 'revival',
 		['craftable'] = 'false',
 		['id'] = 1086300,
-		['name'] = 'FabM "Flight" StatTrack',
+		['name'] = 'FabM "Flight" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2315] = {
+	{
 		['collection'] = 'scorpion',
 		['craftable'] = 'true',
 		['id'] = 1086318,
-		['name'] = 'FabM "Parrot" StatTrack',
+		['name'] = 'FabM "Parrot" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2316] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1091300,
-		['name'] = 'P350 "Blizzard" StatTrack',
+		['name'] = 'P350 "Blizzard" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2317] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1093400,
-		['name'] = 'MP7 "Blizzard" StatTrack',
+		['name'] = 'MP7 "Blizzard" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2318] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1093500,
-		['name'] = 'P90 "Iron Will" StatTrack',
+		['name'] = 'P90 "Iron Will" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2319] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1093600,
-		['name'] = 'MP5 "Northern Fury" StatTrack',
+		['name'] = 'MP5 "Northern Fury" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2320] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1094400,
-		['name'] = 'AKR12 "Flow" StatTrack',
+		['name'] = 'AKR12 "Flow" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2321] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1094700,
-		['name'] = 'M16 "Iron Will" StatTrack',
+		['name'] = 'M16 "Iron Will" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2322] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1095100,
-		['name'] = 'AWM "Polar Night" StatTrack',
+		['name'] = 'AWM "Polar Night" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2323] = {
+	{
 		['collection'] = 'new_year_2021',
 		['craftable'] = 'false',
 		['id'] = 1095300,
 		['match_drop'] = 'false',
-		['name'] = 'M110 "Flow" StatTrack',
+		['name'] = 'M110 "Flow" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2324] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1121200,
 		['match_drop'] = 'false',
-		['name'] = 'USP "Chameleon" StatTrack',
+		['name'] = 'USP "Chameleon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2325] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1121300,
 		['match_drop'] = 'false',
-		['name'] = 'P350 "Oni" StatTrack',
+		['name'] = 'P350 "Oni" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2326] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1121500,
 		['match_drop'] = 'false',
-		['name'] = 'Desert Eagle "Orochi" StatTrack',
+		['name'] = 'Desert Eagle "Orochi" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2327] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1121600,
 		['match_drop'] = 'false',
-		['name'] = 'TEC-9 "Tropic" StatTrack',
+		['name'] = 'TEC-9 "Tropic" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2328] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1123400,
 		['match_drop'] = 'false',
-		['name'] = 'MP7 "Palace" StatTrack',
+		['name'] = 'MP7 "Palace" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2329] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1124300,
 		['match_drop'] = 'false',
-		['name'] = 'M4A1 "Bubblegum" StatTrack',
+		['name'] = 'M4A1 "Bubblegum" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2330] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1124301,
 		['match_drop'] = 'false',
-		['name'] = 'M4A1 "Kitsune" StatTrack',
+		['name'] = 'M4A1 "Kitsune" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2331] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1124600,
 		['match_drop'] = 'false',
-		['name'] = 'M4 "Demon" StatTrack',
+		['name'] = 'M4 "Demon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2332] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1124800,
 		['match_drop'] = 'false',
-		['name'] = 'FAMAS "Anger" StatTrack',
+		['name'] = 'FAMAS "Anger" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2333] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1125100,
 		['match_drop'] = 'false',
-		['name'] = 'AWM "BOOM" StatTrack',
+		['name'] = 'AWM "BOOM" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2334] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1126400,
 		['match_drop'] = 'false',
-		['name'] = 'M60 "Grunge" StatTrack',
+		['name'] = 'M60 "Grunge" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2335] = {
+	{
 		['collection'] = 'empire',
 		['craftable'] = 'true',
 		['id'] = 1126401,
 		['match_drop'] = 'false',
-		['name'] = 'M60 "Steam Beast" StatTrack',
+		['name'] = 'M60 "Steam Beast" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2336] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1131500,
 		['match_drop'] = 'false',
-		['name'] = 'Desert Eagle "Yakuza" StatTrack',
+		['name'] = 'Desert Eagle "Yakuza" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2337] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1131700,
 		['match_drop'] = 'false',
-		['name'] = 'F/S "Enforcer" StatTrack',
+		['name'] = 'F/S "Enforcer" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2338] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1133500,
 		['match_drop'] = 'false',
-		['name'] = 'P90 "R.O.N.I.N. mk9" StatTrack',
+		['name'] = 'P90 "R.O.N.I.N. mk9" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2339] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
-		['match_drop'] = 'false',
 		['id'] = 1133501,
-		['name'] = 'P90 "Z-50 F.U.J.I.N." StatTrack',
+		['match_drop'] = 'false',
+		['name'] = 'P90 "Z-50 F.U.J.I.N." Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2340] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1134300,
 		['match_drop'] = 'false',
-		['name'] = 'M4A1 "K.I.N.G. v7.03" StatTrack',
+		['name'] = 'M4A1 "K.I.N.G. v7.03" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2341] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1134500,
 		['match_drop'] = 'false',
-		['name'] = 'AKR12 "Armored" StatTrack',
+		['name'] = 'AKR12 "Armored" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2342] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1134501,
 		['match_drop'] = 'false',
-		['name'] = 'AKR12 "Transistor" StatTrack',
+		['name'] = 'AKR12 "Transistor" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2343] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1134600,
 		['match_drop'] = 'false',
-		['name'] = 'M4 "R.O.N.I.N. mk56" StatTrack',
+		['name'] = 'M4 "R.O.N.I.N. mk56" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2344] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1134700,
 		['match_drop'] = 'false',
-		['name'] = 'M16 "Triumphant" StatTrack',
+		['name'] = 'M16 "Triumphant" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2345] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
-		['match_drop'] = 'false',
 		['id'] = 1135300,
-		['name'] = 'M110 "Z-07 M.A.R.K.S.M.A.N." StatTrack',
+		['match_drop'] = 'false',
+		['name'] = 'M110 "Z-07 M.A.R.K.S.M.A.N." Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2346] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
 		['id'] = 1136400,
 		['match_drop'] = 'false',
-		['name'] = 'M60 "Mecha" StatTrack',
+		['name'] = 'M60 "Mecha" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2347] = {
+	{
 		['collection'] = 'dragon_rise',
 		['craftable'] = 'false',
-		['match_drop'] = 'false',
 		['id'] = 1136401,
-		['name'] = 'M60 "Y-20 R.A.I.J.I.N." StatTrack',
+		['match_drop'] = 'false',
+		['name'] = 'M60 "Y-20 R.A.I.J.I.N." Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2348] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
-		['match_drop'] = 'false',
 		['id'] = 1141600,
-		['name'] = 'TEC-9 "Restless" StatTrack',
+		['match_drop'] = 'false',
+		['name'] = 'TEC-9 "Restless" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2349] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['id'] = 1141700,
 		['match_drop'] = 'false',
-		['name'] = 'F/S "Demonic Fog" StatTrack',
+		['name'] = 'F/S "Demonic Fog" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2350] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['id'] = 1144300,
 		['match_drop'] = 'false',
-		['name'] = 'M4A1 "Immortal" StatTrack',
+		['name'] = 'M4A1 "Immortal" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2351] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['id'] = 1144400,
 		['match_drop'] = 'false',
-		['name'] = 'AKR "Night Fury" StatTrack',
+		['name'] = 'AKR "Night Fury" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2352] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['id'] = 1145300,
 		['match_drop'] = 'false',
-		['name'] = 'M110 "Celestial Beast" StatTrack',
+		['name'] = 'M110 "Celestial Beast" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2353] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['id'] = 1146300,
 		['match_drop'] = 'false',
-		['name'] = 'FabM "Death Herald" StatTrack',
+		['name'] = 'FabM "Death Herald" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2354] = {
+	{
 		['collection'] = 'cursed_souls',
 		['craftable'] = 'false',
 		['id'] = 1146400,
 		['match_drop'] = 'false',
-		['name'] = 'M60 "Demonic Fog" StatTrack',
+		['name'] = 'M60 "Demonic Fog" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2355] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1151600,
-		['name'] = 'TEC-9 "Royal Frost" StatTrack',
+		['name'] = 'TEC-9 "Royal Frost" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2356] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1151700,
-		['name'] = 'F/S "Royal Frost" StatTrack',
+		['name'] = 'F/S "Royal Frost" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2357] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1154300,
-		['name'] = 'M4A1 "Year Of The Tiger" StatTrack',
+		['name'] = 'M4A1 "Year Of The Tiger" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2358] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1154800,
-		['name'] = 'FAMAS "Christmas Symbol" StatTrack',
+		['name'] = 'FAMAS "Christmas Symbol" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2359] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1154900,
-		['name'] = 'FN FAL "Christmas Symbol" StatTrack',
+		['name'] = 'FN FAL "Christmas Symbol" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2360] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1155200,
-		['name'] = 'M40 "Thief Of The Christmas" StatTrack',
+		['name'] = 'M40 "Thief Of The Christmas" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2361] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['id'] = 1155300,
-		['name'] = 'M110 "Year Of The Tiger" StatTrack',
+		['name'] = 'M110 "Year Of The Tiger" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2362] = {
+	{
 		['collection'] = 'winter_fun_2022',
 		['craftable'] = 'true',
 		['id'] = 1156300,
-		['name'] = 'FabM "Thief Of The Christmas" StatTrack',
+		['name'] = 'FabM "Thief Of The Christmas" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2363] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170001,
-		['name'] = 'AKR "Tag King" StatTrack',
+		['name'] = 'AKR "Tag King" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2364] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170002,
-		['name'] = 'AKR12 "Steam Beast" StatTrack',
+		['name'] = 'AKR12 "Steam Beast" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2365] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170003,
-		['name'] = 'Desert Eagle "Piranha" StatTrack',
+		['name'] = 'Desert Eagle "Piranha" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2366] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170005,
-		['name'] = 'FabM "BOOM" StatTrack',
+		['name'] = 'FabM "BOOM" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2367] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170008,
-		['name'] = 'G22 "Casual" StatTrack',
+		['name'] = 'G22 "Casual" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2368] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170009,
-		['name'] = 'M4A1 "Sour" StatTrack',
+		['name'] = 'M4A1 "Sour" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2369] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170010,
-		['name'] = 'M16 "Needle" StatTrack',
+		['name'] = 'M16 "Needle" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2370] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170011,
-		['name'] = 'M40 "Grip" StatTrack',
+		['name'] = 'M40 "Grip" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2371] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170017,
-		['name'] = 'P90 "Oops" StatTrack',
+		['name'] = 'P90 "Oops" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2372] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170018,
-		['name'] = 'P350 "Tag King" StatTrack',
+		['name'] = 'P350 "Tag King" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2373] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170019,
-		['name'] = 'TEC-9 "Needle" StatTrack',
+		['name'] = 'TEC-9 "Needle" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2374] = {
+	{
 		['collection'] = 'sharp',
 		['craftable'] = 'true',
 		['id'] = 1170020,
-		['name'] = 'USP "Purple Camo" StatTrack',
+		['name'] = 'USP "Purple Camo" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2375] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180001,
-		['name'] = 'AKR "Scylla" StatTrack',
+		['name'] = 'AKR "Scylla" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2376] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180002,
-		['name'] = 'AWM "Poseidon" StatTrack',
+		['name'] = 'AWM "Poseidon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2377] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180003,
-		['name'] = 'FabM "Hercules" StatTrack',
+		['name'] = 'FabM "Hercules" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2378] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180004,
-		['name'] = 'M4 "Minotaur" StatTrack',
+		['name'] = 'M4 "Minotaur" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2379] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180005,
-		['name'] = 'M40 "Constellations" StatTrack',
+		['name'] = 'M40 "Constellations" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2380] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180006,
-		['name'] = 'M60 "Ares" StatTrack',
+		['name'] = 'M60 "Ares" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2381] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180007,
-		['name'] = 'M110 "Themis" StatTrack',
+		['name'] = 'M110 "Themis" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2382] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180008,
-		['name'] = 'MAC10 "Argo" StatTrack',
+		['name'] = 'MAC10 "Argo" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2383] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180009,
-		['name'] = 'MAC10 "Constellations" StatTrack',
+		['name'] = 'MAC10 "Constellations" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2384] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180010,
-		['name'] = 'MP5 "Gorgon" StatTrack',
+		['name'] = 'MP5 "Gorgon" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2385] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180011,
-		['name'] = 'SPAS "Griffin" StatTrack',
+		['name'] = 'SPAS "Griffin" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2386] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180012,
-		['name'] = 'SPAS "Zeus" StatTrack',
+		['name'] = 'SPAS "Zeus" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2387] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180013,
-		['name'] = 'F/S "Octopus" StatTrack',
+		['name'] = 'F/S "Octopus" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2388] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180014,
-		['name'] = 'SM1014 "Fatal Combo" StatTrack',
+		['name'] = 'SM1014 "Fatal Combo" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2389] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180015,
-		['name'] = 'TEC-9 "Splash" StatTrack',
+		['name'] = 'TEC-9 "Splash" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2390] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180016,
-		['name'] = 'AKR12 "Carving" StatTrack',
+		['name'] = 'AKR12 "Carving" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2391] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180017,
-		['name'] = 'FN FAL "Basilisk" StatTrack',
+		['name'] = 'FN FAL "Basilisk" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2392] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180018,
-		['name'] = 'M4A1 "Mermaid" StatTrack',
+		['name'] = 'M4A1 "Mermaid" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2393] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180019,
-		['name'] = 'M16 "Muraena" StatTrack',
+		['name'] = 'M16 "Muraena" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2394] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180020,
-		['name'] = 'MAC10 "Fatal Combo" StatTrack',
+		['name'] = 'MAC10 "Fatal Combo" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2395] = {
+	{
 		['collection'] = 'legends',
 		['id'] = 1180021,
-		['name'] = 'SPAS "Octopus" StatTrack',
+		['name'] = 'SPAS "Octopus" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2396] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1190001,
-		['name'] = 'AKR12 "Riot" StatTrack',
+		['name'] = 'AKR12 "Riot" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2397] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1190002,
-		['name'] = 'Desert Eagle "Infection" StatTrack',
+		['name'] = 'Desert Eagle "Infection" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2398] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1190003,
-		['name'] = 'FAMAS "Handcraft" StatTrack',
+		['name'] = 'FAMAS "Handcraft" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2399] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1190004,
-		['name'] = 'MAC10 "Melt Away" StatTrack',
+		['name'] = 'MAC10 "Melt Away" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2400] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1190005,
-		['name'] = 'P350 "Raider" StatTrack',
+		['name'] = 'P350 "Raider" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2401] = {
+	{
 		['collection'] = 'project_pandora',
 		['id'] = 1190006,
-		['name'] = 'SPAS "Raider" StatTrack',
+		['name'] = 'SPAS "Raider" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2402] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200001,
-		['name'] = 'M4 "Sunset" StatTrack',
+		['name'] = 'M4 "Sunset" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2403] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200002,
-		['name'] = 'UMP45 "Luminous" StatTrack',
+		['name'] = 'UMP45 "Luminous" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2404] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200003,
-		['name'] = 'SPAS "Vibe" StatTrack',
+		['name'] = 'SPAS "Vibe" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2405] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200004,
-		['name'] = 'MP7 "Space Blaster" StatTrack',
+		['name'] = 'MP7 "Space Blaster" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2406] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200005,
-		['name'] = 'MP5 "Space Blaster" StatTrack',
+		['name'] = 'MP5 "Space Blaster" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2407] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200006,
-		['name'] = 'P90 "Purple Mist" StatTrack',
+		['name'] = 'P90 "Purple Mist" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2408] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200007,
-		['name'] = 'M16 "Retro Arcade" StatTrack',
+		['name'] = 'M16 "Retro Arcade" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2409] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200008,
-		['name'] = 'MAC10 "Purple Mist" StatTrack',
+		['name'] = 'MAC10 "Purple Mist" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2410] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['id'] = 1200009,
-		['name'] = 'AKR "Digital Burst" StatTrack',
+		['name'] = 'AKR "Digital Burst" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2411] = {
+	{
 		['collection'] = 'hot_winter_party_2023',
 		['craftable'] = 'true',
 		['id'] = 1200010,
-		['name'] = 'USP "Digital Burst" StatTrack',
+		['name'] = 'USP "Digital Burst" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2412] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220001,
@@ -16411,7 +16841,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2413] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220009,
@@ -16419,7 +16849,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2414] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220010,
@@ -16427,7 +16857,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '1',
 	},
-	[2415] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220011,
@@ -16435,7 +16865,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2416] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220012,
@@ -16443,7 +16873,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2417] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220013,
@@ -16451,7 +16881,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2418] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220014,
@@ -16459,7 +16889,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2419] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220015,
@@ -16467,7 +16897,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2420] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220016,
@@ -16475,7 +16905,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2421] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220017,
@@ -16483,7 +16913,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2422] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220018,
@@ -16491,7 +16921,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2423] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220019,
@@ -16499,7 +16929,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2424] = {
+	{
 		['collection'] = 'revenge',
 		['craftable'] = 'true',
 		['id'] = 1220020,
@@ -16507,434 +16937,434 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2425] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230001,
 		['name'] = 'AKR12 "Ashbringer" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2426] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230002,
 		['name'] = 'F/S "Ophidian" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2427] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230003,
 		['name'] = 'G22 "Lion Lord" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2428] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230004,
 		['name'] = 'M4A1 "Paladin" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2429] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230005,
 		['name'] = 'M40 "Wyvern" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2430] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230006,
 		['name'] = 'MAC10 "Wild Rage" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2431] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230007,
 		['name'] = 'P90 "Dragon Flame" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2432] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230008,
 		['name'] = 'SPAS "Unicorn" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2433] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230009,
 		['name'] = 'UMP45 "Warchief" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2434] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230010,
 		['name'] = 'USP "Griffin" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2435] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230011,
 		['name'] = 'Berettas "Blazing Maw" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2436] = {
+	{
 		['collection'] = 'fireborn',
 		['id'] = 1230012,
 		['name'] = 'Berettas "Royal Rose" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2437] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1240001,
 		['name'] = 'TEC-9 "Glitch" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2438] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1240002,
 		['name'] = 'FabM "Cranium" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2439] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1240003,
 		['name'] = 'M60 "Spaceware" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2440] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1240004,
 		['name'] = 'Berettas "Hexagon" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2441] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1240005,
 		['name'] = 'FAMAS "Stellar Blitz" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2442] = {
+	{
 		['collection'] = 'space_vision',
 		['id'] = 1240006,
 		['name'] = 'AWM "Xenoguard" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2443] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240016,
 		['name'] = 'MP7 "Ridge" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2444] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240017,
 		['name'] = 'FN FAL "Scaleskitter" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2445] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240018,
 		['name'] = 'UMP45 "Arid" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2446] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240019,
 		['name'] = 'MAC10 "Arid" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2447] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240020,
 		['name'] = 'P350 "Sandspirit" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2448] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240021,
 		['name'] = 'SM1014 "Serpent" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2449] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240022,
 		['name'] = 'M4A1 "Serpent" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2450] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240023,
 		['name'] = 'M110 "Harbinger" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2451] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240024,
 		['name'] = 'Desert Eagle "Dust Devil" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2452] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240025,
 		['name'] = 'USP "Mirage Menace" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2453] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240026,
 		['name'] = 'M16 "Dust Devil" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2454] = {
+	{
 		['collection'] = 'sunstrike',
 		['id'] = 1240027,
 		['name'] = 'AKR "Mirage Menace" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2455] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240035,
 		['name'] = 'MP5 "Insanity" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2456] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240036,
 		['name'] = 'M60 "Quantum" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2457] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240037,
 		['name'] = 'Berettas "Hybrid" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2458] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240038,
 		['name'] = 'FabM "Tindalos" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2459] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240039,
 		['name'] = 'G22 "Haunt" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2460] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240040,
 		['name'] = 'M40 "Venom Shade" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2461] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240041,
 		['name'] = 'F/S "Hellspawn" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2462] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240042,
 		['name'] = 'P90 "Revenant" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2463] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240043,
 		['name'] = 'AKR12 "Haunt" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2464] = {
+	{
 		['collection'] = 'subjectx',
 		['id'] = 1240044,
 		['name'] = 'M4 "N-Kai" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2465] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240046,
 		['name'] = 'TEC-9 "Verglas" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2466] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240047,
 		['name'] = 'FN FAL "Verglas" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2467] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240048,
 		['name'] = 'FAMAS "Snow Storm" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2468] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240049,
 		['name'] = 'Berettas "Lumos Shard" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2469] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240050,
 		['name'] = 'M16 "Bigfoot" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2470] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240051,
 		['name'] = 'AKR "Icewing" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2471] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240052,
 		['name'] = 'MP7 "Festal Wrap" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2472] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240053,
 		['name'] = 'AWM "Festal Wrap" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2473] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240054,
 		['name'] = 'P350 "Festal Wrap" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2474] = {
+	{
 		['collection'] = 'frosty_chaos',
 		['id'] = 1240055,
 		['name'] = 'SM1014 "Freezing Gasp" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2475] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240071,
 		['name'] = 'MAC10 "Corrode" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2476] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240072,
 		['name'] = 'USP "Corrode" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2477] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240073,
 		['name'] = 'M110 "Reach Keeper" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2478] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240074,
 		['name'] = 'VAL "Forge" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2479] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240075,
 		['name'] = 'F/S "Toxic" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2480] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240076,
 		['name'] = 'UMP45 "Industrial" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2481] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240077,
 		['name'] = 'M60 "Fatal" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2482] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240078,
 		['name'] = 'SPAS "Dangerous" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2483] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240079,
 		['name'] = 'P90 "Fusion Core" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2484] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240080,
 		['name'] = 'VAL "Oil Sheen" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2485] = {
+	{
 		['collection'] = 'outcast',
 		['id'] = 1240081,
 		['name'] = 'Desert Eagle "Fusion Core" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2486] = {
+	{
 		['collection'] = 'outcast',
 		['craftable'] = 'true',
 		['id'] = 1240082,
@@ -16942,7 +17372,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2487] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240091,
@@ -16950,7 +17380,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2488] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240092,
@@ -16958,7 +17388,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2489] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240093,
@@ -16966,7 +17396,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2490] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240094,
@@ -16974,7 +17404,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2491] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240095,
@@ -16982,7 +17412,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2492] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240096,
@@ -16990,7 +17420,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2493] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240097,
@@ -16998,7 +17428,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2494] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240098,
@@ -17006,7 +17436,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2495] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240099,
@@ -17014,7 +17444,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2496] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240100,
@@ -17022,7 +17452,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2497] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240101,
@@ -17030,7 +17460,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2498] = {
+	{
 		['collection'] = 'chameleon',
 		['craftable'] = 'true',
 		['id'] = 1240102,
@@ -17038,329 +17468,329 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2499] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1240103,
-		['name'] = 'M40 "Daybreak" StatTrack',
+		['name'] = 'M40 "Daybreak" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2500] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1240104,
-		['name'] = 'SM1014 "Triton" StatTrack',
+		['name'] = 'SM1014 "Triton" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2501] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1240105,
-		['name'] = 'MP5 "Water Gun" StatTrack',
+		['name'] = 'MP5 "Water Gun" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2502] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1240106,
-		['name'] = 'FN FAL "Dusk Tide" StatTrack',
+		['name'] = 'FN FAL "Dusk Tide" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2503] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1240107,
-		['name'] = 'VAL "Solstice" StatTrack',
+		['name'] = 'VAL "Solstice" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2504] = {
+	{
 		['collection'] = 'fun_and_sun',
 		['id'] = 1240108,
-		['name'] = 'M16 "Sea Glint" StatTrack',
+		['name'] = 'M16 "Sea Glint" Stattrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2505] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240116,
 		['name'] = 'F/S "Polymer" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2506] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240117,
 		['name'] = 'Berettas "Construction Sector" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2507] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240118,
 		['name'] = 'FAMAS "Oxide" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2508] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240119,
 		['name'] = 'MP7 "Rebellion" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2509] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240120,
 		['name'] = 'P350 "Gearshift" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2510] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240121,
 		['name'] = 'M40 "Skyfall" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2511] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240122,
 		['name'] = 'VAL "Night City" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2512] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240123,
 		['name'] = 'TEC-9 "Gangster" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2513] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240124,
 		['name'] = 'M4 "Ironclad" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2514] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240125,
 		['name'] = 'FabM "Gangster" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2515] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240126,
 		['name'] = 'AWM "Spectral" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2516] = {
+	{
 		['collection'] = 'reforged',
 		['id'] = 1240127,
 		['name'] = 'AKR12 "Emberbird" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2517] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1240134,
 		['name'] = 'M110 "Dark Pact" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2518] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1240135,
 		['name'] = 'USP "Suture" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2519] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1240136,
 		['name'] = 'M16 "Wraithwood" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2520] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1240137,
 		['name'] = 'MAC10 "Arcane Surge" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2521] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1240138,
 		['name'] = 'FN FAL "Astral Rift" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2522] = {
+	{
 		['collection'] = 'nightmare',
 		['id'] = 1240139,
 		['name'] = 'VAL "Widow\'s Weave" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2523] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240145,
 		['name'] = 'P90 "Unstoppable" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2524] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240146,
 		['name'] = 'M4 "Kachi" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2525] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240147,
 		['name'] = 'TEC-9 "Night Slayer" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2526] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240148,
 		['name'] = 'F/S "Pink Shot" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2527] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240149,
 		['name'] = 'M40 "Northern Lights" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2528] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240150,
 		['name'] = 'AKR12 "Hanami" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2529] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240157,
 		['name'] = 'SPAS "Tensai" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2530] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240158,
 		['name'] = 'VAL "Ronin" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2531] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240159,
 		['name'] = 'M4A1 "Sparkling Gaze" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2532] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240162,
 		['name'] = 'AKR "Vermilion" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2533] = {
+	{
 		['collection'] = 'kitsune_dreams',
 		['id'] = 1240163,
 		['name'] = 'Desert Eagle "Vermilion" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2534] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240166,
 		['name'] = 'P350 "Ink Spree" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2535] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240167,
 		['name'] = 'UMP45 "Heatwave" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2536] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240168,
 		['name'] = 'FN FAL "Charred Wood" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2537] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240169,
 		['name'] = 'M60 "Warp" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2538] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240170,
 		['name'] = 'M110 "Grid" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2539] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240171,
 		['name'] = 'MP5 "Tiles" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2540] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240172,
 		['name'] = 'Akimbo Uzi "Spray" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2541] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240173,
 		['name'] = 'USP "Rainforest" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2542] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240174,
 		['name'] = 'FAMAS "Feral" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2543] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240175,
 		['name'] = 'Akimbo Uzi "Toco" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2544] = {
+	{
 		['collection'] = 'prey',
 		['id'] = 1240176,
 		['name'] = 'SPAS "Glide" StatTrack',
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2545] = {
+	{
 		['collection'] = 'prey',
 		['craftable'] = 'true',
 		['id'] = 1240177,
@@ -17368,7 +17798,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2546] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240186,
@@ -17376,7 +17806,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2547] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240187,
@@ -17384,7 +17814,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2548] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240188,
@@ -17392,7 +17822,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2549] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240189,
@@ -17400,7 +17830,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2550] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240190,
@@ -17408,7 +17838,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2551] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240191,
@@ -17416,7 +17846,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2552] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240192,
@@ -17424,7 +17854,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2553] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240193,
@@ -17432,7 +17862,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2554] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240194,
@@ -17440,7 +17870,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2555] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240195,
@@ -17448,7 +17878,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2556] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240196,
@@ -17456,7 +17886,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2557] = {
+	{
 		['collection'] = 'dynasty',
 		['craftable'] = 'true',
 		['id'] = 1240197,
@@ -17464,7 +17894,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2558] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240202,
@@ -17472,7 +17902,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2559] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240203,
@@ -17480,7 +17910,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2560] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240204,
@@ -17488,7 +17918,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2561] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240205,
@@ -17496,7 +17926,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2562] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240206,
@@ -17504,7 +17934,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2563] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240207,
@@ -17512,7 +17942,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2564] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240209,
@@ -17520,7 +17950,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2565] = {
+	{
 		['collection'] = 'event8years',
 		['craftable'] = 'false',
 		['id'] = 1240210,
@@ -17528,7 +17958,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2566] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240212,
@@ -17536,7 +17966,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2567] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240213,
@@ -17544,7 +17974,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2568] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240214,
@@ -17552,7 +17982,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2569] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240215,
@@ -17560,7 +17990,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2570] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240216,
@@ -17568,7 +17998,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2571] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240217,
@@ -17576,7 +18006,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2572] = {
+	{
 		['collection'] = 'esports',
 		['craftable'] = 'false',
 		['id'] = 1240218,
@@ -17584,7 +18014,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2573] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240219,
@@ -17592,7 +18022,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2574] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240220,
@@ -17600,7 +18030,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2575] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240221,
@@ -17608,7 +18038,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2576] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240222,
@@ -17616,7 +18046,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2577] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240223,
@@ -17624,7 +18054,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2578] = {
+	{
 		['collection'] = 'gambit',
 		['craftable'] = 'false',
 		['id'] = 1240224,
@@ -17632,7 +18062,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2579] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240232,
@@ -17640,7 +18070,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2580] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240233,
@@ -17648,7 +18078,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '6',
 	},
-	[2581] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240234,
@@ -17656,7 +18086,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2582] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240235,
@@ -17664,7 +18094,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2583] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240236,
@@ -17672,7 +18102,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2584] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240237,
@@ -17680,7 +18110,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2585] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240238,
@@ -17688,7 +18118,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2586] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240239,
@@ -17696,7 +18126,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2587] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240240,
@@ -17704,7 +18134,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2588] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240241,
@@ -17712,7 +18142,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2589] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240242,
@@ -17720,7 +18150,7 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2590] = {
+	{
 		['collection'] = 'syndicate',
 		['craftable'] = 'false',
 		['id'] = 1240243,
@@ -17728,46 +18158,156 @@ return {
 		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2591] = {
+	{
+		['collection'] = 'syndicate',
+		['craftable'] = 'false',
+		['id'] = 1240244,
+		['name'] = 'AWM "Moonstone" StatTrack',
+		['stattrack'] = 'false',
+		['value'] = '6',
+	},
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1240245,
 		['name'] = 'P90 "Foxfire" StatTrack',
-		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2592] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1240246,
 		['name'] = 'SM1014 "Falling Leaves" StatTrack',
-		['stattrack'] = 'true',
 		['value'] = '3',
 	},
-	[2593] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1240247,
 		['name'] = 'MAC10 "Tempest" StatTrack',
-		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2594] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1240248,
 		['name'] = 'M40 "White Ash" StatTrack',
-		['stattrack'] = 'true',
 		['value'] = '4',
 	},
-	[2595] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1240249,
 		['name'] = 'Desert Eagle "Blossom" StatTrack',
-		['stattrack'] = 'true',
 		['value'] = '5',
 	},
-	[2596] = {
+	{
 		['collection'] = 'syndicate',
 		['id'] = 1240250,
 		['name'] = 'AKR12 "Kensei" StatTrack',
-		['stattrack'] = 'true',
 		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240252,
+		['name'] = 'Mallard "Phantom Pack" StatTrack',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240253,
+		['name'] = 'G22 "Flor de Muertos" StatTrack',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240254,
+		['name'] = 'M4 "Bullets and Roses" StatTrack',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240255,
+		['name'] = 'Akimbo Uzi "Howling Ghost" StatTrack',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240256,
+		['name'] = 'VAL "Rosa Mortal" StatTrack',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240257,
+		['name'] = 'SPAS "Eternal Flow" StatTrack',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240258,
+		['name'] = 'M60 "Horror" StatTrack',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240259,
+		['name'] = 'FAMAS "Raider" StatTrack',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240260,
+		['name'] = 'AWM "Vampire" StatTrack',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240261,
+		['name'] = 'M16 "Naga" StatTrack',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240262,
+		['name'] = 'MP5 "Arcane Surge" StatTrack',
+		['value'] = '4',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240263,
+		['name'] = 'USP "Horror" StatTrack',
+		['value'] = '5',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240264,
+		['name'] = 'UMP45 "Leviathan" StatTrack',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240265,
+		['name'] = 'M110 "Centipede" StatTrack',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240266,
+		['name'] = 'FabM "Fiend" StatTrack',
+		['value'] = '3',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 1240267,
+		['name'] = 'VAL "Phantom Pack" StatTrack',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'esports',
+		['id'] = 240277,
+		['name'] = 'M4A1 "PawPaw" StatTrack',
+		['value'] = '6',
+	},
+	{
+		['collection'] = 'dia_de_muertos',
+		['id'] = 240278,
+		['name'] = 'AKR "La Reina" StatTrack',
+		['value'] = '6',
 	},
 }
