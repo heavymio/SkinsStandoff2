@@ -52,4 +52,5 @@ return {
   {"gambit", "Gambit"},
   {"syndicate", "Syndicate"},
   {"rewind", "Rewind"},
+  {"dia_de_muertos", "Dia de Muertos"},
 }
